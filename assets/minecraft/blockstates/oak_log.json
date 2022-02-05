@@ -1,0 +1,37 @@
+{
+	"variants": {
+		"axis=y": [
+			{ "model": "block/oak_log", "weight": 40 },
+			{ "model": "3d/log/oak_0", "weight": 3 },
+			{ "model": "3d/log/oak_1", "weight": 3 },
+			{ "model": "3d/log/oak_2" },
+			{ "model": "3d/log/oak_3" },
+			{ "model": "3d/log/oak_4" },
+			{ "model": "3d/log/oak_5" },
+			{ "model": "3d/log/oak_6" },
+			{ "model": "3d/log/oak_7" }
+		],
+		"axis=z": [
+			{ "model": "block/oak_log", "x": 90, "weight": 40 },
+			{ "model": "3d/log/oak_0", "weight": 3, "x": 90 },
+			{ "model": "3d/log/oak_1", "weight": 3, "x": 90 },
+			{ "model": "3d/log/oak_2", "x": 90 },
+			{ "model": "3d/log/oak_3", "x": 90 },
+			{ "model": "3d/log/oak_4", "x": 90 },
+			{ "model": "3d/log/oak_5", "x": 90 },
+			{ "model": "3d/log/oak_6", "x": 90 },
+			{ "model": "3d/log/oak_7", "x": 90 }
+		],
+		"axis=x": [
+			{ "model": "block/oak_log", "x": 90, "y": 90, "weight": 40 },
+			{ "model": "3d/log/oak_0", "weight": 3, "x": 90, "y": 90 },
+			{ "model": "3d/log/oak_1", "weight": 3, "x": 90, "y": 90 },
+			{ "model": "3d/log/oak_2", "x": 90, "y": 90 },
+			{ "model": "3d/log/oak_3", "x": 90, "y": 90 },
+			{ "model": "3d/log/oak_4", "x": 90, "y": 90 },
+			{ "model": "3d/log/oak_5", "x": 90, "y": 90 },
+			{ "model": "3d/log/oak_6", "x": 90, "y": 90 },
+			{ "model": "3d/log/oak_7", "x": 90, "y": 90 }
+		]
+	}
+}

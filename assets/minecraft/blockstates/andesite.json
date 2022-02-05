@@ -1,0 +1,13 @@
+
+{
+	"variants": {
+		"": [
+			{ "model": "block/andesite" },
+			{ "model": "block/andesite", "y": 270, "x": 90 },
+			{ "model": "block/andesite", "y": 180, "x": 180 },
+			{ "model": "block/andesite", "y": 180, "x": 90 },
+			{ "model": "block/andesite", "y": 90, "x": 90 },
+			{ "model": "block/andesite", "y": 90, "x": 180 }
+		]
+	}
+}

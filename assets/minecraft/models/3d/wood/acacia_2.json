@@ -1,0 +1,7 @@
+{
+    "parent": "3d/log/log_2",
+    "textures": {
+        "3D": "3d/log/acacia_0",
+        "particle": "block/acacia_log", "end": "#particle"
+    }
+}

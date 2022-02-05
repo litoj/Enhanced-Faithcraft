@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"half=lower": [{ "model": "block/tall_grass_bottom" }],
+		"half=upper": [
+			{ "model": "block/tall_grass_top" },
+			{ "model": "block/tall_grass_top_0" },
+			{ "model": "block/tall_grass_top_1" },
+			{ "model": "block/tall_grass_top_2" }
+		]
+	}
+}

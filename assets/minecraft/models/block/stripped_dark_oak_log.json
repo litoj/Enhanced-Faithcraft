@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "3d/log/log",
+	"textures": {
+		"end": "block/stripped_dark_oak_log_top",
+		"particle": "block/stripped_dark_oak_log"
+	}
+}

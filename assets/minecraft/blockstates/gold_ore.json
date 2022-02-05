@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "block/gold_ore" },
+		{ "model": "block/ores/gold_0" },
+		{ "model": "block/ores/gold_1" },
+		{ "model": "block/ores/gold_2" },
+		{ "model": "block/ores/gold_3" } ]
+    }
+}

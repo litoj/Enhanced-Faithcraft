@@ -1,0 +1,4 @@
+method=ctm
+connect=tile
+tiles=0-46
+matchTiles=oak_log_top

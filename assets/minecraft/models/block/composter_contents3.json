@@ -1,0 +1,19 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http:/www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"textures": {
+	"compost":		"block/composter_compost",
+	"particle":		"block/composter_side"
+},
+"elements":[
+	{
+		"__comment": "Outside",
+		"from": [1,7,1],
+		"to": [15,7,15],
+		"faces": {
+                "up":		{"texture":"#compost","cullface":"up"}
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "3d/log/log",
+    "textures": {
+        "end": "block/jungle_log_top",
+        "particle": "block/jungle_log"
+    }
+}

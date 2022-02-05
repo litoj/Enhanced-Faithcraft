@@ -1,0 +1,4 @@
+method=ctm
+connect=tile
+tiles=0-46
+matchTiles=spruce_log_top

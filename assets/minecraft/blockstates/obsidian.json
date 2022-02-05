@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [ { "model": "block/obsidian" },
+			{ "model": "block/obsidian", "y": 90},
+			{ "model": "block/obsidian", "y": 180},
+			{ "model": "block/obsidian", "y": 270},
+			{ "model": "block/obsidian_mirrored" },
+			{ "model": "block/obsidian_mirrored", "y": 90},
+			{ "model": "block/obsidian_mirrored", "y": 180},
+			{ "model": "block/obsidian_mirrored", "y": 270} ]
+    }
+}

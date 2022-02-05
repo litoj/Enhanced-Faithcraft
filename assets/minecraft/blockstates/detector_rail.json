@@ -1,0 +1,17 @@
+{
+	"__comment": "Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+		"powered=false,shape=north_south": { "model": "3d/rail/detector_flat_off" },
+		"powered=false,shape=east_west": { "model": "3d/rail/detector_flat_off", "y": 90 },
+		"powered=false,shape=ascending_east": { "model": "3d/rail/detector_raised_off_ne", "y": 90 },
+		"powered=false,shape=ascending_west": { "model": "3d/rail/detector_raised_off_sw", "y": 90 },
+		"powered=false,shape=ascending_north": { "model": "3d/rail/detector_raised_off_ne" },
+		"powered=false,shape=ascending_south": { "model": "3d/rail/detector_raised_off_sw" },
+		"powered=true,shape=north_south": { "model": "3d/rail/detector_flat_on" },
+		"powered=true,shape=east_west": { "model": "3d/rail/detector_flat_on", "y": 90 },
+		"powered=true,shape=ascending_east": { "model": "3d/rail/detector_raised_on_ne", "y": 90 },
+		"powered=true,shape=ascending_west": { "model": "3d/rail/detector_raised_on_sw", "y": 90 },
+		"powered=true,shape=ascending_north": { "model": "3d/rail/detector_raised_on_ne" },
+		"powered=true,shape=ascending_south": { "model": "3d/rail/detector_raised_on_sw" }
+	}
+}

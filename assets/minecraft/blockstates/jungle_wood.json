@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "axis=y":  [ { "model": "block/jungle_wood", "weight": 20 },
+				{ "model": "3d/wood/jungle_0", "weight":3 },
+				{ "model": "3d/wood/jungle_1", "weight":3 },
+				{ "model": "3d/wood/jungle_2" },
+				{ "model": "3d/wood/jungle_3" },
+				{ "model": "3d/wood/jungle_4" },
+				{ "model": "3d/wood/jungle_5" },
+				{ "model": "3d/wood/jungle_6" },
+				{ "model": "3d/wood/jungle_7" } ],
+			"axis=z":  [ { "model": "block/jungle_wood", "x": 90, "weight": 20 },
+				{ "model": "3d/wood/jungle_0", "weight":3, "x": 90 }, 
+				{ "model": "3d/wood/jungle_1", "weight":3, "x": 90 },
+				{ "model": "3d/wood/jungle_2", "x": 90 },
+				{ "model": "3d/wood/jungle_3", "x": 90 },
+				{ "model": "3d/wood/jungle_4", "x": 90 },
+				{ "model": "3d/wood/jungle_5", "x": 90 },
+				{ "model": "3d/wood/jungle_6", "x": 90 },
+				{ "model": "3d/wood/jungle_7", "x": 90 } ], 
+			"axis=x":  [ { "model": "block/jungle_wood", "x": 90, "y": 90, "weight": 20 },
+				{ "model": "3d/wood/jungle_0", "weight":3, "x": 90, "y": 90 },
+				{ "model": "3d/wood/jungle_1", "weight":3, "x": 90, "y": 90 },
+				{ "model": "3d/wood/jungle_2", "x": 90, "y": 90 },
+				{ "model": "3d/wood/jungle_3", "x": 90, "y": 90 },
+				{ "model": "3d/wood/jungle_4", "x": 90, "y": 90 },
+				{ "model": "3d/wood/jungle_5", "x": 90, "y": 90 },
+				{ "model": "3d/wood/jungle_6", "x": 90, "y": 90 },
+				{ "model": "3d/wood/jungle_7", "x": 90, "y": 90 } ]
+         }
+}

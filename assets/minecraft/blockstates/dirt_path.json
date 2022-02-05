@@ -1,0 +1,26 @@
+{
+	"variants": {
+		"": [
+			{ "model": "minecraft:block/dirt_path" },
+			{ "model": "minecraft:block/dirty_side_blocks/path_0" },
+			{ "model": "minecraft:block/dirty_side_blocks/path_1" },
+			{ "model": "minecraft:block/dirty_side_blocks/path_2" },
+			{ "model": "minecraft:block/dirty_side_blocks/path_3" },
+			{ "model": "minecraft:block/dirt_path", "y": 90 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_0", "y": 90 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_1", "y": 90 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_2", "y": 90 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_3", "y": 90 },
+			{ "model": "minecraft:block/dirt_path", "y": 180 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_0", "y": 180 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_1", "y": 180 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_2", "y": 180 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_3", "y": 180 },
+			{ "model": "minecraft:block/dirt_path", "y": 270 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_0", "y": 270 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_1", "y": 270 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_2", "y": 270 },
+			{ "model": "minecraft:block/dirty_side_blocks/path_3", "y": 270 }
+		]
+	}
+}

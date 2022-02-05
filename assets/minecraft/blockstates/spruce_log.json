@@ -1,0 +1,37 @@
+{
+	"variants": {
+		"axis=y": [
+			{ "model": "block/spruce_log", "weight": 40 },
+			{ "model": "3d/log/spruce_0", "weight": 3 },
+			{ "model": "3d/log/spruce_1", "weight": 3 },
+			{ "model": "3d/log/spruce_2" },
+			{ "model": "3d/log/spruce_3" },
+			{ "model": "3d/log/spruce_4" },
+			{ "model": "3d/log/spruce_5" },
+			{ "model": "3d/log/spruce_6" },
+			{ "model": "3d/log/spruce_7" }
+		],
+		"axis=z": [
+			{ "model": "block/spruce_log", "x": 90, "weight": 40 },
+			{ "model": "3d/log/spruce_0", "weight": 3, "x": 90 },
+			{ "model": "3d/log/spruce_1", "weight": 3, "x": 90 },
+			{ "model": "3d/log/spruce_2", "x": 90 },
+			{ "model": "3d/log/spruce_3", "x": 90 },
+			{ "model": "3d/log/spruce_4", "x": 90 },
+			{ "model": "3d/log/spruce_5", "x": 90 },
+			{ "model": "3d/log/spruce_6", "x": 90 },
+			{ "model": "3d/log/spruce_7", "x": 90 }
+		],
+		"axis=x": [
+			{ "model": "block/spruce_log", "x": 90, "y": 90, "weight": 40 },
+			{ "model": "3d/log/spruce_0", "weight": 3, "x": 90, "y": 90 },
+			{ "model": "3d/log/spruce_1", "weight": 3, "x": 90, "y": 90 },
+			{ "model": "3d/log/spruce_2", "x": 90, "y": 90 },
+			{ "model": "3d/log/spruce_3", "x": 90, "y": 90 },
+			{ "model": "3d/log/spruce_4", "x": 90, "y": 90 },
+			{ "model": "3d/log/spruce_5", "x": 90, "y": 90 },
+			{ "model": "3d/log/spruce_6", "x": 90, "y": 90 },
+			{ "model": "3d/log/spruce_7", "x": 90, "y": 90 }
+		]
+	}
+}

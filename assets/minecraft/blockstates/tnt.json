@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": [{ "model": "block/tnt" }, { "model": "block/tnt_0" }, { "model": "block/tnt_1" }]
+	}
+}

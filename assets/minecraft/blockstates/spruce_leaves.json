@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "3d/leaves_bushes/spruce_0", "weight": 4 },
+			{ "model": "3d/leaves_bushes/spruce_1" },
+			{ "model": "3d/leaves_bushes/spruce_2" },
+			{ "model": "3d/leaves_bushes/spruce_3" }
+		]
+	}
+}

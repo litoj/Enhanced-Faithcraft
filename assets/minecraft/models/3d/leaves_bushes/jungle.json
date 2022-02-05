@@ -1,0 +1,8 @@
+{
+	"parent": "3d/leaves_version/current",
+	"textures": {
+		"all": "block/jungle_leaves",
+		"top": "3d/leaves_bushes/jungle_top",
+		"bottom": "3d/leaves_bushes/jungle_bottom"
+	}
+}

@@ -1,0 +1,4 @@
+{
+	"__comment": "Rename file to current.json to enable LIGHT version.",
+	"parent": "block/leaves"
+}

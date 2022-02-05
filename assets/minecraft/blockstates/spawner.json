@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/spawner" },
+		{ "model": "block/spawner/0" },
+		{ "model": "block/spawner/1" },
+		{ "model": "block/spawner/2" },
+		{ "model": "block/spawner/3" },
+		{ "model": "block/spawner/4" },
+		{ "model": "block/spawner/5" },
+		{ "model": "block/spawner/6" } ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"half=lower": [
+			{ "model": "block/lilac_bottom" },
+			{ "model": "block/lilac/bottom_0" },
+			{ "model": "block/lilac/bottom_1" },
+			{ "model": "block/lilac/bottom_2" },
+			{ "model": "block/lilac/bottom_3" },
+			{ "model": "block/lilac/bottom_4" }
+		],
+		"half=upper": [
+			{ "model": "block/lilac_top" },
+			{ "model": "block/lilac/top_0" },
+			{ "model": "block/lilac/top_1" },
+			{ "model": "block/lilac/top_2" },
+			{ "model": "block/lilac/top_3" },
+			{ "model": "block/lilac/top_4" }
+		]
+	}
+}

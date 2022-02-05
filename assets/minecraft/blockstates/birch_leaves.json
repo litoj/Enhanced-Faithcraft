@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"": [
+			{ "model": "3d/leaves_bushes/birch", "x": 90 },
+			{ "model": "3d/leaves_bushes/birch", "y": 90, "x": 90 },
+			{ "model": "3d/leaves_bushes/birch", "x": 270 },
+			{ "model": "3d/leaves_bushes/birch", "y": 90, "x": 270 },
+			{ "model": "3d/leaves_bushes/birch", "weight": 5 }
+		]
+	}
+}
