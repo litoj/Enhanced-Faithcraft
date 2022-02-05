@@ -15,9 +15,11 @@ A good tip: rename the previous version to the one absent,
 e.g.: file names are: `'current', 'heavy_culling', 'light', 'medium'`
 so the current version is heavy_culling
 
-    I want heavy version so I:
-    rename 'current' to 'heavy_no_culling'
-    rename 'heavy_culling' to 'current'
+```
+I want heavy version so I:
+rename 'current' to 'heavy_no_culling'
+rename 'heavy_culling' to 'current'
+```
 
 ## Credits
 
@@ -30,7 +32,7 @@ Block models from:
 - [Unobtrusive Shields](https://www.curseforge.com/minecraft/texture-packs/clouds-unobtrusive-shields)
 - [Fences+](https://www.curseforge.com/minecraft/texture-packs/fences/)
 
-Other texture sources packs/addons:
+Other texture sources - packs/addons:
 
 - [Natural Tools](https://faithful.team/natural-tools)
 - [Stone Brick Variants](https://faithful.team/stone-brick-variation)
@@ -46,5 +48,5 @@ Sounds from:
 - [AudioCraft sounds](https://www.curseforge.com/minecraft/texture-packs/audiocraft)
 
 Huge love to all the creators, their work was inspirational to me and added up to, at least in my
-oppinion, wonderful combination. Enjoy the sounds but be aware of extreme AudioCraft sounds loudness
-as I didn't want to lower the sound quality by revoluming all the used sounds.
+oppinion, a wonderful combination. Enjoy the sounds but be aware of extreme AudioCraft sounds loudness
+as I didn't want to lower the sound quality by adjusting all the used sounds.
