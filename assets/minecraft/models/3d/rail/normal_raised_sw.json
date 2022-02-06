@@ -6,8 +6,8 @@
 	"rail": 	"3d/rail/top",
 	"tie": 		"3d/rail/bottom",
 	"particle":	"block/rail"
-    },
-	 
+}, 
+"ambientocclusion":false,
 "elements":[
 	{
 		"__comment": "Left rail outer",

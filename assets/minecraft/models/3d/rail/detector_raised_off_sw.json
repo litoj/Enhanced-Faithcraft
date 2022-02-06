@@ -7,7 +7,8 @@
 	"tie": 		"3d/rail/bottom",
 	"redstone": "3d/rail/detector_off",
 	"particle":	"block/detector_rail"
-    },
+}, 
+"ambientocclusion":false,
 "elements":[
 	{
 		"__comment": "Detector north",

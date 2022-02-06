@@ -1,7 +1,4 @@
 {
-	"parent": "block/dirty_side_blocks/grass_overlay",
-	"textures": {
-		"overlay": "block/dirty_block_side/grass_overlay_4",
-		"overlay_top": "block/grass_block/overlay_4"
-	}
+	"parent": "block/grass_block",
+	"textures": { "overlay": "block/dirty_block_side/grass_overlay_4" }
 }

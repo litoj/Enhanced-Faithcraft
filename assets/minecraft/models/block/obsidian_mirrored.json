@@ -1,6 +1,1 @@
-{
-    "parent": "block/cube_mirrored_all",
-    "textures": {
-        "all": "block/obsidian"
-    }
-}
+{ "parent": "block/cube_mirrored_all", "textures": { "all": "block/obsidian" } }

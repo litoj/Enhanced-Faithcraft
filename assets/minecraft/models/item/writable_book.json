@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "item/book",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/writable_book_custom",

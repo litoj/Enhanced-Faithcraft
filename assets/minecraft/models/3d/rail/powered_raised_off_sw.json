@@ -8,8 +8,8 @@
 	"redstone": "3d/rail/activator_off",
 	"golden": 	"3d/rail/powered",
 	"particle":	"block/powered_rail"
-    },
-	 
+}, 
+"ambientocclusion":false,
 "elements":[
 	{
 		"__comment": "Left rail outer",

@@ -6,8 +6,8 @@
 	"rail": 	"3d/rail/corner_top",
 	"tie": 		"3d/rail/corner_bottom",
 	"particle":	"block/rail_corner"
-    },
-	 
+}, 
+"ambientocclusion":false,
 "elements":[
 	{
 		"__comment": "Left rail part 1 outer",

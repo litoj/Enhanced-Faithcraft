@@ -7,8 +7,8 @@
 	"tie": 		"3d/rail/bottom",
 	"redstone": "3d/rail/activator_on",
 	"particle":	"block/activator_rail_on"
-    },
-	 
+}, 
+"ambientocclusion":false,
 "elements":[
 	{
 		"__comment": "Left rail outer",

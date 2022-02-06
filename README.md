@@ -20,7 +20,7 @@ to change the version, go to
 and rename the version you want to 'current'
 A good tip: rename the previous version to the one absent,
 e.g.: file names are: `'current', 'heavy_culling', 'light', 'medium'`
-so the current version is heavy_culling
+so the current version is heavy\_culling
 
 ```
 I want heavy version so I:
@@ -33,7 +33,7 @@ rename 'heavy_culling' to 'current'
 Block models from:
 
 - [Jerm's Better leaves](https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0/screenshots)
-- [Know2Good's x16 3D pack](https://resourcepack.net/default-3d-resource-pack/)
+- [Default 3D](https://www.curseforge.com/minecraft/texture-packs/default-3d-16x)
 - [Natural-Faithful](https://github.com/Compliance-Addons/NaturalFaithful)
 - [Dripstones 3D](https://www.curseforge.com/minecraft/texture-packs/dripstones-3d)
 - [Unobtrusive Shields](https://www.curseforge.com/minecraft/texture-packs/clouds-unobtrusive-shields)
