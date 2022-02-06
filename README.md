@@ -7,6 +7,11 @@
 - please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Compliance to make the Juknum's texture work
   properly
 
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/54900518/152662090-b631838d-b08d-4958-a99b-ca1129525d54.png)
+![image](https://user-images.githubusercontent.com/54900518/152662155-ff6fb4b1-f4ee-43e8-a8aa-432731044501.png)
+
 ## Config
 
 This pack has 4 variants for better performace or better looks of leaves,
