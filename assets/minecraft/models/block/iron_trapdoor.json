@@ -3,7 +3,7 @@
 	"parent": "block/thin_block",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "custom/block/trapdoors/iron/side",
+		"1": "3d/trapdoor/iron/side",
 		"particle": "block/iron_trapdoor",
 		"block": "block/iron_trapdoor"
 	},

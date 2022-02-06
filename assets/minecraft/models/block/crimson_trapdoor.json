@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/crimson_trapdoor",
-		"1": "custom/block/trapdoors/crimson/front",
-		"2": "custom/block/trapdoors/crimson/side",
+		"1": "3d/trapdoor/crimson/front",
+		"2": "3d/trapdoor/crimson/side",
 		"particle": "block/crimson_trapdoor"
 	},
 	"elements": [

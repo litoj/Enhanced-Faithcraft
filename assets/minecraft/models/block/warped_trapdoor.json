@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Juknum",
 	"textures": {
 		"0": "block/warped_trapdoor",
-		"1": "custom/block/trapdoors/warped/front",
-		"2": "custom/block/trapdoors/warped/side",
+		"1": "3d/trapdoor/warped/front",
+		"2": "3d/trapdoor/warped/side",
 		"particle": "block/warped_trapdoor"
 	},
 	"elements": [

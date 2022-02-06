@@ -2,8 +2,8 @@
 	"credit": "Designed by Progical",
 	"textures": {
 		"0": "block/jungle_trapdoor",
-		"1": "custom/block/trapdoors/jungle/front",
-		"2": "custom/block/trapdoors/jungle/side",
+		"1": "3d/trapdoor/jungle/front",
+		"2": "3d/trapdoor/jungle/side",
 		"particle": "block/jungle_trapdoor"
 	},
 	"elements": [

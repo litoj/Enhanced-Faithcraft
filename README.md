@@ -1,9 +1,11 @@
 # Enhanced Faithcraft
 
-- Faithful x32 is a dependency, this is just an extensive addon
+- [Compliance x32](https://compliancepack.net/compliance32x/latest) is a dependency, this is just an extensive addon
 - Optifine is not required, but enables more textures and makes the game look better
 - works with Continuity mod
 - support for FabricSkyBoxes, but Optifine looks better
+- please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Compliance to make the Juknum's texture work
+  properly
 
 ## Config
 
