@@ -1,6 +1,5 @@
 {
 	"credit": "Designed by Progical",
-	"ambientocclusion": false,
 	"textures": {
 		"0": "block/carved_pumpkin",
 		"1": "block/pumpkin_side",
