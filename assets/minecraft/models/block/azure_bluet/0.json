@@ -1,6 +1,1 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "block/azure_bluet/0"
-    }
-}
+{ "parent": "block/azure_bluet", "textures": { "cross": "3d/flower/azure_bluet/0" } }

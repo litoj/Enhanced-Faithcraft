@@ -1,0 +1,5 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/orange_tulip",
+	"textures": { "cross": "3d/flower/pink_tulip" }
+}

@@ -34,6 +34,7 @@ Block models from:
 
 - [Jerm's Better leaves](https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0/screenshots)
 - [Default 3D](https://www.curseforge.com/minecraft/texture-packs/default-3d-16x)
+- [Compliance/Faithful 3D](https://github.com/Faithful3D/Java-32x/tree/1.18)
 - [Natural-Faithful](https://github.com/Compliance-Addons/NaturalFaithful)
 - [Dripstones 3D](https://www.curseforge.com/minecraft/texture-packs/dripstones-3d)
 - [Unobtrusive Shields](https://www.curseforge.com/minecraft/texture-packs/clouds-unobtrusive-shields)
