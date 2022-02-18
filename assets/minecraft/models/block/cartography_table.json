@@ -5,14 +5,14 @@
 "parent": "block/block",
 
 "textures": {
-   "top": 		"3d/gui/cartography_top",
-   "north":		"block/cartography_table_side2",
-   "east": 		"block/cartography_table_side3",
-   "south":		"block/cartography_table_side3",
-   "west": 		"block/cartography_table_side1",
+  "top": 		"3d/gui/cartography_top",
+  "north":		"block/cartography_table_side2",
+  "east": 		"block/cartography_table_side3",
+  "south":		"block/cartography_table_side3",
+  "west": 		"block/cartography_table_side1",
 	"bottom":	"block/dark_oak_planks",
 	"tools":		"3d/gui/cartography_tools",
-   "particle": "block/cartography_table_side3"
+  "particle": "block/cartography_table_side3"
 },
 "elements":[
 	{

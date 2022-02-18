@@ -8,6 +8,7 @@
 	"ambientocclusion": false,
 	"elements": [
 		{
+			"shade": false,
 			"from": [8, 0, 0],
 			"to": [8, 14, 16],
 			"rotation": { "angle": 0, "axis": "y", "origin": [8, 6, 8] },
@@ -17,6 +18,7 @@
 			}
 		},
 		{
+			"shade": false,
 			"from": [0, 0, 8],
 			"to": [16, 14, 8],
 			"rotation": { "angle": 0, "axis": "y", "origin": [8, 6, 8] },

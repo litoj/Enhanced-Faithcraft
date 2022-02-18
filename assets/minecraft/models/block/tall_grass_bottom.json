@@ -5,6 +5,7 @@
 		"1": "block/tall_grass_bottom",
 		"particle": "#0"
 	},
+	"ambientocclusion": false,
 	"elements": [
 		{
 			"shade": false,

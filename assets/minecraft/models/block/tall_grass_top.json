@@ -5,6 +5,7 @@
 		"2": "#cross",
 		"particle": "#2"
 	},
+	"ambientocclusion": false,
 	"elements": [
 		{
 			"shade": false,
