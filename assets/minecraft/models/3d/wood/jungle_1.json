@@ -1,7 +1,6 @@
 {
-    "parent": "3d/log/log_1",
+    "parent": "block/cube_all",
     "textures": {
-        "3D": "3d/log/jungle_0",
-        "particle": "block/jungle_log", "end": "#particle"
+        "all": "3d/log/jungle_1"
     }
 }

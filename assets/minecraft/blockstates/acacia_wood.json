@@ -1,31 +1,19 @@
 {
-    "variants": {
-        "axis=y":  [ { "model": "block/acacia_wood", "weight":40 },
-				{ "model": "3d/wood/acacia_0", "weight":3 },
-				{ "model": "3d/wood/acacia_1", "weight":3 },
-				{ "model": "3d/wood/acacia_2" },
-				{ "model": "3d/wood/acacia_3" },
-				{ "model": "3d/wood/acacia_4" },
-				{ "model": "3d/wood/acacia_5" },
-				{ "model": "3d/wood/acacia_6" },
-				{ "model": "3d/wood/acacia_7" } ], 
-			"axis=z":  [ { "model": "block/acacia_wood", "x": 90, "weight":40 },
-				{ "model": "3d/wood/acacia_0", "weight":3, "x": 90 }, 
-				{ "model": "3d/wood/acacia_1", "weight":3, "x": 90 },
-				{ "model": "3d/wood/acacia_2", "x": 90 },
-				{ "model": "3d/wood/acacia_3", "x": 90 },
-				{ "model": "3d/wood/acacia_4", "x": 90 },
-				{ "model": "3d/wood/acacia_5", "x": 90 },
-				{ "model": "3d/wood/acacia_6", "x": 90 },
-				{ "model": "3d/wood/acacia_7", "x": 90 } ],
-			"axis=x":  [ { "model": "block/acacia_wood", "x": 90, "y": 90, "weight":40 },
-				{ "model": "3d/wood/acacia_0", "weight":3, "x": 90, "y": 90 },
-				{ "model": "3d/wood/acacia_1", "weight":3, "x": 90, "y": 90 },
-				{ "model": "3d/wood/acacia_2", "x": 90, "y": 90 },
-				{ "model": "3d/wood/acacia_3", "x": 90, "y": 90 },
-				{ "model": "3d/wood/acacia_4", "x": 90, "y": 90 },
-				{ "model": "3d/wood/acacia_5", "x": 90, "y": 90 },
-				{ "model": "3d/wood/acacia_6", "x": 90, "y": 90 },
-				{ "model": "3d/wood/acacia_7", "x": 90, "y": 90 } ]
-         }
+	"variants": {
+		"axis=y": [
+			{ "model": "block/acacia_wood", "weight": 40 },
+			{ "model": "3d/wood/acacia_1" },
+			{ "model": "3d/wood/acacia_2" }
+		],
+		"axis=z": [
+			{ "model": "block/acacia_wood", "x": 90, "weight": 40 },
+			{ "model": "3d/wood/acacia_1", "x": 90 },
+			{ "model": "3d/wood/acacia_2", "x": 90 }
+		],
+		"axis=x": [
+			{ "model": "block/acacia_wood", "x": 90, "y": 90, "weight": 40 },
+			{ "model": "3d/wood/acacia_1", "x": 90, "y": 90 },
+			{ "model": "3d/wood/acacia_2", "x": 90, "y": 90 }
+		]
+	}
 }
