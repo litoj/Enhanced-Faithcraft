@@ -9,13 +9,13 @@
 	"elements": [
 		{
 			"name": "Center full",
-			"from": [0, 0.75, 0.001],
-			"to": [16, 2.25, 15.991],
+			"from": [3, 0.75, 0.001],
+			"to": [13, 2.25, 15.999],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 1.5], "rotation": 180, "texture": "#main", "cullface": "north"},
-				"south": {"uv": [0, 0, 16, 1.5], "texture": "#main", "cullface": "south"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#main"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#main"}
+				"north": {"uv": [3, 0, 13, 1.5], "rotation": 180, "texture": "#main", "cullface": "north"},
+				"south": {"uv": [3, 0, 13, 1.5], "texture": "#main", "cullface": "south"},
+				"up": {"uv": [3, 0, 13, 16], "texture": "#main"},
+				"down": {"uv": [3, 0, 13, 16], "texture": "#main", "cullface": "down"}
 			}
 		},
 		{
