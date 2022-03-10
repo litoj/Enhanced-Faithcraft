@@ -1,15 +1,17 @@
 {
-	"__comment": "Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+	"comment": "Designed by Juknum",
 	"variants": {
-		"shape=north_south": { "model": "3d/rail/normal_flat" },
-		"shape=east_west": { "model": "3d/rail/normal_flat", "y": 90 },
-		"shape=ascending_east": { "model": "3d/rail/normal_raised_ne", "y": 90 },
-		"shape=ascending_west": { "model": "3d/rail/normal_raised_sw", "y": 90 },
-		"shape=ascending_north": { "model": "3d/rail/normal_raised_ne" },
-		"shape=ascending_south": { "model": "3d/rail/normal_raised_sw" },
-		"shape=south_east": [{ "model": "3d/rail/curved" }],
-		"shape=south_west": [{ "model": "3d/rail/curved", "y": 90 }],
-		"shape=north_west": [{ "model": "3d/rail/curved", "y": 180 }],
-		"shape=north_east": [{ "model": "3d/rail/curved", "y": 270 }]
+		"shape=north_south": { "model": "minecraft:3d/rail/flat" },
+		"shape=east_west": { "model": "minecraft:3d/rail/flat", "y": 90 },
+
+		"shape=ascending_east": { "model": "minecraft:3d/rail/raised", "y": 90 },
+		"shape=ascending_west": { "model": "minecraft:3d/rail/raised", "y": -90 },
+		"shape=ascending_north": { "model": "minecraft:3d/rail/raised" },
+		"shape=ascending_south": { "model": "minecraft:3d/rail/raised", "y": 180 },
+
+		"shape=south_east": { "model": "minecraft:3d/rail/corner" },
+		"shape=south_west": { "model": "minecraft:3d/rail/corner", "y": 90 },
+		"shape=north_west": { "model": "minecraft:3d/rail/corner", "y": 180 },
+		"shape=north_east": { "model": "minecraft:3d/rail/corner", "y": -90 }
 	}
 }
