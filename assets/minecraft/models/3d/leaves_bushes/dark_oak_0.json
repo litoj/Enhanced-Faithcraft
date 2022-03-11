@@ -1,5 +1,5 @@
 {
-	"parent": "3d/leaves_version/current",
+	"parent": "3d/leaves_version/current/0",
 	"textures": {
 		"all": "block/dark_oak_leaves",
 		"top": "3d/leaves_bushes/dark_oak_top",

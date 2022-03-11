@@ -1,11 +1,16 @@
 {
 	"variants": {
 		"": [
-			{ "model": "3d/leaves_bushes/jungle", "x": 90 },
-			{ "model": "3d/leaves_bushes/jungle", "y": 90, "x": 90 },
-			{ "model": "3d/leaves_bushes/jungle", "x": 270 },
-			{ "model": "3d/leaves_bushes/jungle", "y": 90, "x": 270 },
-			{ "model": "3d/leaves_bushes/jungle", "weight": 5 }
+			{ "model": "3d/leaves_bushes/jungle_0", "x": 90 },
+			{ "model": "3d/leaves_bushes/jungle_0", "y": 90, "x": 90 },
+			{ "model": "3d/leaves_bushes/jungle_0", "x": 270 },
+			{ "model": "3d/leaves_bushes/jungle_0", "y": 90, "x": 270 },
+			{ "model": "3d/leaves_bushes/jungle_0", "weight": 5 },
+			{ "model": "3d/leaves_bushes/jungle_1", "x": 90 },
+			{ "model": "3d/leaves_bushes/jungle_1", "y": 90, "x": 90 },
+			{ "model": "3d/leaves_bushes/jungle_1", "x": 270 },
+			{ "model": "3d/leaves_bushes/jungle_1", "y": 90, "x": 270 },
+			{ "model": "3d/leaves_bushes/jungle_1", "weight": 5 }
 		]
 	}
 }

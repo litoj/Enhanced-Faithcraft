@@ -1,0 +1,8 @@
+{
+	"parent": "3d/leaves_version/current/1",
+	"textures": {
+		"all": "block/acacia_leaves",
+		"top": "3d/leaves_bushes/acacia_top",
+		"bottom": "3d/leaves_bushes/acacia_bottom"
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "#all"
+	},
+	"elements": [
+		{
+			"name": "Element",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "west", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"name": "bottom1",
+			"from": [8.0375, -8, -8.075],
+			"to": [8.0385, 24, 23.925],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"name": "bottom2",
+			"from": [-7.8875, -8, 8.025],
+			"to": [24.1125, 24, 8.026],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"name": "top1",
+			"from": [-8.0876, -8, 8.0498],
+			"to": [23.9124, 24, 8.0508],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up", "tintindex": 0}
+			}
+		},
+		{
+			"name": "top2",
+			"from": [7.9999, -8, -8.1125],
+			"to": [8.0009, 24, 23.8875],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up", "tintindex": 0}
+			}
+		}
+	]
+}

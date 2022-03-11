@@ -14,19 +14,11 @@
 
 ## Config
 
-This pack has 4 variants for better performace or better looks of leaves,
-to change the version, go to
-`assets/minecraft/models/3d/leaves_version`
-and rename the version you want to 'current'
-A good tip: rename the previous version to the one absent,
-e.g.: file names are: `'current', 'heavy_culling', 'light', 'medium'`
-so the current version is heavy\_culling
+This pack has 4 variants for better performace or better looks of leaves, to change the version, go to
+`assets/minecraft/models/3d/leaves_version` and rename the version you want to 'current' A good tip: rename the
+previous version to the one absent, available versions are: `light`, `medium`, `heavy`, `extreme`
 
-```
-I want heavy version so I:
-rename 'current' to 'heavy_no_culling'
-rename 'heavy_culling' to 'current'
-```
+Suggested version is `heavy`.
 
 ## Credits
 

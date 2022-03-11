@@ -1,11 +1,16 @@
 {
 	"variants": {
 		"": [
-			{ "model": "3d/leaves_bushes/oak", "x": 90 },
-			{ "model": "3d/leaves_bushes/oak", "y": 90, "x": 90 },
-			{ "model": "3d/leaves_bushes/oak", "x": 270 },
-			{ "model": "3d/leaves_bushes/oak", "y": 90, "x": 270 },
-			{ "model": "3d/leaves_bushes/oak", "weight": 5 }
+			{ "model": "3d/leaves_bushes/oak_0", "x": 90 },
+			{ "model": "3d/leaves_bushes/oak_0", "y": 90, "x": 90 },
+			{ "model": "3d/leaves_bushes/oak_0", "x": 270 },
+			{ "model": "3d/leaves_bushes/oak_0", "y": 90, "x": 270 },
+			{ "model": "3d/leaves_bushes/oak_0", "weight": 5 },
+			{ "model": "3d/leaves_bushes/oak_1", "x": 90 },
+			{ "model": "3d/leaves_bushes/oak_1", "y": 90, "x": 90 },
+			{ "model": "3d/leaves_bushes/oak_1", "x": 270 },
+			{ "model": "3d/leaves_bushes/oak_1", "y": 90, "x": 270 },
+			{ "model": "3d/leaves_bushes/oak_1", "weight": 5 }
 		]
 	}
 }
