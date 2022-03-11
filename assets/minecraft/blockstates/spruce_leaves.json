@@ -1,10 +1,25 @@
 {
-	"variants": {
-		"": [
-			{ "model": "3d/leaves_bushes/spruce_0", "weight": 8 },
-			{ "model": "3d/leaves_bushes/spruce_1" },
-			{ "model": "3d/leaves_bushes/spruce_2" },
-			{ "model": "3d/leaves_bushes/spruce_3" }
-		]
-	}
+	"multipart": [
+		{ "apply": { "model": "3d/leaves_bushes/spruce" } },
+		{
+			"apply": [
+				{ "model": "3d/leaves_bushes/spruce_0", "weight": 8 },
+				{ "model": "3d/leaves_bushes/spruce_1" },
+				{ "model": "3d/leaves_bushes/spruce_1", "y": 90 },
+				{ "model": "3d/leaves_bushes/spruce_1", "y": 180 },
+				{ "model": "3d/leaves_bushes/spruce_1", "y": -90 },
+				{ "model": "3d/leaves_bushes/spruce_2" },
+				{ "model": "3d/leaves_bushes/spruce_2", "y": 90 }
+			]
+		},
+		{
+			"when": { "distance": "1|2" },
+			"apply": [
+				{ "model": "3d/leaves_bushes/spruce_3" },
+				{ "model": "3d/leaves_bushes/spruce_3", "y": 90 },
+				{ "model": "3d/leaves_bushes/spruce_3", "y": 180 },
+				{ "model": "3d/leaves_bushes/spruce_3", "y": -90 }
+			]
+		}
+	]
 }
