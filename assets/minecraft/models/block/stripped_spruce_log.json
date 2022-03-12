@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "3d/log/log",
+	"parent": "3d/version/current/log",
 	"textures": {
 		"end": "block/stripped_spruce_log_top",
-		"particle": "block/stripped_spruce_log"
+		"side": "block/stripped_spruce_log"
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"parent": "3d/leaves_version/current/1",
+	"parent": "3d/version/current/leaves_1",
 	"textures": {
 		"all": "block/jungle_leaves",
 		"top": "3d/leaves_bushes/jungle_top",

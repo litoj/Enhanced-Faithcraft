@@ -1,7 +1,7 @@
 {
-    "parent": "3d/log/log",
-    "textures": {
-        "end": "block/warped_stem_top",
-        "particle": "block/warped_stem"
-    }
+	"parent": "3d/version/current/log",
+	"textures": {
+		"end": "block/warped_stem_top",
+		"side": "block/warped_stem"
+	}
 }

@@ -1,7 +1,7 @@
 {
 	"variants": {
 		"axis=y": { "model": "block/stripped_dark_oak_log" },
-		"axis=z": { "model": "block/stripped_dark_oak_log", "x": 90, "weight": 40 },
-		"axis=x": { "model": "block/stripped_dark_oak_log", "x": 90, "y": 90, "weight": 40 }
+		"axis=z": { "model": "block/stripped_dark_oak_log", "x": 90 },
+		"axis=x": { "model": "block/stripped_dark_oak_log", "x": 90, "y": 90 }
 	}
 }

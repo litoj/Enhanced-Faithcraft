@@ -1,7 +1,7 @@
 {
-    "parent": "3d/log/log",
-    "textures": {
-        "end": "block/crimson_stem_top",
-        "particle": "block/crimson_stem"
-    }
+	"parent": "3d/version/current/log",
+	"textures": {
+		"end": "block/crimson_stem_top",
+		"side": "block/crimson_stem"
+	}
 }

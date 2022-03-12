@@ -1,7 +1,68 @@
 {
-	"variants": {
-		"axis=y": [{ "model": "block/birch_log" }],
-		"axis=z": [{ "model": "block/birch_log", "x": 90 }],
-		"axis=x": [{ "model": "block/birch_log", "x": 90, "y": 90 }]
-	}
+	"multipart": [
+		{ "when": { "axis": "y" }, "apply": { "model": "3d/log/birch_column" } },
+		{ "when": { "axis": "x" }, "apply": { "model": "3d/log/birch_column", "x": 90, "y": 90 } },
+		{ "when": { "axis": "z" }, "apply": { "model": "3d/log/birch_column", "x": 90 } },
+
+		{
+			"when": { "axis": "y|x" },
+			"apply": [
+				{ "model": "block/empty", "weight": 40 },
+				{ "model": "3d/log/birch_0" },
+				{ "model": "3d/log/birch_1" },
+				{ "model": "3d/log/birch_0", "x": 180, "y": 180 },
+				{ "model": "3d/log/birch_1", "x": 180, "y": 180 }
+			]
+		},
+		{
+			"when": { "axis": "y|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 70 },
+				{ "model": "3d/log/birch_0", "y": 90, "weight": 2 },
+				{ "model": "3d/log/birch_1", "y": 90, "weight": 2 },
+				{ "model": "3d/log/birch_0", "x": 180, "y": -90, "weight": 2 },
+				{ "model": "3d/log/birch_1", "x": 180, "y": -90 }
+			]
+		},
+		{
+			"when": { "axis": "y|x" },
+			"apply": [
+				{ "model": "block/empty", "weight": 70 },
+				{ "model": "3d/log/birch_0", "y": 180 },
+				{ "model": "3d/log/birch_1", "y": 180, "weight": 2 },
+				{ "model": "3d/log/birch_0", "x": 180, "weight": 2 },
+				{ "model": "3d/log/birch_1", "x": 180, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "y|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 70 },
+				{ "model": "3d/log/birch_0", "y": -90, "weight": 2 },
+				{ "model": "3d/log/birch_1", "y": -90, "weight": 2 },
+				{ "model": "3d/log/birch_0", "x": 180, "y": 90 },
+				{ "model": "3d/log/birch_1", "x": 180, "y": 90, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "x|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 70 },
+				{ "model": "3d/log/birch_0", "x": 90, "weight": 2 },
+				{ "model": "3d/log/birch_0", "x": 90, "y": 90 },
+				{ "model": "3d/log/birch_0", "x": 90, "y": 180, "weight": 2 },
+				{ "model": "3d/log/birch_0", "x": 90, "y": -90, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "x|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 79 },
+				{ "model": "3d/log/birch_0", "x": -90, "weight": 2 },
+				{ "model": "3d/log/birch_0", "x": -90, "y": 90, "weight": 2 },
+				{ "model": "3d/log/birch_0", "x": -90, "y": 180, "weight": 2 },
+				{ "model": "3d/log/birch_0", "x": -90, "y": -90, "weight": 2 }
+			]
+		}
+	]
 }

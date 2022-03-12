@@ -17,10 +17,12 @@
 ## Config
 
 This pack has 4 variants for better performace or better looks of leaves, to change the version, go to
-`assets/minecraft/models/3d/leaves_version` and rename the version you want to 'current' A good tip: rename the
+`assets/minecraft/models/3d/version` and rename the version you want to 'current' A good tip: rename the
 previous version to the one absent, available versions are: `light`, `medium`, `heavy`, `extreme`
 
-Suggested version is `heavy`.
+For more bushy leaves and more depth of wood logs use `heavy`.
+For a compromise of looks and performance use `medium`.
+For avoiding bushy leaves and jams on logs use `light`.
 
 ## Credits
 

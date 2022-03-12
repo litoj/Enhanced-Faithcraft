@@ -1,105 +1,41 @@
 {
-"__comment":"Default 3D, by Know2Good",
-
-"textures": {
-	"pebble":"block/cobblestone",
-	"top":"block/grass_block_top",
-	"src":"block/dirt",
-	"side":"block/dirty_block_side/grass_overlay_3",
-	"particle":"block/dirt"
-},
-"elements": [ 
-	{
-		"__comment": "Pebble",
-		"from":[5,16,11],
-		"to":[9,16.70,12],
-		"faces": {
-			"up":{"uv":		[5.01,11.01,8.99,11.99],"texture":"#pebble","cullface":"up"},
-			"north":{"uv":	[5.01,11.01,8.99,11.99],"texture":"#pebble","cullface":"up","rotation":180},
-			"west":{"uv":	[5.01,11.01,5.99,11.99],"texture":"#pebble","cullface":"up","rotation":270},
-			"east":{"uv":	[8.01,11.01,8.99,11.99],"texture":"#pebble","cullface":"up","rotation":90}
+	"credit": "Made with Blockbench",
+	"textures": {"pebble": "block/cobblestone"},
+	"elements": [
+		{
+			"name": "Pebble",
+			"from": [12, 16, 10],
+			"to": [13.998, 16.55, 11],
+			"faces": {
+				"north": {"uv": [14.01, 9.01, 15.99, 9.99], "rotation": 180, "texture": "#pebble", "cullface": "up"},
+				"east": {"uv": [15.01, 9.01, 15.99, 9.99], "rotation": 90, "texture": "#pebble", "cullface": "up"},
+				"west": {"uv": [14.01, 9.01, 14.99, 9.99], "rotation": 270, "texture": "#pebble", "cullface": "up"},
+				"up": {"uv": [14.01, 9.01, 15.99, 9.99], "texture": "#pebble", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Pebble",
+			"from": [10, 16, 11],
+			"to": [13.998, 16.55, 13],
+			"faces": {
+				"north": {"uv": [12.01, 11.01, 15.99, 11.99], "rotation": 180, "texture": "#pebble", "cullface": "up"},
+				"east": {"uv": [15.01, 11.01, 15.99, 11.99], "rotation": 90, "texture": "#pebble", "cullface": "up"},
+				"south": {"uv": [12.01, 11.01, 15.99, 11.99], "texture": "#pebble", "cullface": "up"},
+				"west": {"uv": [12.01, 11.01, 12.99, 11.99], "rotation": 270, "texture": "#pebble", "cullface": "up"},
+				"up": {"uv": [12.01, 11.01, 15.99, 11.99], "texture": "#pebble", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Pebble",
+			"from": [11, 15.55, 11],
+			"to": [13, 17.1, 14],
+			"faces": {
+				"north": {"uv": [13.01, 11.01, 14.99, 11.99], "texture": "#pebble", "cullface": "up"},
+				"east": {"uv": [14.01, 11.01, 14.99, 13.99], "rotation": 90, "texture": "#pebble", "cullface": "up"},
+				"south": {"uv": [13.01, 13.01, 14.99, 13.99], "texture": "#pebble", "cullface": "up"},
+				"west": {"uv": [13.01, 11.01, 13.99, 13.99], "rotation": 270, "texture": "#pebble", "cullface": "up"},
+				"up": {"uv": [13.01, 11.01, 14.99, 13.99], "texture": "#pebble", "cullface": "up"}
+			}
 		}
-	},
-	{
-		"__comment": "Pebble",
-		"from":[5,16,12],
-		"to":[10,16.70,13],
-		"faces": {
-			"up":{"uv":		[5.01,12.01,9.99,12.99],"texture":"#pebble","cullface":"up"},
-			"north":{"uv":	[5.01,12.01,9.99,12.99],"texture":"#pebble","cullface":"up","rotation":180},
-			"south":{"uv":	[5.01,12.01,9.99,12.99],"texture":"#pebble","cullface":"up"},
-			"west":{"uv":	[5.01,12.01,5.99,12.99],"texture":"#pebble","cullface":"up","rotation":270},
-			"east":{"uv":	[9.01,12.01,9.99,12.99],"texture":"#pebble","cullface":"up","rotation":90}
-		}
-	},	
-	{
-		"__comment": "Pebble",
-		"from":[8.002,16,13],
-		"to":[11,16.70,14],
-		"faces": {
-			"up":{"uv":		[8.01,13.01,10.99,13.99],"texture":"#pebble","cullface":"up"},
-			"north":{"uv":	[8.01,13.01,10.99,13.99],"texture":"#pebble","cullface":"up","rotation":180},
-			"south":{"uv":	[8.01,13.01,10.99,13.99],"texture":"#pebble","cullface":"up"},
-			"west":{"uv":	[8.01,13.01,8.99,13.99],"texture":"#pebble","cullface":"up","rotation":270},
-			"east":{"uv":	[10.01,13.01,10.99,13.99],"texture":"#pebble","cullface":"up","rotation":90}
-		}
-	},
-	{
-		"__comment": "Pebble",
-		"from":[10,16,14],
-		"to":[11,16.70,15],
-		"faces": {
-			"up":{"uv":		[10.01,14.01,10.99,14.99],"texture":"#pebble","cullface":"up"},
-			"south":{"uv":	[10.01,14.01,10.99,14.99],"texture":"#pebble","cullface":"up"},
-			"west":{"uv":	[10.01,14.01,10.99,14.99],"texture":"#pebble","cullface":"up","rotation":270},
-			"east":{"uv":	[10.01,14.01,10.99,14.99],"texture":"#pebble","cullface":"up","rotation":90}
-		}
-	},
-	{
-		"__comment": "Pebble",
-		"from":[6,16.70,11],
-		"to":[7,17.40,13],
-		"faces": {
-			"up":{"uv":		[6.01,11.01,6.99,12.99],"texture":"#pebble","cullface":"up"},
-			"north":{"uv":	[6.01,11.01,6.99,11.99],"texture":"#pebble","cullface":"up","rotation":180},
-			"south":{"uv":	[6.01,12.01,6.99,12.99],"texture":"#pebble","cullface":"up"},
-			"west":{"uv":	[6.01,11.01,6.99,12.99],"texture":"#pebble","cullface":"up","rotation":270},
-			"east":{"uv":	[6.01,11.01,6.99,12.99],"texture":"#pebble","cullface":"up","rotation":90}
-		}
-	},
-	{
-		"__comment": "Pebble",
-		"from":[8,16.70,12],
-		"to":[10,17.40,13],
-		"faces": {
-			"up":{"uv":		[8.01,12.01,9.99,12.99],"texture":"#pebble","cullface":"up"},
-			"north":{"uv":	[8.01,12.01,9.99,12.99],"texture":"#pebble","cullface":"up","rotation":180},
-			"south":{"uv":	[8.01,12.01,9.99,12.99],"texture":"#pebble","cullface":"up"},
-			"west":{"uv":	[8.01,12.01,8.99,12.99],"texture":"#pebble","cullface":"up","rotation":270},
-			"east":{"uv":	[9.01,12.01,9.99,12.99],"texture":"#pebble","cullface":"up","rotation":90}
-		}
-	},
-	{
-		"__comment": "Block",
-		"from": [0,0,0],
-		"to": [16,16,16],
-		"faces": {
-			"down":		{"texture":"#src","cullface":"down"},
-			"up":		{"texture":"#top","cullface":"up","tintindex":0},
-			"north":	{"texture":"#src","cullface":"north"},
-			"south":	{"texture":"#src","cullface":"south"},
-			"west":		{"texture":"#src","cullface":"west"},
-			"east":		{"texture":"#src","cullface":"east"}
-        }
-    },
-        {   "from": [ 0, 0, 0 ],
-            "to": [ 16, 16, 16 ],
-            "faces": {
-                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "tintindex": 0, "cullface": "north" },
-                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "tintindex": 0, "cullface": "south" },
-                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "tintindex": 0, "cullface": "west" },
-                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "tintindex": 0, "cullface": "east" }
-            }
-        }
-    ]
+	]
 }

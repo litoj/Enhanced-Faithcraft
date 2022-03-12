@@ -1,8 +1,0 @@
-{
-	"parent":"3d/log/log_5",
-    "textures": {
-		  "particle": "block/acacia_log",
-        "end": "block/acacia_log_top",
-        "3D": "3d/log/acacia_0"
-    }
-}

@@ -1,8 +1,1 @@
-{
-	"parent":"3d/log/log_0",
-    "textures": {
-		  "particle": "block/spruce_log",
-        "end": "block/spruce_log_top",
-        "3D": "3d/log/spruce_0"
-    }
-}
+{ "parent": "3d/version/current/log_0", "textures": { "3D": "block/spruce_log_top" } }

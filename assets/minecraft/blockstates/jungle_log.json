@@ -1,37 +1,90 @@
 {
-	"variants": {
-		"axis=y": [
-			{ "model": "block/jungle_log", "weight": 20 },
-			{ "model": "3d/log/jungle_0", "weight": 3 },
-			{ "model": "3d/log/jungle_1", "weight": 3 },
-			{ "model": "3d/log/jungle_2" },
-			{ "model": "3d/log/jungle_3" },
-			{ "model": "3d/log/jungle_4" },
-			{ "model": "3d/log/jungle_5" },
-			{ "model": "3d/log/jungle_6" },
-			{ "model": "3d/log/jungle_7" }
-		],
-		"axis=z": [
-			{ "model": "block/jungle_log", "x": 90, "weight": 20 },
-			{ "model": "3d/log/jungle_0", "weight": 3, "x": 90 },
-			{ "model": "3d/log/jungle_1", "weight": 3, "x": 90 },
-			{ "model": "3d/log/jungle_2", "x": 90 },
-			{ "model": "3d/log/jungle_3", "x": 90 },
-			{ "model": "3d/log/jungle_4", "x": 90 },
-			{ "model": "3d/log/jungle_5", "x": 90 },
-			{ "model": "3d/log/jungle_6", "x": 90 },
-			{ "model": "3d/log/jungle_7", "x": 90 }
-		],
-		"axis=x": [
-			{ "model": "block/jungle_log", "x": 90, "y": 90, "weight": 20 },
-			{ "model": "3d/log/jungle_0", "weight": 3, "x": 90, "y": 90 },
-			{ "model": "3d/log/jungle_1", "weight": 3, "x": 90, "y": 90 },
-			{ "model": "3d/log/jungle_2", "x": 90, "y": 90 },
-			{ "model": "3d/log/jungle_3", "x": 90, "y": 90 },
-			{ "model": "3d/log/jungle_4", "x": 90, "y": 90 },
-			{ "model": "3d/log/jungle_5", "x": 90, "y": 90 },
-			{ "model": "3d/log/jungle_6", "x": 90, "y": 90 },
-			{ "model": "3d/log/jungle_7", "x": 90, "y": 90 }
-		]
-	}
+	"multipart": [
+		{
+			"when": { "axis": "y" },
+			"apply": [
+				{ "model": "3d/log/jungle_column", "weight": 30 },
+				{ "model": "3d/log/jungle_column_0" },
+				{ "model": "3d/log/jungle_column_1" }
+			]
+		},
+		{
+			"when": { "axis": "x" },
+			"apply": [
+				{ "model": "3d/log/jungle_column", "weight": 30, "x": 90, "y": 90 },
+				{ "model": "3d/log/jungle_column_0", "x": 90, "y": 90 },
+				{ "model": "3d/log/jungle_column_1", "x": 90, "y": 90 }
+			]
+		},
+		{
+			"when": { "axis": "z" },
+			"apply": [
+				{ "model": "3d/log/jungle_column", "weight": 30, "x": 90 },
+				{ "model": "3d/log/jungle_column_0", "x": 90 },
+				{ "model": "3d/log/jungle_column_1", "x": 90 }
+			]
+		},
+
+		{
+			"when": { "axis": "y|x" },
+			"apply": [
+				{ "model": "block/empty", "weight": 40 },
+				{ "model": "3d/log/jungle_0" },
+				{ "model": "3d/log/jungle_1" },
+				{ "model": "3d/log/jungle_0", "x": 180, "y": 180 },
+				{ "model": "3d/log/jungle_1", "x": 180, "y": 180 }
+			]
+		},
+		{
+			"when": { "axis": "y|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 70 },
+				{ "model": "3d/log/jungle_0", "y": 90, "weight": 2 },
+				{ "model": "3d/log/jungle_1", "y": 90, "weight": 2 },
+				{ "model": "3d/log/jungle_0", "x": 180, "y": -90, "weight": 2 },
+				{ "model": "3d/log/jungle_1", "x": 180, "y": -90 }
+			]
+		},
+		{
+			"when": { "axis": "y|x" },
+			"apply": [
+				{ "model": "block/empty", "weight": 70 },
+				{ "model": "3d/log/jungle_0", "y": 180 },
+				{ "model": "3d/log/jungle_1", "y": 180, "weight": 2 },
+				{ "model": "3d/log/jungle_0", "x": 180, "weight": 2 },
+				{ "model": "3d/log/jungle_1", "x": 180, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "y|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 70 },
+				{ "model": "3d/log/jungle_0", "y": -90, "weight": 2 },
+				{ "model": "3d/log/jungle_1", "y": -90, "weight": 2 },
+				{ "model": "3d/log/jungle_0", "x": 180, "y": 90 },
+				{ "model": "3d/log/jungle_1", "x": 180, "y": 90, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "x|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 70 },
+				{ "model": "3d/log/jungle_0", "x": 90, "weight": 2 },
+				{ "model": "3d/log/jungle_0", "x": 90, "y": 90 },
+				{ "model": "3d/log/jungle_0", "x": 90, "y": 180, "weight": 2 },
+				{ "model": "3d/log/jungle_0", "x": 90, "y": -90, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "x|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 79 },
+				{ "model": "3d/log/jungle_0", "x": -90, "weight": 2 },
+				{ "model": "3d/log/jungle_0", "x": -90, "y": 90, "weight": 2 },
+				{ "model": "3d/log/jungle_0", "x": -90, "y": 180, "weight": 2 },
+				{ "model": "3d/log/jungle_0", "x": -90, "y": -90, "weight": 2 }
+			]
+		}
+	]
 }
+
