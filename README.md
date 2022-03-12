@@ -19,7 +19,6 @@ For avoiding bushy leaves and jams on logs use `light`.
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/54900518/152662090-b631838d-b08d-4958-a99b-ca1129525d54.png)
 ![image](https://user-images.githubusercontent.com/54900518/157954171-1557d8c0-5b8f-436b-acfd-e996c64dc2d2.jpg)
 ![image](https://user-images.githubusercontent.com/54900518/157954775-47cd3d94-7033-4e00-9d1f-9d2a2468734e.jpg)
 ![image](https://user-images.githubusercontent.com/54900518/157958514-5e8d8236-ee84-4d91-ba3b-2874cf024384.jpg)
