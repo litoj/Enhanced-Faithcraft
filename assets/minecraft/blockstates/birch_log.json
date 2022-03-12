@@ -7,7 +7,7 @@
 		{
 			"when": { "axis": "y|x" },
 			"apply": [
-				{ "model": "block/empty", "weight": 40 },
+				{ "model": "block/empty", "weight": 32 },
 				{ "model": "3d/log/birch_0" },
 				{ "model": "3d/log/birch_1" },
 				{ "model": "3d/log/birch_0", "x": 180, "y": 180 },
@@ -17,7 +17,7 @@
 		{
 			"when": { "axis": "y|z" },
 			"apply": [
-				{ "model": "block/empty", "weight": 70 },
+				{ "model": "block/empty", "weight": 56 },
 				{ "model": "3d/log/birch_0", "y": 90, "weight": 2 },
 				{ "model": "3d/log/birch_1", "y": 90, "weight": 2 },
 				{ "model": "3d/log/birch_0", "x": 180, "y": -90, "weight": 2 },
@@ -27,7 +27,7 @@
 		{
 			"when": { "axis": "y|x" },
 			"apply": [
-				{ "model": "block/empty", "weight": 70 },
+				{ "model": "block/empty", "weight": 56 },
 				{ "model": "3d/log/birch_0", "y": 180 },
 				{ "model": "3d/log/birch_1", "y": 180, "weight": 2 },
 				{ "model": "3d/log/birch_0", "x": 180, "weight": 2 },
@@ -37,7 +37,7 @@
 		{
 			"when": { "axis": "y|z" },
 			"apply": [
-				{ "model": "block/empty", "weight": 70 },
+				{ "model": "block/empty", "weight": 56 },
 				{ "model": "3d/log/birch_0", "y": -90, "weight": 2 },
 				{ "model": "3d/log/birch_1", "y": -90, "weight": 2 },
 				{ "model": "3d/log/birch_0", "x": 180, "y": 90 },
@@ -47,7 +47,7 @@
 		{
 			"when": { "axis": "x|z" },
 			"apply": [
-				{ "model": "block/empty", "weight": 70 },
+				{ "model": "block/empty", "weight": 56 },
 				{ "model": "3d/log/birch_0", "x": 90, "weight": 2 },
 				{ "model": "3d/log/birch_0", "x": 90, "y": 90 },
 				{ "model": "3d/log/birch_0", "x": 90, "y": 180, "weight": 2 },
@@ -57,7 +57,7 @@
 		{
 			"when": { "axis": "x|z" },
 			"apply": [
-				{ "model": "block/empty", "weight": 79 },
+				{ "model": "block/empty", "weight": 63 },
 				{ "model": "3d/log/birch_0", "x": -90, "weight": 2 },
 				{ "model": "3d/log/birch_0", "x": -90, "y": 90, "weight": 2 },
 				{ "model": "3d/log/birch_0", "x": -90, "y": 180, "weight": 2 },

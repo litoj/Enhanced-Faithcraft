@@ -7,13 +7,6 @@
 - please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Compliance to make the Juknum's texture work
   properly
 
-## Screenshots
-
-![image](https://user-images.githubusercontent.com/54900518/152662090-b631838d-b08d-4958-a99b-ca1129525d54.png)
-![image](https://user-images.githubusercontent.com/54900518/157954171-1557d8c0-5b8f-436b-acfd-e996c64dc2d2.jpg)
-![image](https://user-images.githubusercontent.com/54900518/157954775-47cd3d94-7033-4e00-9d1f-9d2a2468734e.jpg)
-![image](https://user-images.githubusercontent.com/54900518/157958514-5e8d8236-ee84-4d91-ba3b-2874cf024384.jpg)
-
 ## Config
 
 This pack has 4 variants for better performace or better looks of leaves, to change the version, go to
@@ -23,6 +16,16 @@ previous version to the one absent, available versions are: `light`, `medium`, `
 For more bushy leaves and more depth of wood logs use `heavy`.
 For a compromise of looks and performance use `medium`.
 For avoiding bushy leaves and jams on logs use `light`.
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/54900518/152662090-b631838d-b08d-4958-a99b-ca1129525d54.png)
+![image](https://user-images.githubusercontent.com/54900518/157954171-1557d8c0-5b8f-436b-acfd-e996c64dc2d2.jpg)
+![image](https://user-images.githubusercontent.com/54900518/157954775-47cd3d94-7033-4e00-9d1f-9d2a2468734e.jpg)
+![image](https://user-images.githubusercontent.com/54900518/157958514-5e8d8236-ee84-4d91-ba3b-2874cf024384.jpg)
+![image](https://user-images.githubusercontent.com/54900518/158023174-0b43966d-3373-474d-973b-21c7e8a40ecb.jpg)
+![image](https://user-images.githubusercontent.com/54900518/158023634-43f2e91c-66d6-4e9d-9dce-679ef955006c.jpg)
+![image](https://user-images.githubusercontent.com/54900518/158024174-e931d94d-0947-44a7-a937-3471a8446a66.jpg)
 
 ## Credits
 
