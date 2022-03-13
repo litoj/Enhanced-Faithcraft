@@ -1,5 +1,19 @@
 # Enhanced Faithcraft
 
+This pack features:
+- connected textures (CTM)
+- extensive block variants (all brick types, ores...)
+- bushy leaves
+- custom sky
+- custom sounds
+- long grass blocks
+- 3D log models
+- 3D rails
+- 3D tulips and a few other flowers
+- 3D models for most utility blocks
+
+## Compatibility
+
 - [Compliance x32](https://compliancepack.net/compliance32x/latest) is a dependency, this is just an extensive addon
 - Optifine is not required, but enables more textures and makes the game look better
 - works with Continuity mod
@@ -54,5 +68,5 @@ Sounds from:
 - [AudioCraft sounds](https://www.curseforge.com/minecraft/texture-packs/audiocraft)
 
 Huge love to all the creators, their work was inspirational to me and added up to, at least in my
-oppinion, a wonderful combination. Enjoy the sounds but be aware of extreme AudioCraft sounds loudness
+oppinion, a wonderful compilation. Enjoy the sounds but be aware of extreme AudioCraft sounds loudness
 as I didn't want to lower the sound quality by adjusting all the used sounds.
