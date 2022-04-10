@@ -10,9 +10,9 @@
 			"type": "screen"
 		},
 		"fade": {
-			"startFadeIn": 23000,
+			"startFadeIn": 23500,
 			"endFadeIn": 0,
-			"startFadeOut": 11833,
+			"startFadeOut": 12000,
 			"endFadeOut": 13000
 		},
 		"rotation": {

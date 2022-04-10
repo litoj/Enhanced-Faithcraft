@@ -7,13 +7,13 @@
 	},
 	"properties": {
 		"blend": {
-			"type": "add"
+			"type": "screen"
 		},
 		"fade": {
-			"startFadeIn": 13000,
-			"endFadeIn": 13750,
-			"startFadeOut": 22500,
-			"endFadeOut": 23000
+			"startFadeIn": 13166,
+			"endFadeIn": 14200,
+			"startFadeOut": 22000,
+			"endFadeOut": 23500
 		},
 		"rotation": {
 			"axis": [
@@ -29,6 +29,7 @@
 		},
 		"shouldRotate": true,
 		"showStars": true,
+		"showSun": true,
 		"showMoon": true
 	},
 	"schemaVersion": 2,

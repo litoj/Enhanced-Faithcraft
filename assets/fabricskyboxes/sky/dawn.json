@@ -10,10 +10,10 @@
 			"type": "add"
 		},
 		"fade": {
-			"startFadeIn": 22750,
+			"startFadeIn": 22000,
 			"endFadeIn": 23166,
-			"startFadeOut": 23332,
-			"endFadeOut": 83 
+			"startFadeOut": 23333,
+			"endFadeOut": 0
 		},
 		"maxAlpha": 0.5,
 		"rotation": {
@@ -29,7 +29,8 @@
 			]
 		},
 		"shouldRotate": true,
-		"showStars": false
+		"showStars": false,
+		"showSun": true
 	},
 	"schemaVersion": 2,
 	"textures": {

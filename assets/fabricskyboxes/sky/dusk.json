@@ -11,11 +11,11 @@
 		},
 		"fade": {
 			"startFadeIn": 12000,
-			"endFadeIn": 12750,
+			"endFadeIn": 13000,
 			"startFadeOut": 13000,
-			"endFadeOut": 13750
+			"endFadeOut": 14200
 		},
-		"maxAlpha": 0.5,
+		"maxAlpha": 0.8,
 		"rotation": {
 			"axis": [
 				0.0,
@@ -29,7 +29,7 @@
 			]
 		},
 		"shouldRotate": true,
-		"showStars": true,
+		"showStars": false,
 		"showSun": true
 	},
 	"schemaVersion": 2,
