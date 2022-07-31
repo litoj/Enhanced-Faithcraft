@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post_template",
+  "textures": {
+    "texture": "block/warped_stem",
+	"top": "block/warped_stem_top",
+  "particle": "block/warped_planks"
+  }
+}

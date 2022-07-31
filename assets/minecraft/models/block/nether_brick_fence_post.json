@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench by alkatreize",
+	"textures": {
+		"particle": "#texture",
+		"texture": "block/nether_bricks"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 16], "texture": "#texture"},
+				"east": {"uv": [12, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [8, 0, 12, 16], "texture": "#texture"},
+				"west": {"uv": [4, 0, 8, 16], "texture": "#texture"},
+				"up": {"uv": [6, 0, 10, 4], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [6, 12, 10, 16], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
+}

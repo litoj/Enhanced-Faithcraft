@@ -50,7 +50,11 @@ Block models from:
 - [Natural-Faithful](https://github.com/Compliance-Addons/NaturalFaithful)
 - [Dripstones 3D](https://www.curseforge.com/minecraft/texture-packs/dripstones-3d)
 - [Unobtrusive Shields](https://www.curseforge.com/minecraft/texture-packs/clouds-unobtrusive-shields)
-- [Fences+](https://www.curseforge.com/minecraft/texture-packs/fences/)
+- [Fences+](https://www.curseforge.com/minecraft/texture-packs/fences)
+- [Fence +](https://www.planetminecraft.com/texture-pack/fence)
+- [Directional Droppers and Dispensers](https://github.com/hozz8528/Faithful-Java-32x-Directional_Droppers-Dispensers)
+- [Directional Hoppers](https://github.com/hozz8528/Faithful-Java-32x-Directional_Hopper-Bottom_Fix)
+- [Directional Observers](https://github.com/hozz8528/Faithful-Java-32x-Better_Observers)
 
 Other texture sources - packs/addons:
 

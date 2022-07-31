@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench by alkatreize",
+	"textures": {
+		"stripped": "block/netherrack",
+		"plank": "block/red_nether_bricks",
+		"particle": "block/nether_bricks"
+	},
+	"elements": [
+		{
+			"name": "top bar",
+			"from": [6, 11, 0],
+			"to": [10, 13, 6],
+			"faces": {
+				"north": {"uv": [6, 2, 10, 4], "texture": "#plank"},
+				"east": {"uv": [0, 2, 6, 4], "texture": "#plank"},
+				"west": {"uv": [6, 2, 12, 4], "texture": "#plank"},
+				"up": {"uv": [0, 4, 6, 0], "rotation": 90, "texture": "#plank"},
+				"down": {"uv": [0, 0, 6, 4], "rotation": 90, "texture": "#plank"}
+			}
+		},
+		{
+			"name": "lower bar",
+			"from": [6, 5, 0],
+			"to": [10, 7, 6],
+			"faces": {
+				"north": {"uv": [6, 2, 10, 4], "texture": "#plank"},
+				"east": {"uv": [0, 2, 6, 4], "texture": "#plank"},
+				"west": {"uv": [6, 2, 12, 4], "texture": "#plank"},
+				"up": {"uv": [0, 4, 6, 0], "rotation": 90, "texture": "#plank"},
+				"down": {"uv": [0, 0, 6, 4], "rotation": 90, "texture": "#plank"}
+			}
+		},
+		{
+			"name": "panel",
+			"from": [7, 0, 1],
+			"to": [9, 16, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#stripped"},
+				"east": {"uv": [10, 0, 14, 15.999], "texture": "#stripped"},
+				"south": {"uv": [8, 0, 10, 16], "texture": "#stripped"},
+				"west": {"uv": [4, 0, 8, 16], "texture": "#stripped"},
+				"up": {"uv": [2.5, 0, 4.5, 4], "texture": "#stripped"},
+				"down": {"uv": [2.5, 12, 4.5, 16], "texture": "#stripped"}
+			}
+		}
+	]
+}
