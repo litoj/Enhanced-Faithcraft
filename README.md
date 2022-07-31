@@ -1,6 +1,7 @@
 # Enhanced Faithcraft
 
 This pack features:
+
 - connected textures (CTM)
 - extensive block variants (all brick types, ores...)
 - bushy leaves
@@ -14,7 +15,7 @@ This pack features:
 
 ## Compatibility
 
-- [Compliance x32](https://compliancepack.net/compliance32x/latest) is a dependency, this is just an extensive addon
+- [Faithful x32](https://faithfulpack.net/faithful32x/latest) is a dependency, this is just an extensive addon
 - Optifine is not required, but enables more textures and makes the game look better
 - works with Continuity mod
 - support for FabricSkyBoxes, but Optifine looks better
