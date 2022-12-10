@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/pointed_dripstone",
+	"parent": "block/pointed_dripstone",
 	"textures": {
 		"cross": "block/pointed_dripstone_up_tip_merge"
 	},

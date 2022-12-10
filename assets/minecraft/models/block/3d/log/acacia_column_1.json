@@ -1,0 +1,7 @@
+{
+	"parent": "block/3d/version/current/log",
+	"textures": {
+		"end": "block/acacia_log_top",
+		"side": "block/3d/log/acacia_1"
+	}
+}

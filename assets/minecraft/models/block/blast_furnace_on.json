@@ -3,7 +3,7 @@
 "__comment":"OK",
 
 "textures": {
-	"fuel":		"3d/gui/coal_block_lit_hot",
+	"fuel":		"block/3d/gui/coal_block_lit_hot",
 	"front":		"block/blast_furnace_front",
 	"top":		"block/blast_furnace_top",
 	"side":		"block/blast_furnace_side",

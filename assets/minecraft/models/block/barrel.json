@@ -6,7 +6,7 @@
 		"particle": "block/barrel_side",
 		"side": "block/barrel_side",
 		"bottom": "block/barrel_bottom",
-		"hoops": "3d/gui/barrel_hoops"
+		"hoops": "block/3d/gui/barrel_hoops"
 	},
 	"elements": [
 		{

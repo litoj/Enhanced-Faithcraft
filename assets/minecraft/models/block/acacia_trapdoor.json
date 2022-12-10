@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/acacia_trapdoor",
-		"1": "3d/trapdoor/acacia/front",
-		"2": "3d/trapdoor/acacia/side",
+		"1": "block/3d/trapdoor/acacia/front",
+		"2": "block/3d/trapdoor/acacia/side",
 		"particle": "block/acacia_trapdoor"
 	},
 	"elements": [

@@ -4,8 +4,8 @@
 	"textures": {
 		"front": "block/birch_planks",
 		"top": "block/fletching_table_top",
-		"tools": "3d/gui/fletching_tools",
-		"tools2": "3d/gui/fletching_tools2",
+		"tools": "block/3d/gui/fletching_tools",
+		"tools2": "block/3d/gui/fletching_tools2",
 		"particle": "block/fletching_table_front"
 	},
 	"elements": [

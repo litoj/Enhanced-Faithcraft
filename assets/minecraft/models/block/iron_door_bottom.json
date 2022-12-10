@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "3d/door/iron",
+		"0": "block/3d/door/iron",
 		"particle": "block/iron_door_bottom"
 	},
 	"elements": [

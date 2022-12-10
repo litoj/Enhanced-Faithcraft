@@ -2,9 +2,9 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (https:/mrcrayfish.com/tools?id=mc)",
 "ambientocclusion": false,
     "textures": {
-        "particle": "minecraft:block/ladder",
-        "texture": "minecraft:block/ladder",
-        "particle": "minecraft:block/ladder"
+        "particle": "block/ladder",
+        "texture": "block/ladder",
+        "particle": "block/ladder"
     },
     "display": {
         "gui": {

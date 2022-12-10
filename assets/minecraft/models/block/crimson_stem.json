@@ -1,5 +1,5 @@
 {
-	"parent": "3d/version/current/log",
+	"parent": "block/3d/version/current/log",
 	"textures": {
 		"end": "block/crimson_stem_top",
 		"side": "block/crimson_stem"

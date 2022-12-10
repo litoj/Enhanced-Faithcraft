@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"cross": "3d/flower/cornflower",
+		"cross": "block/3d/flower/cornflower",
 		"particle": "#cross"
 	},
 	"elements": [

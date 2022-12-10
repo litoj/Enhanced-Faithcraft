@@ -40,10 +40,10 @@
 			},
 			"apply": [
 				{ "model": "block/empty", "weight": 200 },
-				{ "model": "3d/grass_block/0" },
-				{ "model": "3d/grass_block/1" },
-				{ "model": "3d/grass_block/2" },
-				{ "model": "3d/grass_block/3" }
+				{ "model": "block/3d/grass_block/0" },
+				{ "model": "block/3d/grass_block/1" },
+				{ "model": "block/3d/grass_block/2" },
+				{ "model": "block/3d/grass_block/3" }
 			]
 		},
 		{

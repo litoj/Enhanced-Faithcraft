@@ -1,0 +1,7 @@
+{
+	"parent": "block/3d/version/current/log",
+	"textures": {
+		"end": "block/jungle_log_top",
+		"side": "block/jungle_log"
+	}
+}

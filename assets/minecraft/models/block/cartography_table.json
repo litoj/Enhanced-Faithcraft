@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"top": "3d/gui/cartography_top",
+		"top": "block/3d/gui/cartography_top",
 		"north": "block/cartography_table_side2",
 		"particle": "block/cartography_table_side3",
 		"east": "block/cartography_table_side3",
 		"west": "block/cartography_table_side1",
 		"bottom": "block/dark_oak_planks",
-		"tools": "3d/gui/cartography_tools"
+		"tools": "block/3d/gui/cartography_tools"
 	},
 	"elements": [
 		{

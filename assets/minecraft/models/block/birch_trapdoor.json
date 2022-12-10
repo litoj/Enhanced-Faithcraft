@@ -2,7 +2,7 @@
 	"credit": "Designed by Progical",
 	"textures": {
 		"0": "block/birch_trapdoor",
-		"1": "3d/trapdoor/birch/front",
+		"1": "block/3d/trapdoor/birch/front",
 		"particle": "block/birch_trapdoor"
 	},
 	"elements": [

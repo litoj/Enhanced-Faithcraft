@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "3d/version/current/log",
+	"parent": "block/3d/version/current/log",
 	"textures": {
 		"end": "block/stripped_birch_log_top",
 		"side": "block/stripped_birch_log"

@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/crimson_door_bottom",
-		"1": "3d/door/crimson_detail",
+		"1": "block/3d/door/crimson_detail",
 		"particle": "block/crimson_door_bottom"
 	},
 	"elements": [

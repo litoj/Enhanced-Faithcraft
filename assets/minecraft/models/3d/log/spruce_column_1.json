@@ -1,7 +1,0 @@
-{
-	"parent": "3d/version/current/log",
-	"textures": {
-		"end": "block/spruce_log_top",
-		"side": "3d/log/spruce_1"
-	}
-}

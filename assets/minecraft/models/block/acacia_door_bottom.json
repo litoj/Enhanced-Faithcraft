@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
-	"textures": { "0": "3d/door/acacia", "particle": "block/acacia_door_bottom" },
+	"textures": { "0": "block/3d/door/acacia", "particle": "block/acacia_door_bottom" },
 	"elements": [
 		{
 			"from": [0, 0, 13.5],

@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/block",
+	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": { "eye": "block/end_portal_frame_eye" },
 	"elements": [

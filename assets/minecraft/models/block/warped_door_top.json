@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/warped_door_top",
-		"1": "3d/door/warped_detail",
+		"1": "block/3d/door/warped_detail",
 		"particle": "block/warped_door_top"
 	},
 	"elements": [

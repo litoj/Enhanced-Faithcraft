@@ -1,0 +1,7 @@
+{
+	"parent": "block/3d/version/current/log",
+	"textures": {
+		"end": "block/birch_log_top",
+		"side": "block/birch_log"
+	}
+}

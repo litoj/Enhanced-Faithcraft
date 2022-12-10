@@ -8,7 +8,7 @@
 		"top": "block/barrel_top_open",
 		"side": "block/barrel_side",
 		"bottom": "block/barrel_bottom",
-		"hoops": "3d/gui/barrel_hoops",
+		"hoops": "block/3d/gui/barrel_hoops",
 		"particle": "block/barrel_side"
 	},
 	"elements": [

@@ -3,7 +3,7 @@
 	"parent": "block/thin_block",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "3d/trapdoor/oak/front",
+		"1": "block/3d/trapdoor/oak/front",
 		"particle": "#0",
 		"0": "block/oak_trapdoor"
 	},

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"cross": "3d/flower/orange_tulip",
+		"cross": "block/3d/flower/orange_tulip",
 		"particle": "#cross"
 	},
 	"elements": [

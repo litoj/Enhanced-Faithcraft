@@ -4,7 +4,7 @@
 	"textures": {
 		"particle": "block/spruce_door_top",
 		"block": "block/spruce_door_top",
-		"detail": "3d/door/spruce_detail"
+		"detail": "block/3d/door/spruce_detail"
 	},
 	"elements": [
 		{

@@ -3,7 +3,7 @@
 "__comment":"OK",
 
 "textures": {
-	"fuel":		"3d/gui/coal_block_lit_hot",
+	"fuel":		"block/3d/gui/coal_block_lit_hot",
 	"wood":		"block/spruce_trapdoor",
 	"front":		"block/smoker_front_on",
 	"top":		"block/smoker_top",

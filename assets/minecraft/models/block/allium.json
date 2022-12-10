@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"cross": "3d/flower/allium",
+		"cross": "block/3d/flower/allium",
 		"particle": "#cross"
 	},
 	"elements": [

@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/birch_door_bottom",
-		"1": "3d/door/birch_detail",
+		"1": "block/3d/door/birch_detail",
 		"particle": "#0"
 	},
 	"elements": [
