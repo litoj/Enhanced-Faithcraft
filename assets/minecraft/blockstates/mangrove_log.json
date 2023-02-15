@@ -1,0 +1,69 @@
+{
+	"multipart": [
+		{ "when": { "axis": "y" }, "apply": { "model": "block/3d/log/mangrove_column" } },
+		{ "when": { "axis": "x" }, "apply": { "model": "block/3d/log/mangrove_column", "x": 90, "y": 90 } },
+		{ "when": { "axis": "z" }, "apply": { "model": "block/3d/log/mangrove_column", "x": 90 } },
+
+		{
+			"when": { "axis": "y|x" },
+			"apply": [
+				{ "model": "block/empty", "weight": 32 },
+				{ "model": "block/3d/log/mangrove_0" },
+				{ "model": "block/3d/log/mangrove_1" },
+				{ "model": "block/3d/log/mangrove_0", "x": 180, "y": 180 },
+				{ "model": "block/3d/log/mangrove_1", "x": 180, "y": 180 }
+			]
+		},
+		{
+			"when": { "axis": "y|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 56 },
+				{ "model": "block/3d/log/mangrove_0", "y": 90, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_1", "y": 90, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_0", "x": 180, "y": -90, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_1", "x": 180, "y": -90 }
+			]
+		},
+		{
+			"when": { "axis": "y|x" },
+			"apply": [
+				{ "model": "block/empty", "weight": 56 },
+				{ "model": "block/3d/log/mangrove_0", "y": 180 },
+				{ "model": "block/3d/log/mangrove_1", "y": 180, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_0", "x": 180, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_1", "x": 180, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "y|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 56 },
+				{ "model": "block/3d/log/mangrove_0", "y": -90, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_1", "y": -90, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_0", "x": 180, "y": 90 },
+				{ "model": "block/3d/log/mangrove_1", "x": 180, "y": 90, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "x|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 56 },
+				{ "model": "block/3d/log/mangrove_0", "x": 90, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_0", "x": 90, "y": 90 },
+				{ "model": "block/3d/log/mangrove_0", "x": 90, "y": 180, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_0", "x": 90, "y": -90, "weight": 2 }
+			]
+		},
+		{
+			"when": { "axis": "x|z" },
+			"apply": [
+				{ "model": "block/empty", "weight": 63 },
+				{ "model": "block/3d/log/mangrove_0", "x": -90, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_0", "x": -90, "y": 90, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_0", "x": -90, "y": 180, "weight": 2 },
+				{ "model": "block/3d/log/mangrove_0", "x": -90, "y": -90, "weight": 2 }
+			]
+		}
+	]
+}
+

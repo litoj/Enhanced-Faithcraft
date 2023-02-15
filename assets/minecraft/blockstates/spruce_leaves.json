@@ -1,26 +1,32 @@
 {
-	"multipart": [
-		{
-			"apply": [{ "model": "block/3d/leaves_bushes/spruce_0" }, { "model": "block/3d/leaves_bushes/spruce_1" }]
-		},
-		{
-			"apply": [
-				{ "model": "block/empty", "weight": 10 },
-				{ "model": "block/3d/leaves_bushes/cone_1" },
-				{ "model": "block/3d/leaves_bushes/cone_1", "y": 90 },
-				{ "model": "block/3d/leaves_bushes/cone_1", "y": 180 },
-				{ "model": "block/3d/leaves_bushes/cone_1", "y": -90 },
-				{ "model": "block/3d/leaves_bushes/cone_2" },
-				{ "model": "block/3d/leaves_bushes/cone_2", "y": 90 }
-			]
-		},
-		{
-			"when": { "distance": "1|2" },
-			"apply": [
-				{ "model": "block/3d/leaves_bushes/cone_3", "y": 90 },
-				{ "model": "block/3d/leaves_bushes/cone_3", "y": 180 },
-				{ "model": "block/3d/leaves_bushes/cone_3", "y": -90 }
-			]
-		}
-	]
+  "multipart": [
+    {
+      "apply": [{ "model": "block/spruce_leaves" }]
+    },
+    {
+      "apply": [
+        { "model": "block/3d/leaves_bushes/spruce_0" },
+        { "model": "block/3d/leaves_bushes/spruce_1" }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 10 },
+        { "model": "block/3d/leaves_bushes/cone_1" },
+        { "model": "block/3d/leaves_bushes/cone_1", "y": 90 },
+        { "model": "block/3d/leaves_bushes/cone_1", "y": 180 },
+        { "model": "block/3d/leaves_bushes/cone_1", "y": -90 },
+        { "model": "block/3d/leaves_bushes/cone_2" },
+        { "model": "block/3d/leaves_bushes/cone_2", "y": 90 }
+      ]
+    },
+    {
+      "when": { "distance": "1|2" },
+      "apply": [
+        { "model": "block/3d/leaves_bushes/cone_3", "y": 90 },
+        { "model": "block/3d/leaves_bushes/cone_3", "y": 180 },
+        { "model": "block/3d/leaves_bushes/cone_3", "y": -90 }
+      ]
+    }
+  ]
 }

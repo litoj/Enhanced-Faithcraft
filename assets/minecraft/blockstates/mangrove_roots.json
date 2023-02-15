@@ -1,0 +1,13 @@
+{
+  "multipart": [
+    {
+      "apply": [{ "model": "block/mangrove_roots" }]
+    },
+    {
+      "apply": [
+        { "model": "block/3d/leaves_bushes/mangrove_roots_0"},
+        { "model": "block/3d/leaves_bushes/mangrove_roots_1" }
+      ]
+    }
+  ]
+}

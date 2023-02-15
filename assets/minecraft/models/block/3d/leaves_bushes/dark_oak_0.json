@@ -1,7 +1,6 @@
 {
 	"parent": "block/3d/version/current/leaves_0",
 	"textures": {
-		"all": "block/dark_oak_leaves",
 		"top": "block/3d/leaves_bushes/dark_oak_top",
 		"bottom": "block/3d/leaves_bushes/dark_oak_bottom"
 	}

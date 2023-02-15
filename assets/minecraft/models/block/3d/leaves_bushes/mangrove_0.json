@@ -1,0 +1,7 @@
+{
+	"parent": "block/3d/version/current/leaves_0",
+	"textures": {
+		"top": "block/3d/leaves_bushes/mangrove_top",
+		"bottom": "block/3d/leaves_bushes/mangrove_bottom"
+	}
+}

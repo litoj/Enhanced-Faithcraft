@@ -1,0 +1,22 @@
+{
+  "multipart": [
+    {
+      "apply": [{ "model": "block/azalea_leaves" }]
+    },
+    {
+      "apply": [
+        { "model": "block/3d/leaves_bushes/azalea_0", "x": 90 },
+        { "model": "block/3d/leaves_bushes/azalea_0", "y": 90, "x": 90 },
+        { "model": "block/3d/leaves_bushes/azalea_0", "x": 270 },
+        { "model": "block/3d/leaves_bushes/azalea_0", "y": 90, "x": 270 },
+        { "model": "block/3d/leaves_bushes/azalea_0", "weight": 5 },
+        { "model": "block/3d/leaves_bushes/azalea_1", "x": 90 },
+        { "model": "block/3d/leaves_bushes/azalea_1", "y": 90, "x": 90 },
+        { "model": "block/3d/leaves_bushes/azalea_1", "x": 270 },
+        { "model": "block/3d/leaves_bushes/azalea_1", "y": 90, "x": 270 },
+        { "model": "block/3d/leaves_bushes/azalea_1", "weight": 5 }
+      ]
+    }
+  ]
+}
+
