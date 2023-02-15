@@ -6,7 +6,6 @@ This pack features:
 - extensive block variants (all brick types, ores...)
 - bushy leaves
 - custom sky
-- custom sounds
 - long grass blocks
 - 3D log models
 - 3D rails
@@ -41,6 +40,11 @@ For avoiding bushy leaves and jams on logs use `light`.
 ![image](https://user-images.githubusercontent.com/54900518/158023174-0b43966d-3373-474d-973b-21c7e8a40ecb.jpg)
 ![image](https://user-images.githubusercontent.com/54900518/158023634-43f2e91c-66d6-4e9d-9dce-679ef955006c.jpg)
 
+## Custom sounds
+
+separated into a different sound-only pack:
+[Enhanced-Soundcraft](https://github.com/JosefLitos/Enhanced-Soundcraft)
+
 ## Credits
 
 Block models from:
@@ -66,12 +70,5 @@ Other texture sources - packs/addons:
 - [BDoubleO 100](https://www.youtube.com/watch?v=fM7DvbGr-WU)
 - [Good Times With Scar's pack](https://www.youtube.com/watch?v=Oe2MgDTe77w)
 
-Sounds from:
-
-- [Rainy Day](https://www.youtube.com/watch?v=9PYpUCo8TKQ)
-- [Element Animation sounds](https://www.youtube.com/watch?v=yG_Y52bK6Ec)
-- [AudioCraft sounds](https://www.curseforge.com/minecraft/texture-packs/audiocraft)
-
 Huge love to all the creators, their work was inspirational to me and added up to, at least in my
-oppinion, a wonderful compilation. Enjoy the sounds but be aware of extreme AudioCraft sounds loudness
-as I didn't want to lower the sound quality by adjusting all the used sounds.
+oppinion, a wonderful compilation.
