@@ -1,0 +1,7 @@
+{
+	"parent": "block/cactus/side_0",
+	"ambientocclusion": false,
+	"textures": {
+		"extra": "block/cactus_flower_pink"
+	}
+}

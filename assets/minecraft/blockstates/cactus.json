@@ -1,17 +1,66 @@
 {
-	"variants": {
-		"": [
-			{ "model": "block/cactus", "weight": 10 },
-			{ "model": "block/cactus/0", "weight": 10 },
-			{ "model": "block/cactus/1", "weight": 4 },
-			{ "model": "block/cactus/2", "weight": 4 },
-			{ "model": "block/cactus/3", "weight": 4 },
-			{ "model": "block/cactus/4", "weight": 4 },
-			{ "model": "block/cactus/5", "weight": 10 },
-			{ "model": "block/cactus/6", "weight": 4 },
-			{ "model": "block/cactus/7", "weight": 4 },
-			{ "model": "block/cactus/8", "weight": 4 },
-			{ "model": "block/cactus/9", "weight": 4 }
-		]
-	}
+  "multipart": [
+    {
+      "apply": [{ "model": "block/cactus" }]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 3 },
+        { "model": "block/cactus/pink_top" },
+        { "model": "block/cactus/red_top" }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 6 },
+        { "model": "block/cactus/pink_side_0" },
+        { "model": "block/cactus/pink_side_1" },
+        { "model": "block/cactus/pink_side_2" },
+        { "model": "block/cactus/pink_side_3" },
+        { "model": "block/cactus/red_side_0" },
+        { "model": "block/cactus/red_side_1" },
+        { "model": "block/cactus/red_side_2" },
+        { "model": "block/cactus/red_side_3" }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 6},
+        { "model": "block/cactus/pink_side_0", "y": 90},
+        { "model": "block/cactus/pink_side_1", "y": 90},
+        { "model": "block/cactus/pink_side_2", "y": 90},
+        { "model": "block/cactus/pink_side_3", "y": 90},
+        { "model": "block/cactus/red_side_0", "y": 90},
+        { "model": "block/cactus/red_side_1", "y": 90},
+        { "model": "block/cactus/red_side_2", "y": 90},
+        { "model": "block/cactus/red_side_3", "y": 90}
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 6},
+        { "model": "block/cactus/pink_side_0", "y": 180},
+        { "model": "block/cactus/pink_side_1", "y": 180},
+        { "model": "block/cactus/pink_side_2", "y": 180},
+        { "model": "block/cactus/pink_side_3", "y": 180},
+        { "model": "block/cactus/red_side_0", "y": 180},
+        { "model": "block/cactus/red_side_1", "y": 180},
+        { "model": "block/cactus/red_side_2", "y": 180},
+        { "model": "block/cactus/red_side_3", "y": 180}
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 6},
+        { "model": "block/cactus/pink_side_0", "y": 270},
+        { "model": "block/cactus/pink_side_1", "y": 270},
+        { "model": "block/cactus/pink_side_2", "y": 270},
+        { "model": "block/cactus/pink_side_3", "y": 270},
+        { "model": "block/cactus/red_side_0", "y": 270},
+        { "model": "block/cactus/red_side_1", "y": 270},
+        { "model": "block/cactus/red_side_2", "y": 270},
+        { "model": "block/cactus/red_side_3", "y": 270}
+      ]
+    }
+  ]
 }
