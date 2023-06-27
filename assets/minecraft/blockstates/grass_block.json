@@ -27,11 +27,7 @@
 				{ "model": "block/dirty_side_blocks/grass_overlay_4" },
 				{ "model": "block/dirty_side_blocks/grass_overlay_4", "y": 90 },
 				{ "model": "block/dirty_side_blocks/grass_overlay_4", "y": 180 },
-				{ "model": "block/dirty_side_blocks/grass_overlay_4", "y": 270 },
-				{ "model": "block/dirty_side_blocks/grass_overlay_5" },
-				{ "model": "block/dirty_side_blocks/grass_overlay_5", "y": 90 },
-				{ "model": "block/dirty_side_blocks/grass_overlay_5", "y": 180 },
-				{ "model": "block/dirty_side_blocks/grass_overlay_5", "y": 270 }
+				{ "model": "block/dirty_side_blocks/grass_overlay_4", "y": 270 }
 			]
 		},
 		{

@@ -23,8 +23,8 @@
 			"from": [-0.5, 4, -0.5],
 			"to": [0, 5, 16.5],
 			"faces": {
-				"west": {"uv": [0, 11, 16, 12], "texture": "#0", "cullface": "west"},
-				"up": {"uv": [0, 11, 16, 11.5], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 11.5, 16, 12], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 11.5, 16, 12], "rotation": 90, "texture": "#0", "cullface": "west"},
 				"down": {"uv": [0, 11.5, 16, 12], "rotation": 270, "texture": "#0", "cullface": "west"}
 			}
 		},
@@ -32,8 +32,8 @@
 			"from": [-0.5, 4, 16],
 			"to": [16.5, 5, 16.5],
 			"faces": {
-				"south": {"uv": [0, 11, 16, 12], "texture": "#0", "cullface": "south"},
-				"up": {"uv": [0, 11, 16, 11.5], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 11.5, 16, 12], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 11.5, 16, 12], "texture": "#0", "cullface": "south"},
 				"down": {"uv": [0, 11.5, 16, 12], "texture": "#0", "cullface": "south"}
 			}
 		},
@@ -41,8 +41,8 @@
 			"from": [16, 4, -0.5],
 			"to": [16.5, 5, 16.5],
 			"faces": {
-				"east": {"uv": [0, 11, 16, 12], "texture": "#0", "cullface": "east"},
-				"up": {"uv": [0, 11, 16, 11.5], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 11.5, 16, 12], "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 11.5, 16, 12], "rotation": 270, "texture": "#0", "cullface": "east"},
 				"down": {"uv": [0, 11.5, 16, 12], "rotation": 90, "texture": "#0", "cullface": "east"}
 			}
 		},
@@ -50,8 +50,8 @@
 			"from": [-0.5, 4, -0.5],
 			"to": [16.5, 5, 0],
 			"faces": {
-				"north": {"uv": [0, 11, 16, 12], "texture": "#0", "cullface": "north"},
-				"up": {"uv": [0, 11, 16, 11.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"north": {"uv": [0, 11.5, 16, 12], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [0, 11.5, 16, 12], "rotation": 180, "texture": "#0", "cullface": "north"},
 				"down": {"uv": [0, 11.5, 16, 12], "rotation": 180, "texture": "#0", "cullface": "north"}
 			}
 		},
@@ -59,8 +59,8 @@
 			"from": [-0.5, 12, -0.5],
 			"to": [0, 13, 16.5],
 			"faces": {
-				"west": {"uv": [0, 3, 16, 4], "texture": "#0", "cullface": "west"},
-				"up": {"uv": [0, 3, 16, 3.5], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"west": {"uv": [0, 3.5, 16, 4], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 3.5, 16, 4], "rotation": 90, "texture": "#0", "cullface": "west"},
 				"down": {"uv": [0, 3.5, 16, 4], "rotation": 270, "texture": "#0", "cullface": "west"}
 			}
 		},
@@ -68,8 +68,8 @@
 			"from": [-0.5, 12, 16],
 			"to": [16.5, 13, 16.5],
 			"faces": {
-				"south": {"uv": [0, 3, 16, 4], "texture": "#0", "cullface": "south"},
-				"up": {"uv": [0, 3, 16, 3.5], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [0, 3.5, 16, 4], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [0, 3.5, 16, 4], "texture": "#0", "cullface": "south"},
 				"down": {"uv": [0, 3.5, 16, 4], "texture": "#0", "cullface": "south"}
 			}
 		},
@@ -77,8 +77,8 @@
 			"from": [16, 12, -0.5],
 			"to": [16.5, 13, 16.5],
 			"faces": {
-				"east": {"uv": [0, 3, 16, 4], "texture": "#0", "cullface": "east"},
-				"up": {"uv": [0, 3, 16, 3.5], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"east": {"uv": [0, 3.5, 16, 4], "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 3.5, 16, 4], "rotation": 270, "texture": "#0", "cullface": "east"},
 				"down": {"uv": [0, 3.5, 16, 4], "rotation": 90, "texture": "#0", "cullface": "east"}
 			}
 		},
@@ -86,8 +86,8 @@
 			"from": [-0.5, 12, -0.5],
 			"to": [16.5, 13, 0],
 			"faces": {
-				"north": {"uv": [0, 3, 16, 4], "texture": "#0", "cullface": "north"},
-				"up": {"uv": [0, 3, 16, 3.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"north": {"uv": [0, 3.5, 16, 4], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [0, 3.5, 16, 4], "rotation": 180, "texture": "#0", "cullface": "north"},
 				"down": {"uv": [0, 3.5, 16, 4], "rotation": 180, "texture": "#0", "cullface": "north"}
 			}
 		}
