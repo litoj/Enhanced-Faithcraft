@@ -373,99 +373,99 @@
 			}
 		},
 		{
-			"__comment": "Hoop north top",
-			"from": [0, 11, -0.625],
+			"name": "Hoop north top",
+			"from": [0, 11.5, -0.625],
 			"to": [16, 13, 0],
 			"faces": {
-				"down": { "uv": [0, 12, 16, 13], "texture": "#hoops", "cullface": "down", "rotation": 180 },
-				"up": { "uv": [0, 11, 16, 12], "texture": "#hoops", "cullface": "up", "rotation": 180 },
-				"north": { "uv": [0, 11, 16, 13], "texture": "#hoops", "cullface": "north" },
-				"west": { "uv": [15, 11, 16, 13], "texture": "#hoops" },
-				"east": { "uv": [0, 11, 1, 13], "texture": "#hoops" }
+				"north": {"uv": [0, 3, 16, 4.5], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 3, 1, 4.5], "texture": "#side", "cullface": "north"},
+				"west": {"uv": [15, 3, 16, 4.5], "texture": "#side", "cullface": "north"},
+				"up": {"uv": [0, 3, 16, 3.5], "rotation": 180, "texture": "#side", "cullface": "north"},
+				"down": {"uv": [0, 4, 16, 4.5], "rotation": 180, "texture": "#side", "cullface": "north"}
 			}
 		},
 		{
-			"__comment": "Hoop north bottom",
+			"name": "Hoop north bottom",
 			"from": [0, 3, -0.625],
-			"to": [16, 5, 0],
+			"to": [16, 4.5, 0],
 			"faces": {
-				"down": { "uv": [0, 4, 16, 5], "texture": "#hoops", "cullface": "north", "rotation": 180 },
-				"up": { "uv": [0, 3, 16, 4], "texture": "#hoops", "cullface": "north", "rotation": 180 },
-				"north": { "uv": [0, 3, 16, 5], "texture": "#hoops", "cullface": "north" },
-				"west": { "uv": [15, 3, 16, 5], "texture": "#hoops", "cullface": "north" },
-				"east": { "uv": [0, 3, 1, 5], "texture": "#hoops", "cullface": "north" }
+				"north": {"uv": [0, 11.5, 16, 13], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 11.5, 1, 13], "texture": "#side", "cullface": "north"},
+				"west": {"uv": [15, 11.5, 16, 13], "texture": "#side", "cullface": "north"},
+				"up": {"uv": [0, 11.5, 16, 12], "rotation": 180, "texture": "#side", "cullface": "north"},
+				"down": {"uv": [0, 12.5, 16, 13], "rotation": 180, "texture": "#side", "cullface": "north"}
 			}
 		},
 		{
-			"__comment": "Hoop east top",
-			"from": [16, 11, 0],
+			"name": "Hoop east top",
+			"from": [16, 11.5, 0],
 			"to": [16.625, 13, 16],
 			"faces": {
-				"down": { "uv": [0, 12, 16, 13], "texture": "#hoops", "cullface": "east", "rotation": 90 },
-				"up": { "uv": [0, 11, 16, 12], "texture": "#hoops", "cullface": "east", "rotation": 270 },
-				"north": { "uv": [15, 11, 16, 13], "texture": "#hoops", "cullface": "east" },
-				"south": { "uv": [0, 11, 1, 13], "texture": "#hoops", "cullface": "east" },
-				"east": { "uv": [0, 11, 16, 13], "texture": "#hoops", "cullface": "east" }
+				"north": {"uv": [15, 3, 16, 4.5], "texture": "#side", "cullface": "east"},
+				"east": {"uv": [0, 3, 16, 4.5], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 3, 1, 4.5], "texture": "#side", "cullface": "east"},
+				"up": {"uv": [0, 3, 16, 3.5], "rotation": 270, "texture": "#side", "cullface": "east"},
+				"down": {"uv": [0, 4, 16, 4.5], "rotation": 90, "texture": "#side", "cullface": "east"}
 			}
 		},
 		{
-			"__comment": "Hoop east bottom",
+			"name": "Hoop east bottom",
 			"from": [16, 3, 0],
-			"to": [16.625, 5, 16],
+			"to": [16.625, 4.5, 16],
 			"faces": {
-				"down": { "uv": [0, 4, 16, 5], "texture": "#hoops", "cullface": "east", "rotation": 90 },
-				"up": { "uv": [0, 3, 16, 4], "texture": "#hoops", "cullface": "east", "rotation": 270 },
-				"north": { "uv": [15, 3, 16, 5], "texture": "#hoops", "cullface": "east" },
-				"south": { "uv": [0, 3, 1, 5], "texture": "#hoops", "cullface": "east" },
-				"east": { "uv": [0, 3, 16, 5], "texture": "#hoops", "cullface": "east" }
+				"north": {"uv": [15, 11.5, 16, 13], "texture": "#side", "cullface": "east"},
+				"east": {"uv": [0, 11.5, 16, 13], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 11.5, 1, 13], "texture": "#side", "cullface": "east"},
+				"up": {"uv": [0, 11.5, 16, 12], "rotation": 270, "texture": "#side", "cullface": "east"},
+				"down": {"uv": [0, 12.5, 16, 13], "rotation": 90, "texture": "#side", "cullface": "east"}
 			}
 		},
 		{
-			"__comment": "Hoop south top",
-			"from": [0, 11, 16],
+			"name": "Hoop south top",
+			"from": [0, 11.5, 16],
 			"to": [16, 13, 16.625],
 			"faces": {
-				"down": { "uv": [0, 12, 16, 13], "texture": "#hoops", "cullface": "south" },
-				"up": { "uv": [0, 11, 16, 12], "texture": "#hoops", "cullface": "south" },
-				"south": { "uv": [0, 11, 16, 13], "texture": "#hoops", "cullface": "south" },
-				"west": { "uv": [0, 11, 1, 13], "texture": "#hoops", "cullface": "south" },
-				"east": { "uv": [15, 11, 16, 13], "texture": "#hoops", "cullface": "south" }
+				"east": {"uv": [15, 3, 16, 4.5], "texture": "#side", "cullface": "south"},
+				"south": {"uv": [0, 3, 16, 4.5], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 3, 1, 4.5], "texture": "#side", "cullface": "south"},
+				"up": {"uv": [0, 3, 16, 3.5], "texture": "#side", "cullface": "south"},
+				"down": {"uv": [0, 4, 16, 4.5], "texture": "#side", "cullface": "south"}
 			}
 		},
 		{
-			"__comment": "Hoop south bottom",
+			"name": "Hoop south bottom",
 			"from": [0, 3, 16],
-			"to": [16, 5, 16.625],
+			"to": [16, 4.5, 16.625],
 			"faces": {
-				"down": { "uv": [0, 4, 16, 5], "texture": "#hoops", "cullface": "south" },
-				"up": { "uv": [0, 3, 16, 4], "texture": "#hoops", "cullface": "south" },
-				"south": { "uv": [0, 3, 16, 5], "texture": "#hoops", "cullface": "south" },
-				"west": { "uv": [0, 3, 1, 5], "texture": "#hoops", "cullface": "south" },
-				"east": { "uv": [15, 3, 16, 5], "texture": "#hoops", "cullface": "south" }
+				"east": {"uv": [15, 11.5, 16, 13], "texture": "#side", "cullface": "south"},
+				"south": {"uv": [0, 11.5, 16, 13], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 11.5, 1, 13], "texture": "#side", "cullface": "south"},
+				"up": {"uv": [0, 11.5, 16, 12], "texture": "#side", "cullface": "south"},
+				"down": {"uv": [0, 12.5, 16, 13], "texture": "#side", "cullface": "south"}
 			}
 		},
 		{
-			"__comment": "Hoop west top",
-			"from": [-0.625, 11, 0],
+			"name": "Hoop west top",
+			"from": [-0.625, 11.5, 0],
 			"to": [0, 13, 16],
 			"faces": {
-				"down": { "uv": [0, 12, 16, 13], "texture": "#hoops", "cullface": "west", "rotation": 270 },
-				"up": { "uv": [0, 11, 16, 12], "texture": "#hoops", "cullface": "west", "rotation": 90 },
-				"north": { "uv": [0, 11, 1, 13], "texture": "#hoops", "cullface": "west" },
-				"south": { "uv": [15, 11, 16, 13], "texture": "#hoops", "cullface": "west" },
-				"west": { "uv": [0, 11, 16, 13], "texture": "#hoops", "cullface": "west" }
+				"north": {"uv": [0, 3, 1, 4.5], "texture": "#side", "cullface": "west"},
+				"south": {"uv": [15, 3, 16, 4.5], "texture": "#side", "cullface": "west"},
+				"west": {"uv": [0, 3, 16, 4.5], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 3, 16, 3.5], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"down": {"uv": [0, 4, 16, 4.5], "rotation": 270, "texture": "#side", "cullface": "west"}
 			}
 		},
 		{
-			"__comment": "Hoop west bottom",
+			"name": "Hoop west bottom",
 			"from": [-0.625, 3, 0],
-			"to": [0, 5, 16],
+			"to": [0, 4.5, 16],
 			"faces": {
-				"down": { "uv": [0, 4, 16, 5], "texture": "#hoops", "cullface": "west", "rotation": 270 },
-				"up": { "uv": [0, 3, 16, 4], "texture": "#hoops", "cullface": "west", "rotation": 90 },
-				"north": { "uv": [0, 3, 1, 5], "texture": "#hoops", "cullface": "west" },
-				"south": { "uv": [15, 3, 16, 5], "texture": "#hoops", "cullface": "west" },
-				"west": { "uv": [0, 3, 16, 5], "texture": "#hoops", "cullface": "west" }
+				"north": {"uv": [0, 11.5, 1, 13], "texture": "#side", "cullface": "west"},
+				"south": {"uv": [15, 11.5, 16, 13], "texture": "#side", "cullface": "west"},
+				"west": {"uv": [0, 11.5, 16, 13], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 11.5, 16, 12], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"down": {"uv": [0, 12.5, 16, 13], "rotation": 270, "texture": "#side", "cullface": "west"}
 			}
 		},
 		{
@@ -520,15 +520,14 @@
 			}
 		},
 		{
-			"__comment": "North staves left to right",
+			"name": "North staves left to right",
 			"from": [0.002, 0.002, -0.375],
-			"to": [1, 15.998, 1],
+			"to": [1, 15.998, 0],
 			"faces": {
-				"down": { "uv": [15, 15, 16, 16], "texture": "#side", "rotation": 180 },
-				"up": { "uv": [15, 0, 16, 1], "texture": "#side", "rotation": 180 },
-				"north": { "uv": [15, 0, 16, 16], "texture": "#side", "cullface": "north" },
-				"south": { "uv": [15, 0, 16, 16], "texture": "#side" },
-				"west": { "uv": [15, 0, 16, 16], "texture": "#side", "cullface": "west" }
+				"north": {"uv": [15, 0, 16, 16], "texture": "#side", "cullface": "north"},
+				"west": {"uv": [15.5, 0, 16, 16], "texture": "#side"},
+				"up": {"uv": [15, 0.5, 16, 1], "rotation": 180, "texture": "#side"},
+				"down": {"uv": [15, 15.5, 16, 16], "rotation": 180, "texture": "#side"}
 			}
 		},
 		{
@@ -583,15 +582,14 @@
 			}
 		},
 		{
-			"__comment": "East staves left to right",
-			"from": [15, 0.002, 0.002],
+			"name": "East staves left to right",
+			"from": [16, 0.002, 0.002],
 			"to": [16.375, 15.998, 1],
 			"faces": {
-				"down": { "uv": [15, 15, 16, 16], "texture": "#side", "rotation": 90 },
-				"up": { "uv": [15, 0, 16, 1], "texture": "#side", "rotation": 270 },
-				"north": { "uv": [15, 0, 16, 16], "texture": "#side", "cullface": "north" },
-				"west": { "uv": [16, 0, 15, 16], "texture": "#side" },
-				"east": { "uv": [15, 0, 16, 16], "texture": "#side", "cullface": "east" }
+				"north": {"uv": [15.5, 0, 16, 16], "texture": "#side"},
+				"east": {"uv": [15, 0, 16, 16], "texture": "#side", "cullface": "east"},
+				"up": {"uv": [0, 1, 0.5, 0], "texture": "#side"},
+				"down": {"uv": [0, 16, 0.5, 15], "texture": "#side"}
 			}
 		},
 		{
@@ -646,15 +644,14 @@
 			}
 		},
 		{
-			"__comment": "South staves left to right",
-			"from": [15, 0.002, 15],
+			"name": "South staves left to right",
+			"from": [15, 0.002, 16],
 			"to": [15.998, 15.998, 16.375],
 			"faces": {
-				"down": { "uv": [15, 15, 16, 16], "texture": "#side" },
-				"up": { "uv": [15, 0, 16, 1], "texture": "#side" },
-				"north": { "uv": [15, 0, 16, 16], "texture": "#side" },
-				"south": { "uv": [15, 0, 16, 16], "texture": "#side", "cullface": "south" },
-				"east": { "uv": [15, 0, 16, 16], "texture": "#side", "cullface": "east" }
+				"east": {"uv": [15.5, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [15.5, 0, 16, 16], "texture": "#side", "cullface": "south"},
+				"up": {"uv": [15, 0.5, 16, 1], "texture": "#side"},
+				"down": {"uv": [15, 15.5, 16, 16], "texture": "#side"}
 			}
 		},
 		{
@@ -709,15 +706,14 @@
 			}
 		},
 		{
-			"__comment": "West staves left to right",
+			"name": "West staves left to right",
 			"from": [-0.375, 0.002, 15],
-			"to": [1, 15.998, 15.998],
+			"to": [0, 15.998, 15.998],
 			"faces": {
-				"down": { "uv": [15, 15, 16, 16], "texture": "#side", "rotation": 270 },
-				"up": { "uv": [15, 0, 16, 1], "texture": "#side", "rotation": 90 },
-				"south": { "uv": [15, 0, 16, 16], "texture": "#side", "cullface": "south" },
-				"west": { "uv": [15, 0, 16, 16], "texture": "#side", "cullface": "west" },
-				"east": { "uv": [15, 0, 16, 16], "texture": "#side" }
+				"south": {"uv": [15.5, 0, 16, 16], "texture": "#side"},
+				"west": {"uv": [15, 0, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 0.5, 1], "texture": "#side"},
+				"down": {"uv": [0, 15, 0.5, 16], "texture": "#side"}
 			}
 		},
 		{
