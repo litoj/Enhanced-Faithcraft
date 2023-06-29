@@ -1,0 +1,1 @@
+{ "parent": "block/3d/version/current/log_2", "textures": { "side": "block/mangrove_log", "cut": "block/stripped_mangrove_log" } }

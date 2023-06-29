@@ -1,7 +1,7 @@
 {
 	"parent": "block/3d/version/current/log",
 	"textures": {
-		"end": "block/oak_log_top",
-		"side": "block/3d/log/oak_1"
+		"end": "block/cherry_log_top",
+		"side": "block/cherry_log"
 	}
 }

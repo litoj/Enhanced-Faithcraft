@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench by Juknum",
 	"parent": "block/3d/version/current/log",
 	"textures": {
 		"end": "block/stripped_mangrove_log_top",
