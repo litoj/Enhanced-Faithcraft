@@ -7,7 +7,7 @@ This pack features:
 - bushy leaves
 - custom sky
 - long grass blocks
-- 3D log models
+- 3D log and fence models
 - 3D rails
 - 3D tulips and a few other flowers
 - 3D models for most utility blocks
@@ -17,18 +17,17 @@ This pack features:
 - [Faithful x32](https://faithfulpack.net/faithful32x/latest) is a dependency, this is just an extensive addon
 - Optifine is not required, but enables more textures and makes the game look better
 - works with Continuity mod
-- support for FabricSkyBoxes, but Optifine looks better
+- support for FabricSkyBoxes, but Optifine original looks better
 - please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Compliance to make the Juknum's texture work
   properly
 
 ## Config
 
-This pack has 4 variants for better performace or better looks of leaves, to change the version, go to
-`assets/minecraft/models/3d/version` and rename the version you want to 'current'.
+This pack has 2 variants for better performace or better looks of leaves, to change the version, go to
+`assets/minecraft/models/3d/version` and rename the version you want to `current`.
 Available are: `light`, `heavy`
 
 For more bushy leaves and more depth of wood logs use `heavy`.
-For a compromise of looks and performance use `medium`.
 For avoiding bushy leaves and jams on logs use `light`.
 
 ## Screenshots
@@ -63,7 +62,6 @@ Block models based on:
 
 Other texture sources - packs/addons:
 
-- [Natural Tools](https://faithful.team/natural-tools)
 - [Stone Brick Variants](https://faithful.team/stone-brick-variation)
 - [Dramatic Skys](https://www.curseforge.com/minecraft/texture-packs/dramatic-skys)
 - [Default 32x32](https://www.planetminecraft.com/texture_pack/depixel/)
