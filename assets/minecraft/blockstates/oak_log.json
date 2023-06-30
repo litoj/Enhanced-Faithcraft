@@ -35,7 +35,7 @@
 			"apply": [
 				{ "model": "block/empty", "weight": 23 },
 				{ "model": "block/3d/log/oak_2", "x": 90, "y": -90 },
-				{ "model": "block/3d/log/oak_2", "x": -90, "y": 90 }
+				{ "model": "block/3d/log/oak_2", "x": -90, "y": -90 }
 			]
 		},
 
