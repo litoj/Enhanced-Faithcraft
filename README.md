@@ -24,8 +24,8 @@ This pack features:
 ## Config
 
 This pack has 4 variants for better performace or better looks of leaves, to change the version, go to
-`assets/minecraft/models/3d/version` and rename the version you want to 'current' A good tip: rename the
-previous version to the one absent, available versions are: `light`, `medium`, `heavy`, `extreme`
+`assets/minecraft/models/3d/version` and rename the version you want to 'current'.
+Available are: `light`, `heavy`
 
 For more bushy leaves and more depth of wood logs use `heavy`.
 For a compromise of looks and performance use `medium`.
@@ -47,7 +47,7 @@ separated into a different sound-only pack:
 
 ## Credits
 
-Block models from:
+Block models based on:
 
 - [Jerm's Better leaves](https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0/screenshots)
 - [Default 3D](https://www.curseforge.com/minecraft/texture-packs/default-3d-16x)
