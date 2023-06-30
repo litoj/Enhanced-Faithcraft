@@ -1,9 +1,9 @@
 {
-       "variants": {
-        "": [ { "model": "block/diamond_ore" },
+	     "variants": {
+	      "": [ { "model": "block/diamond_ore" },
 			{ "model": "block/ores/diamond_0" },
 			{ "model": "block/ores/diamond_1" },
 			{ "model": "block/ores/diamond_2" },
 			{ "model": "block/ores/diamond_3" } ]
-    }
+	  }
 }

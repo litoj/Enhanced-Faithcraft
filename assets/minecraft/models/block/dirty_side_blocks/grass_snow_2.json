@@ -1,9 +1,9 @@
 {
-  "parent": "block/cube_bottom_top",
-  "textures": {
-    "top": "block/grass_block_top",
-    "bottom": "block/dirt",
-    "side": "block/dirty_block_side/grass_snow_2",
-    "particle": "block/dirt"
-  }
+	"parent": "block/cube_bottom_top",
+	"textures": {
+	  "top": "block/grass_block_top",
+	  "bottom": "block/dirt",
+	  "side": "block/dirty_block_side/grass_snow_2",
+	  "particle": "block/dirt"
+	}
 }

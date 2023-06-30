@@ -2,38 +2,38 @@
 "__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http:/www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
 "__comment":"OK",
 
-    "display": {
-        "gui": {
-            "rotation": [ 30, 225, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 0.625, 0.625, 0.625 ]
-        },
-        "ground": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, 3, 0 ],
-            "scale": [ 0.25, 0.25, 0.25 ]
-        },
-        "fixed": {
-            "rotation": [ 0, 180, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 1, 1, 1 ]
-        },
-        "head": {
-            "rotation": [ 0, 180, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 1, 1, 1 ]
-        },
-        "firstperson_righthand": {
-            "rotation": [ 0, 315, 0 ],
-            "translation": [ 0, 2.5, 0 ],
-            "scale": [ 0.4, 0.4, 0.4 ]
-        },
-        "thirdperson_righthand": {
-            "rotation": [ 75, 315, 0 ],
-            "translation": [ 0, 2.5, 0 ],
-            "scale": [ 0.375, 0.375, 0.375 ]
-        }
-    },
+	  "display": {
+	      "gui": {
+	          "rotation": [ 30, 225, 0 ],
+	          "translation": [ 0, 0, 0 ],
+	          "scale": [ 0.625, 0.625, 0.625 ]
+	      },
+	      "ground": {
+	          "rotation": [ 0, 0, 0 ],
+	          "translation": [ 0, 3, 0 ],
+	          "scale": [ 0.25, 0.25, 0.25 ]
+	      },
+	      "fixed": {
+	          "rotation": [ 0, 180, 0 ],
+	          "translation": [ 0, 0, 0 ],
+	          "scale": [ 1, 1, 1 ]
+	      },
+	      "head": {
+	          "rotation": [ 0, 180, 0 ],
+	          "translation": [ 0, 0, 0 ],
+	          "scale": [ 1, 1, 1 ]
+	      },
+	      "firstperson_righthand": {
+	          "rotation": [ 0, 315, 0 ],
+	          "translation": [ 0, 2.5, 0 ],
+	          "scale": [ 0.4, 0.4, 0.4 ]
+	      },
+	      "thirdperson_righthand": {
+	          "rotation": [ 75, 315, 0 ],
+	          "translation": [ 0, 2.5, 0 ],
+	          "scale": [ 0.375, 0.375, 0.375 ]
+	      }
+	  },
 "elements":[
 	{
 		"__comment": "Block",
@@ -219,7 +219,7 @@
 			"north":{"uv":	[6.01,4.01,8.99,4.99],"texture":"#coal","cullface":"north","rotation": 180},
 			"west":{"uv":	[6.01,4.01,6.99,5.99],"texture":"#coal","cullface":"north","rotation": 270},
 			"east":{"uv":	[8.01,4.01,8.99,5.99],"texture":"#coal","cullface":"north","rotation": 90}
-            }
-        }
-    ]
+	          }
+	      }
+	  ]
 }

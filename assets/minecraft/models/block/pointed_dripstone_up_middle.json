@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "block/pointed_dripstone",
 	"textures": {
 		"cross": "block/pointed_dripstone_up_middle"

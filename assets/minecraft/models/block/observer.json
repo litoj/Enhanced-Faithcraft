@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"arrow": "block/helpers/observer_arrow",

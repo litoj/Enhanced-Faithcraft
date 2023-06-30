@@ -11,5 +11,5 @@
 	"inside": 	"block/coal_block",
 	"coal": 		"block/furnace_top",
 	"particle":	"block/furnace_front"
-    }
+	  }
 }

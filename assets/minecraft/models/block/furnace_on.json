@@ -11,5 +11,5 @@
 	"inside":"block/3d/gui/coal_block_lit",
 	"coal": 	"block/3d/gui/coal_block_lit_hot",
 	"particle":	"block/furnace_front"
-    }
+	  }
 }

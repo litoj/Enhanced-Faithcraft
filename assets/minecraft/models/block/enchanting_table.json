@@ -3,43 +3,43 @@
 "__comment":"OK",
 
 "textures": {
-    "bottom": 	"block/enchanting_table_bottom",
-    "top": 		"block/enchanting_table_top",
-    "side": 	"block/enchanting_table_side",
-    "particle": "block/enchanting_table_bottom"
+	  "bottom": 	"block/enchanting_table_bottom",
+	  "top": 		"block/enchanting_table_top",
+	  "side": 	"block/enchanting_table_side",
+	  "particle": "block/enchanting_table_bottom"
 },
-    "display": {
-        "gui": {
-            "rotation": [ 30, 45, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 0.625, 0.625, 0.625 ]
-        },
-        "ground": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, 3, 0 ],
-            "scale": [ 0.25, 0.25, 0.25 ]
-        },
-        "fixed": {
-            "rotation": [ 0, 180, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 1, 1, 1 ]
-        },
-        "head": {
-            "rotation": [ 0, 180, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 1, 1, 1 ]
-        },
-        "firstperson_righthand": {
-            "rotation": [ 0, 315, 0 ],
-            "translation": [ 0, 2.5, 0 ],
-            "scale": [ 0.4, 0.4, 0.4 ]
-        },
-        "thirdperson_righthand": {
-            "rotation": [ 75, 315, 0 ],
-            "translation": [ 0, 2.5, 0 ],
-            "scale": [ 0.375, 0.375, 0.375 ]
-        }
-    },
+	  "display": {
+	      "gui": {
+	          "rotation": [ 30, 45, 0 ],
+	          "translation": [ 0, 0, 0 ],
+	          "scale": [ 0.625, 0.625, 0.625 ]
+	      },
+	      "ground": {
+	          "rotation": [ 0, 0, 0 ],
+	          "translation": [ 0, 3, 0 ],
+	          "scale": [ 0.25, 0.25, 0.25 ]
+	      },
+	      "fixed": {
+	          "rotation": [ 0, 180, 0 ],
+	          "translation": [ 0, 0, 0 ],
+	          "scale": [ 1, 1, 1 ]
+	      },
+	      "head": {
+	          "rotation": [ 0, 180, 0 ],
+	          "translation": [ 0, 0, 0 ],
+	          "scale": [ 1, 1, 1 ]
+	      },
+	      "firstperson_righthand": {
+	          "rotation": [ 0, 315, 0 ],
+	          "translation": [ 0, 2.5, 0 ],
+	          "scale": [ 0.4, 0.4, 0.4 ]
+	      },
+	      "thirdperson_righthand": {
+	          "rotation": [ 75, 315, 0 ],
+	          "translation": [ 0, 2.5, 0 ],
+	          "scale": [ 0.375, 0.375, 0.375 ]
+	      }
+	  },
 "elements":[
 	{
 		"__comment":"The inner block",
@@ -548,7 +548,7 @@
 			"north":{"uv":	[13.01,7.01,13.99,7.99],"texture":"#side","cullface":"west"},
 			"south":{"uv":	[15.01,7.01,15.99,7.99],"texture":"#side","cullface":"west"},
 			"west":{"uv":	[13.01,7.01,15.99,7.99],"texture":"#side","cullface":"west"}
-            }
-        }
-    ]
+	          }
+	      }
+	  ]
 }

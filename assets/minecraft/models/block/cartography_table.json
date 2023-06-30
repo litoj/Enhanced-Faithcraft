@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"top": "block/3d/gui/cartography_top",

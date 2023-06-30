@@ -1,6 +1,6 @@
 {
-    "variants": {
-        "axis=y": [ { "model": "block/purpur_pillar" },
+	  "variants": {
+	      "axis=y": [ { "model": "block/purpur_pillar" },
 			{ "model": "block/purpur/pillar_0" },
 			{ "model": "block/purpur/pillar_1" },
 			{ "model": "block/purpur/pillar_2" },
@@ -10,7 +10,7 @@
 			{ "model": "block/purpur/pillar_6" },
 			{ "model": "block/purpur/pillar_7" },
 			{ "model": "block/purpur/pillar_8" } ],
-        "axis=z": [ { "model": "block/purpur_pillar", "x": 90 },
+	      "axis=z": [ { "model": "block/purpur_pillar", "x": 90 },
 			{ "model": "block/purpur/pillar_0", "x": 90 },
 			{ "model": "block/purpur/pillar_1", "x": 90 },
 			{ "model": "block/purpur/pillar_2", "x": 90 },
@@ -20,7 +20,7 @@
 			{ "model": "block/purpur/pillar_6", "x": 90 },
 			{ "model": "block/purpur/pillar_7", "x": 90 },
 			{ "model": "block/purpur/pillar_8", "x": 90 } ],
-        "axis=x": [ { "model": "block/purpur_pillar", "x": 90, "y": 90 },
+	      "axis=x": [ { "model": "block/purpur_pillar", "x": 90, "y": 90 },
 			{ "model": "block/purpur/pillar_0", "x": 90, "y": 90 },
 			{ "model": "block/purpur/pillar_1", "x": 90, "y": 90 },
 			{ "model": "block/purpur/pillar_2", "x": 90, "y": 90 },
@@ -30,5 +30,5 @@
 			{ "model": "block/purpur/pillar_6", "x": 90, "y": 90 },
 			{ "model": "block/purpur/pillar_7", "x": 90, "y": 90 },
 			{ "model": "block/purpur/pillar_8", "x": 90, "y": 90 } ]
-    }
+	  }
 }

@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"cross": "block/3d/flower/allium",
 		"particle": "#cross"

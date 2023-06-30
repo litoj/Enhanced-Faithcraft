@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"fill": "block/soul_sand",
 		"plant": "block/nether_wart_stage2",
@@ -23,7 +22,6 @@
 			"name": "wall",
 			"from": [10, 13, 0],
 			"to": [11, 14, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8]},
 			"faces": {
 				"north": {"uv": [5, 2, 6, 3], "texture": "#wall", "cullface": "north"},
 				"east": {"uv": [8, 2, 16, 3], "texture": "#wall"},
@@ -36,7 +34,6 @@
 			"name": "wall",
 			"from": [5, 13, 0],
 			"to": [6, 14, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [3, 9, 8]},
 			"faces": {
 				"north": {"uv": [10, 2, 11, 3], "texture": "#wall", "cullface": "north"},
 				"east": {"uv": [8, 2, 16, 3], "texture": "#wall"},
@@ -48,7 +45,6 @@
 		{
 			"from": [8, 13, 3],
 			"to": [8, 14, 4],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.5, 3.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 2], "texture": "#plant"},
 				"east": {"uv": [9, 12, 10, 13], "texture": "#plant"},
@@ -61,7 +57,6 @@
 		{
 			"from": [7.5, 13, 3.5],
 			"to": [8.5, 14, 3.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.5, 3.5]},
 			"faces": {
 				"north": {"uv": [9, 12, 10, 13], "texture": "#plant"},
 				"east": {"uv": [0, 0, 0, 2], "texture": "#plant"},
@@ -74,7 +69,6 @@
 		{
 			"from": [9, 13, 5],
 			"to": [9, 14, 6],
-			"rotation": {"angle": 0, "axis": "y", "origin": [9, 13.5, 5.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 2], "texture": "#plant"},
 				"east": {"uv": [8, 13, 9, 14], "texture": "#plant"},
@@ -87,7 +81,6 @@
 		{
 			"from": [8.5, 13, 5.5],
 			"to": [9.5, 14, 5.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [9, 13.5, 5.5]},
 			"faces": {
 				"north": {"uv": [8, 13, 9, 14], "texture": "#plant"},
 				"east": {"uv": [0, 0, 0, 2], "texture": "#plant"},
@@ -100,7 +93,6 @@
 		{
 			"from": [7.5, 13, 6],
 			"to": [7.5, 14, 7],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 13.5, 6.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 2], "texture": "#plant"},
 				"east": {"uv": [9, 12, 10, 13], "texture": "#plant"},
@@ -113,7 +105,6 @@
 		{
 			"from": [7, 13, 6.5],
 			"to": [8, 14, 6.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 13.5, 6.5]},
 			"faces": {
 				"north": {"uv": [9, 12, 10, 13], "texture": "#plant"},
 				"east": {"uv": [0, 0, 0, 2], "texture": "#plant"},
@@ -126,7 +117,6 @@
 		{
 			"from": [8.5, 13, 1],
 			"to": [8.5, 14, 2],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 13.5, 1.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 2], "texture": "#plant"},
 				"east": {"uv": [8, 13, 9, 14], "texture": "#plant"},
@@ -139,7 +129,6 @@
 		{
 			"from": [8, 13, 1.5],
 			"to": [9, 14, 1.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 13.5, 1.5]},
 			"faces": {
 				"north": {"uv": [8, 13, 9, 14], "texture": "#plant"},
 				"east": {"uv": [0, 0, 0, 2], "texture": "#plant"},

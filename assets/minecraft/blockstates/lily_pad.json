@@ -1,29 +1,29 @@
 {
-    "variants": {
-        "": [
-            { "model": "block/lily_pad", "weight":2},
-            { "model": "block/lily_pad", "y": 90, "weight":2},
-            { "model": "block/lily_pad", "y": 180, "weight":2},
-            { "model": "block/lily_pad", "y": 270, "weight":2},
+	  "variants": {
+	      "": [
+	          { "model": "block/lily_pad", "weight":2},
+	          { "model": "block/lily_pad", "y": 90, "weight":2},
+	          { "model": "block/lily_pad", "y": 180, "weight":2},
+	          { "model": "block/lily_pad", "y": 270, "weight":2},
 		{ "model": "block/waterlily_0" },
-            { "model": "block/waterlily_0", "y": 90 },
-            { "model": "block/waterlily_0", "y": 180 },
-            { "model": "block/waterlily_0", "y": 270 },
+	          { "model": "block/waterlily_0", "y": 90 },
+	          { "model": "block/waterlily_0", "y": 180 },
+	          { "model": "block/waterlily_0", "y": 270 },
 		{ "model": "block/waterlily_1" },
-            { "model": "block/waterlily_1", "y": 90 },
-            { "model": "block/waterlily_1", "y": 180 },
-            { "model": "block/waterlily_1", "y": 270 },
+	          { "model": "block/waterlily_1", "y": 90 },
+	          { "model": "block/waterlily_1", "y": 180 },
+	          { "model": "block/waterlily_1", "y": 270 },
 		{ "model": "block/waterlily_2" },
-            { "model": "block/waterlily_2", "y": 90 },
-            { "model": "block/waterlily_2", "y": 180 },
-            { "model": "block/waterlily_2", "y": 270 },
+	          { "model": "block/waterlily_2", "y": 90 },
+	          { "model": "block/waterlily_2", "y": 180 },
+	          { "model": "block/waterlily_2", "y": 270 },
 		{ "model": "block/waterlily_3" },
-            { "model": "block/waterlily_3", "y": 90 },
-            { "model": "block/waterlily_3", "y": 180 },
-            { "model": "block/waterlily_3", "y": 270 },
+	          { "model": "block/waterlily_3", "y": 90 },
+	          { "model": "block/waterlily_3", "y": 180 },
+	          { "model": "block/waterlily_3", "y": 270 },
 		{ "model": "block/waterlily_4" },
-            { "model": "block/waterlily_4", "y": 90 },
-            { "model": "block/waterlily_4", "y": 180 },
-            { "model": "block/waterlily_4", "y": 270 } ]
-    }
+	          { "model": "block/waterlily_4", "y": 90 },
+	          { "model": "block/waterlily_4", "y": 180 },
+	          { "model": "block/waterlily_4", "y": 270 } ]
+	  }
 }

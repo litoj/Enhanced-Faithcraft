@@ -162,5 +162,5 @@
 				"down": {"uv": [15.5, 1.01, 15.99, 14.99], "rotation": 180, "texture": "#block", "cullface": "down"}
 			}
 		}
-  ]
+	]
 }

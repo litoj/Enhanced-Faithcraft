@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "block/orange_tulip",
 	"textures": { "cross": "block/3d/flower/pink_tulip" }
 }
