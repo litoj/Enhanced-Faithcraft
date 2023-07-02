@@ -1,5 +1,4 @@
 {
-	"__comment": "Designed by Progical",
 	"variants": {
 		"facing=north,half=bottom,open=false": { "model": "block/iron_trapdoor" },
 		"facing=south,half=bottom,open=false": { "model": "block/iron_trapdoor", "y": 180 },
@@ -14,23 +13,8 @@
 		"facing=east,half=bottom,open=true": { "model": "block/iron_trapdoor", "x": 270, "y": 270 },
 		"facing=west,half=bottom,open=true": { "model": "block/iron_trapdoor", "x": 270, "y": 90 },
 		"facing=north,half=top,open=true": { "model": "block/iron_trapdoor", "z": 180, "x": 90 },
-		"facing=south,half=top,open=true": {
-			"model": "block/iron_trapdoor",
-			"z": 180,
-			"x": 90,
-			"y": 180
-		},
-		"facing=east,half=top,open=true": {
-			"model": "block/iron_trapdoor",
-			"z": 180,
-			"x": 90,
-			"y": 90
-		},
-		"facing=west,half=top,open=true": {
-			"model": "block/iron_trapdoor",
-			"z": 180,
-			"x": 90,
-			"y": 270
-		}
+		"facing=south,half=top,open=true": { "model": "block/iron_trapdoor", "z": 180, "x": 90, "y": 180 },
+		"facing=east,half=top,open=true": { "model": "block/iron_trapdoor", "z": 180, "x": 90, "y": 90 },
+		"facing=west,half=top,open=true": { "model": "block/iron_trapdoor", "z": 180, "x": 90, "y": 270 }
 	}
 }

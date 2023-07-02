@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/single_2_gate_open",
-	"textures": { "0": "block/dark_oak_planks", "hinge": "block/dark_oak_door_top" }
+	"textures": { "0": "block/dark_oak_planks", "hinge": "block/gray_wool" }
 }

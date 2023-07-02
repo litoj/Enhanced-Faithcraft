@@ -2,7 +2,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/jungle_door_top",
-		"particle": "block/jungle_door_top"
+		"particle": "#0"
 	},
 	"elements": [
 		{

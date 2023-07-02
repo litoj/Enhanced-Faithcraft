@@ -1,4 +1,5 @@
 {
+	"ambientocclusion": false,
 	"credit": "Designed by Progical",
 	"textures": {
 		"0": "block/birch_trapdoor",

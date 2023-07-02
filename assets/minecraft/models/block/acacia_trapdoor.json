@@ -1,7 +1,8 @@
 {
+	"ambientocclusion": false,
 	"textures": {
 		"0": "block/acacia_trapdoor",
-		"particle": "block/acacia_trapdoor"
+		"particle": "#0"
 	},
 	"elements": [
 		{

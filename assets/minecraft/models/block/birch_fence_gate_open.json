@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/dual_0_gate_open",
-	"textures": { "0": "block/birch_planks", "hinge": "block/birch_door_top" }
+	"textures": { "0": "block/birch_planks", "hinge": "block/dark_oak_planks" }
 }
