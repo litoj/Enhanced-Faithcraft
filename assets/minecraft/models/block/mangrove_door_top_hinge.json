@@ -2,7 +2,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/mangrove_door_top",
-		"particle": "block/#0"
+		"particle": "#0"
 	},
 	"elements": [
 		{

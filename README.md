@@ -5,9 +5,9 @@ This pack features:
 - connected textures (CTM)
 - extensive block variants (all brick types, ores...)
 - bushy leaves
-- custom sky
+- custom sky (dramatic-skys converted for [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes/versions))
 - long grass blocks
-- 3D log and fence models
+- 3D door, fence and log models
 - 3D rails
 - 3D tulips and a few other flowers
 - 3D models for most utility blocks
@@ -16,7 +16,8 @@ This pack features:
 
 - [Faithful x32](https://faithfulpack.net/faithful32x/latest) is a dependency, this is just an extensive addon
 - Optifine is not required, but enables more textures and makes the game look better
-- works with Continuity mod
+- best with Continuity mod
+- door and fence models are x16 compatible
 - support for FabricSkyBoxes, but Optifine original looks better
 - please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Compliance to make the Juknum's texture work
   properly
@@ -33,11 +34,9 @@ For avoiding bushy leaves and jams on logs use `light`.
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/54900518/157954775-47cd3d94-7033-4e00-9d1f-9d2a2468734e.jpg)
-![image](https://user-images.githubusercontent.com/54900518/157954171-1557d8c0-5b8f-436b-acfd-e996c64dc2d2.jpg)
 ![image](https://user-images.githubusercontent.com/54900518/158024174-e931d94d-0947-44a7-a937-3471a8446a66.jpg)
 ![image](https://user-images.githubusercontent.com/54900518/157958514-5e8d8236-ee84-4d91-ba3b-2874cf024384.jpg)
-![image](https://user-images.githubusercontent.com/54900518/158023174-0b43966d-3373-474d-973b-21c7e8a40ecb.jpg)
-![image](https://user-images.githubusercontent.com/54900518/158023634-43f2e91c-66d6-4e9d-9dce-679ef955006c.jpg)
+![image](https://github.com/JosefLitos/Enhanced-Faithcraft/assets/54900518/a7aa437e-8983-410a-b868-25fbf667653f)
 
 ## Custom sounds
 
