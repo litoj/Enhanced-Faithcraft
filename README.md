@@ -5,7 +5,6 @@ This pack features:
 - connected textures (CTM)
 - extensive block variants (all brick types, ores...)
 - bushy leaves
-- custom sky (dramatic-skys converted for [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes/versions))
 - long grass blocks
 - 3D door, fence and log models
 - 3D rails
@@ -15,11 +14,8 @@ This pack features:
 ## Compatibility
 
 - [Faithful x32](https://faithfulpack.net/faithful32x/latest) is a dependency, this is just an extensive addon
-- Optifine is not required, but enables more textures and makes the game look better
-- door and fence models are x16 compatible
-- support for [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes/versions)
-- please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Faithful to make the Juknum's texture work
-  properly
+- 3D models are x16 compatible
+- please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Faithful to fix bookshelf model
 
 ## Config
 
@@ -37,16 +33,16 @@ For avoiding bushy leaves and jams on logs use `light`.
 ![image](https://user-images.githubusercontent.com/54900518/157958514-5e8d8236-ee84-4d91-ba3b-2874cf024384.jpg)
 ![image](https://github.com/JosefLitos/Enhanced-Faithcraft/assets/54900518/a7aa437e-8983-410a-b868-25fbf667653f)
 
-## Custom sounds
+## Further additions
 
-separated into a different sound-only pack:
-[Enhanced-Soundcraft](https://github.com/JosefLitos/Enhanced-Soundcraft)
+### Custom sounds
+
+- [Enhanced-Soundcraft](https://github.com/JosefLitos/Enhanced-Soundcraft)
 
 ## Credits
 
-Block models based on:
+Block model inspired by:
 
-- [Default 3D](https://www.curseforge.com/minecraft/texture-packs/default-3d-16x)
 - [Compliance/Faithful 3D](https://github.com/Faithful3D/Java-32x)
 - [Dripstones 3D](https://www.curseforge.com/minecraft/texture-packs/dripstones-3d)
 - [Fences+](https://www.curseforge.com/minecraft/texture-packs/fences)
@@ -55,10 +51,4 @@ Block models based on:
 Other texture sources - packs/addons:
 
 - [Stone Brick Variants](https://faithful.team/stone-brick-variation)
-- [Dramatic Skys](https://www.curseforge.com/minecraft/texture-packs/dramatic-skys)
-- [Default 32x32](https://www.planetminecraft.com/texture_pack/depixel/)
 - [BDoubleO 100](https://www.youtube.com/watch?v=fM7DvbGr-WU)
-- [Good Times With Scar's pack](https://www.youtube.com/watch?v=Oe2MgDTe77w)
-
-Huge love to all the creators, their work was inspirational to me and added up to, at least in my
-oppinion, a wonderful compilation.
