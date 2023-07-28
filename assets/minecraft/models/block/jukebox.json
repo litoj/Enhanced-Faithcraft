@@ -1,5 +1,4 @@
 {
-	"credit": "No UV-bleed, OK coordinate, OK texture, OK cullface",
 	"parent": "block/block",
 	"textures": {
 		"particle": "block/jukebox_side",

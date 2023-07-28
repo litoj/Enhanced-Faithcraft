@@ -1,9 +1,59 @@
 {
-	  "variants": {
-	      "": [ { "model": "block/crafting_table" },
-			{ "model": "block/crafting_table/0" },
-			{ "model": "block/crafting_table/1" },
-			{ "model": "block/crafting_table/2" },
-			{ "model": "block/crafting_table/3" } ]
-	  }
+  "multipart": [
+    {
+      "apply": [{ "model": "block/crafting_table" }]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 2 },
+        { "model": "block/3d/gui/crafting_saw" }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 3 },
+        { "model": "block/3d/gui/crafting_hammer" },
+        { "model": "block/3d/gui/crafting_sheers" }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 11 },
+        { "model": "block/3d/gui/crafting_saw", "y": 90, "weight": 5 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 14 },
+        { "model": "block/3d/gui/crafting_hammer", "y": 90, "weight": 5 },
+        { "model": "block/3d/gui/crafting_sheers", "y": 90, "weight": 5 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 9, "y": 180 },
+        { "model": "block/3d/gui/crafting_saw", "y": 180, "weight": 4 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 13, "y": 180 },
+        { "model": "block/3d/gui/crafting_hammer", "y": 180, "weight": 4 },
+        { "model": "block/3d/gui/crafting_sheers", "y": 180, "weight": 4 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 9, "y": -90 },
+        { "model": "block/3d/gui/crafting_saw", "y": -90, "weight": 5 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 16, "y": -90 },
+        { "model": "block/3d/gui/crafting_hammer", "y": -90, "weight": 5 },
+        { "model": "block/3d/gui/crafting_sheers", "y": -90, "weight": 5 }
+      ]
+    }
+  ]
 }

@@ -16,10 +16,9 @@ This pack features:
 
 - [Faithful x32](https://faithfulpack.net/faithful32x/latest) is a dependency, this is just an extensive addon
 - Optifine is not required, but enables more textures and makes the game look better
-- best with Continuity mod
 - door and fence models are x16 compatible
-- support for FabricSkyBoxes, but Optifine original looks better
-- please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Compliance to make the Juknum's texture work
+- support for [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes/versions)
+- please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Faithful to make the Juknum's texture work
   properly
 
 ## Config
@@ -47,17 +46,11 @@ separated into a different sound-only pack:
 
 Block models based on:
 
-- [Jerm's Better leaves](https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0/screenshots)
 - [Default 3D](https://www.curseforge.com/minecraft/texture-packs/default-3d-16x)
-- [Compliance/Faithful 3D](https://github.com/Faithful3D/Java-32x/tree/1.18)
-- [Natural-Faithful](https://github.com/Compliance-Addons/NaturalFaithful)
+- [Compliance/Faithful 3D](https://github.com/Faithful3D/Java-32x)
 - [Dripstones 3D](https://www.curseforge.com/minecraft/texture-packs/dripstones-3d)
-- [Unobtrusive Shields](https://www.curseforge.com/minecraft/texture-packs/clouds-unobtrusive-shields)
 - [Fences+](https://www.curseforge.com/minecraft/texture-packs/fences)
 - [Fence +](https://www.planetminecraft.com/texture-pack/fence)
-- [Directional Droppers and Dispensers](https://github.com/hozz8528/Faithful-Java-32x-Directional_Droppers-Dispensers)
-- [Directional Hoppers](https://github.com/hozz8528/Faithful-Java-32x-Directional_Hopper-Bottom_Fix)
-- [Directional Observers](https://github.com/hozz8528/Faithful-Java-32x-Better_Observers)
 
 Other texture sources - packs/addons:
 

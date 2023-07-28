@@ -38,11 +38,5 @@
 				"down": {"uv": [0, 7, 2, 9], "rotation": 270, "texture": "#0"}
 			}
 		}
-	],
-	"groups": [
-		{
-			"name": "group",
-			"children": [0, 1, 2]
-		}
 	]
 }

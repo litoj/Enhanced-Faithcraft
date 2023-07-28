@@ -1,14 +1,10 @@
 {
-"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http:/www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
-"__comment":"OK",
-
-"parent": "block/block",
-
-"textures": {
-	"block": 	"block/note_block",
-	"particle":	"block/note_block"
-},
-"elements":[
+	"parent": "block/block",
+	"textures": {
+		"block": "block/note_block",
+		"particle": "block/note_block"
+	},
+	"elements": [
 		{
 			"__comment":"The inner block",
 			"from":[1,1,1],

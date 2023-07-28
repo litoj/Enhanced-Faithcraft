@@ -1,0 +1,83 @@
+{
+  "multipart": [
+    {
+      "apply": [{ "model": "block/fletching_table" }]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 2 },
+        { "model": "block/3d/gui/fletching_arrow_down" },
+        { "model": "block/3d/gui/fletching_arrow_up" }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 13 },
+        { "model": "block/3d/gui/fletching_arrow_up", "y": 90, "weight": 6 },
+        { "model": "block/3d/gui/fletching_arrow_down", "y": 90, "weight": 7 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 11 },
+        { "model": "block/3d/gui/fletching_arrow_down", "y": 180, "weight": 6 },
+        { "model": "block/3d/gui/fletching_arrow_up", "y": 180, "weight": 5 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 17 },
+        { "model": "block/3d/gui/fletching_arrow_up", "y": -90, "weight": 8 },
+        { "model": "block/3d/gui/fletching_arrow_down", "y": -90, "weight": 8 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 13 },
+        { "model": "block/3d/gui/fletching_bow", "weight": 7 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 19 },
+        { "model": "block/3d/gui/fletching_bow", "y": 90, "weight": 9 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 11 },
+        { "model": "block/3d/gui/fletching_bow", "y": 180, "weight": 6 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 17 },
+        { "model": "block/3d/gui/fletching_bow", "y": -90, "weight": 8 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 11 },
+        { "model": "block/3d/gui/fletching_target", "weight": 5 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 17 },
+        { "model": "block/3d/gui/fletching_target", "y": 90, "weight": 9 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 13 },
+        { "model": "block/3d/gui/fletching_target", "y": 180, "weight": 6 }
+      ]
+    },
+    {
+      "apply": [
+        { "model": "block/empty", "weight": 19 },
+        { "model": "block/3d/gui/fletching_target", "y": -90, "weight": 10 }
+      ]
+    }
+  ]
+}
