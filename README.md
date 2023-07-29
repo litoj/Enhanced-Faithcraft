@@ -28,7 +28,7 @@ For avoiding bushy leaves and jams on logs use `light`.
 
 ## Screenshots
 
-![image](https://github.com/JosefLitos/Enhanced-Faithcraft/assets/54900518/28d0859c-f4a7-4232-8bb3-e00359c9a00d)
+![image](https://github.com/JosefLitos/Enhanced-Faithcraft/assets/54900518/da683f40-ddae-4b15-9f3e-7ff14f5f159d)
 ![image](https://user-images.githubusercontent.com/54900518/158024174-e931d94d-0947-44a7-a937-3471a8446a66.jpg)
 ![image](https://github.com/JosefLitos/Enhanced-Faithcraft/assets/54900518/a7aa437e-8983-410a-b868-25fbf667653f)
 
@@ -53,7 +53,7 @@ For avoiding bushy leaves and jams on logs use `light`.
 - [Fences+](https://www.curseforge.com/minecraft/texture-packs/fences)
 - [Fence +](https://www.planetminecraft.com/texture-pack/fence)
 
-Other texture sources - packs/addons:
+Other texturepacks/addons:
 
 - [Stone Brick Variants](https://faithful.team/stone-brick-variation)
 - [BDoubleO 100](https://www.youtube.com/watch?v=fM7DvbGr-WU)
