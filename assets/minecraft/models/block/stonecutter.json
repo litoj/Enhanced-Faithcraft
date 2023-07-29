@@ -2,9 +2,9 @@
 	"parent": "block/block",
 	"textures": {
 		"0": "block/stonecutter_bottom",
+		"1": "block/stonecutter_saw",
 		"2": "block/stonecutter_side",
 		"3": "block/stonecutter_top",
-		"1": "block/stonecutter_saw",
 		"particle": "block/stonecutter_saw"
 	},
 	"elements": [
@@ -100,7 +100,6 @@
 		{
 			"from": [7, 8, 3],
 			"to": [9, 9, 13],
-			"rotation": {"angle": 0, "axis": "z", "origin": [9.75, 8.25, 8]},
 			"faces": {
 				"north": {"uv": [12, 9, 13, 11], "rotation": 90, "texture": "#2"},
 				"east": {"uv": [3, 11, 13, 10], "texture": "#2"},
@@ -110,120 +109,102 @@
 			}
 		},
 		{
-			"name": "stonecutter_saw_0",
-			"from": [6, 15, 7.75],
-			"to": [10, 15.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
+			"from": [1, 8.5, 7.75],
+			"to": [15, 10, 8.25],
 			"faces": {
-				"north": {"uv": [6, 9.5, 10, 9], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [9.5, 9, 10, 9.5], "texture": "#1"},
-				"south": {"uv": [6, 9, 10, 9.5], "texture": "#1"},
-				"west": {"uv": [9.5, 9, 10, 9.5], "texture": "#1"},
-				"up": {"uv": [10, 9, 6, 9.5], "rotation": 180, "texture": "#1"}
+				"north": {"uv": [1, 14.5, 15, 16], "texture": "#1"},
+				"east": {"uv": [1, 14.5, 1.5, 16], "texture": "#1"},
+				"south": {"uv": [15, 14.5, 1, 16], "texture": "#1"},
+				"west": {"uv": [14.5, 14.5, 15, 16], "texture": "#1"},
+				"up": {"uv": [15, 14.5, 1, 15], "texture": "#1"}
 			}
 		},
 		{
-			"name": "stonecutter_saw_1",
-			"from": [5, 14.5, 7.75],
-			"to": [11, 15, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
+			"from": [1.5, 10, 7.75],
+			"to": [14.5, 11.5, 8.25],
 			"faces": {
-				"north": {"uv": [5, 10, 11, 9.5], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [10.5, 9.5, 11, 10], "texture": "#1"},
-				"south": {"uv": [5, 9.5, 11, 10], "texture": "#1"},
-				"west": {"uv": [10.5, 9.5, 11, 10], "texture": "#1"},
-				"up": {"uv": [11, 9.5, 5, 10], "rotation": 180, "texture": "#1"}
+				"north": {"uv": [1.5, 13, 14.5, 14.5], "texture": "#1"},
+				"east": {"uv": [1.5, 13, 2, 14.5], "texture": "#1"},
+				"south": {"uv": [14.5, 13, 1.5, 14.5], "texture": "#1"},
+				"west": {"uv": [14, 13, 14.5, 14.5], "texture": "#1"},
+				"up": {"uv": [14.5, 13, 1.5, 13.5], "texture": "#1"}
 			}
 		},
 		{
-			"name": "stonecutter_saw_3",
-			"from": [4, 14, 7.75],
-			"to": [12, 14.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
+			"from": [2.5, 12, 7.75],
+			"to": [13.5, 13, 8.25],
 			"faces": {
-				"north": {"uv": [4, 10.5, 12, 10], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [11.5, 10, 12, 10.5], "texture": "#1"},
-				"south": {"uv": [4, 10, 12, 10.5], "texture": "#1"},
-				"west": {"uv": [11.5, 10, 12, 10.5], "texture": "#1"},
-				"up": {"uv": [12, 10, 4, 10.5], "rotation": 180, "texture": "#1"}
+				"north": {"uv": [2.5, 11.5, 13.5, 12.5], "texture": "#1"},
+				"east": {"uv": [2.5, 11.5, 3, 12.5], "texture": "#1"},
+				"south": {"uv": [13.5, 11.5, 2.5, 12.5], "texture": "#1"},
+				"west": {"uv": [13, 11.5, 13.5, 12.5], "texture": "#1"},
+				"up": {"uv": [13.5, 11.5, 2.5, 12], "texture": "#1"}
 			}
 		},
 		{
-			"name": "stonecutter_saw_5",
-			"from": [3.5, 13.5, 7.75],
-			"to": [12.5, 14, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
+			"from": [2, 11.5, 7.75],
+			"to": [14, 12, 8.25],
 			"faces": {
-				"north": {"uv": [3.5, 11, 12.5, 10.5], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [3.5, 10.5, 4, 11], "texture": "#1"},
-				"south": {"uv": [3.5, 10.5, 12.5, 11], "texture": "#1"},
-				"west": {"uv": [12, 10.5, 12.5, 11], "texture": "#1"},
-				"up": {"uv": [4, 10.5, 3.5, 11], "rotation": 180, "texture": "#1"}
+				"north": {"uv": [2, 12.5, 14, 13], "texture": "#1"},
+				"east": {"uv": [2, 12.5, 2.5, 13], "texture": "#1"},
+				"south": {"uv": [14, 12.5, 2, 13], "texture": "#1"},
+				"west": {"uv": [13.5, 12.5, 14, 13], "texture": "#1"},
+				"up": {"uv": [14, 12.5, 2, 13], "texture": "#1"}
 			}
 		},
 		{
-			"name": "stonecutter_saw_7",
 			"from": [3, 13, 7.75],
 			"to": [13, 13.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
 			"faces": {
-				"north": {"uv": [3, 11.5, 13, 11], "rotation": 180, "texture": "#1"},
+				"north": {"uv": [3, 11, 13, 11.5], "texture": "#1"},
 				"east": {"uv": [3, 11, 3.5, 11.5], "texture": "#1"},
-				"south": {"uv": [3, 11, 13, 11.5], "texture": "#1"},
+				"south": {"uv": [13, 11, 3, 11.5], "texture": "#1"},
 				"west": {"uv": [12.5, 11, 13, 11.5], "texture": "#1"},
-				"up": {"uv": [3.5, 11, 3, 11.5], "rotation": 180, "texture": "#1"}
+				"up": {"uv": [13, 11, 3, 11.5], "texture": "#1"}
 			}
 		},
 		{
-			"name": "stonecutter_saw_9",
-			"from": [2.5, 12.5, 7.75],
-			"to": [13.5, 13, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
+			"from": [3.5, 13.5, 7.75],
+			"to": [12.5, 14, 8.25],
 			"faces": {
-				"north": {"uv": [2.5, 12, 13.5, 11.5], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [2.5, 11.5, 3, 12], "texture": "#1"},
-				"south": {"uv": [2.5, 11.5, 13.5, 12], "texture": "#1"},
-				"west": {"uv": [13, 11.5, 13.5, 12], "texture": "#1"},
-				"up": {"uv": [3, 11.5, 2.5, 12], "rotation": 180, "texture": "#1"}
+				"north": {"uv": [3.5, 10.5, 12.5, 11], "texture": "#1"},
+				"east": {"uv": [3.5, 10.5, 4, 11], "texture": "#1"},
+				"south": {"uv": [12.5, 10.5, 3.5, 11], "texture": "#1"},
+				"west": {"uv": [12, 10.5, 12.5, 11], "texture": "#1"},
+				"up": {"uv": [12.5, 10.5, 3.5, 11], "texture": "#1"}
 			}
 		},
 		{
-			"name": "stonecutter_saw_11",
-			"from": [2, 11.5, 7.75],
-			"to": [14, 12.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
+			"from": [4.5, 14, 7.75],
+			"to": [11.5, 14.5, 8.25],
 			"faces": {
-				"north": {"uv": [2, 13, 14, 12], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [2, 12, 2.5, 13], "texture": "#1"},
-				"south": {"uv": [2, 12, 14, 13], "texture": "#1"},
-				"west": {"uv": [13.5, 12, 14, 13], "texture": "#1"},
-				"up": {"uv": [2.5, 12, 2, 12.5], "rotation": 180, "texture": "#1"}
+				"north": {"uv": [4.5, 10, 11.5, 10.5], "texture": "#1"},
+				"east": {"uv": [4.5, 10, 5, 10.5], "texture": "#1"},
+				"south": {"uv": [11.5, 10, 4.5, 10.5], "texture": "#1"},
+				"west": {"uv": [11, 10, 11.5, 10.5], "texture": "#1"},
+				"up": {"uv": [11.5, 10, 4.5, 10.5], "texture": "#1"}
 			}
 		},
 		{
-			"name": "stonecutter_saw_13",
-			"from": [1.5, 10.5, 7.75],
-			"to": [14.5, 11.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
+			"from": [5, 14.5, 7.75],
+			"to": [11, 15, 8.25],
 			"faces": {
-				"north": {"uv": [1.5, 14, 14.5, 13], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [1.5, 13, 2, 14], "texture": "#1"},
-				"south": {"uv": [1.5, 13, 14.5, 14], "texture": "#1"},
-				"west": {"uv": [14, 13, 14.5, 14], "texture": "#1"},
-				"up": {"uv": [2, 13, 1.5, 13.5], "rotation": 180, "texture": "#1"}
+				"north": {"uv": [5, 9.5, 11, 10], "texture": "#1"},
+				"east": {"uv": [5, 9.5, 5.5, 10], "texture": "#1"},
+				"south": {"uv": [11, 9.5, 5, 10], "texture": "#1"},
+				"west": {"uv": [10.5, 9.5, 11, 10], "texture": "#1"},
+				"up": {"uv": [11, 9.5, 5, 10], "texture": "#1"}
 			}
 		},
 		{
-			"name": "stonecutter_saw_15",
-			"from": [1, 8.5, 7.75],
-			"to": [15, 10.5, 8.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [9, 11.35294, 0.25]},
+			"from": [6.5, 15, 7.75],
+			"to": [9.5, 15.5, 8.25],
 			"faces": {
-				"north": {"uv": [1, 16, 15, 14], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [1, 14, 1.5, 16], "texture": "#1"},
-				"south": {"uv": [1, 14, 15, 16], "texture": "#1"},
-				"west": {"uv": [14.5, 14, 15, 16], "texture": "#1"},
-				"up": {"uv": [1.5, 14, 1, 14.5], "rotation": 180, "texture": "#1"}
+				"north": {"uv": [6.5, 9, 9.5, 9.5], "texture": "#1"},
+				"east": {"uv": [6.5, 9, 7, 9.5], "texture": "#1"},
+				"south": {"uv": [9.5, 9, 6.5, 9.5], "texture": "#1"},
+				"west": {"uv": [9, 9, 9.5, 9.5], "texture": "#1"},
+				"up": {"uv": [9.5, 9, 6.5, 9.5], "texture": "#1"}
 			}
 		}
 	]
