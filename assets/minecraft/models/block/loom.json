@@ -773,6 +773,7 @@
 			"from": [7.25, 15.5, 11.5],
 			"to": [7.75, 16, 15],
 			"faces": {
+				"east": {"uv": [2, 8.5, 2.5, 12], "rotation": 90, "texture": "#0", "cullface": "up"},
 				"west": {"uv": [2, 8.5, 2.5, 12], "rotation": 270, "texture": "#0", "cullface": "up"},
 				"up": {"uv": [2, 8.5, 2.5, 12], "texture": "#0", "cullface": "up"}
 			}

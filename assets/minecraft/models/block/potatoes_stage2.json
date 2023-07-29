@@ -6,7 +6,6 @@
 	},
 	"elements": [
 		{
-			"name": "Stem1",
 			"from": [8, -1, 1.5],
 			"to": [8, 15, 14.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7, 8]},
@@ -16,7 +15,6 @@
 			}
 		},
 		{
-			"name": "Stem2",
 			"from": [8, -1, 1.5],
 			"to": [8, 15, 14.5],
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 7, 8]},
@@ -26,10 +24,8 @@
 			}
 		},
 		{
-			"name": "PotatoLarge",
 			"from": [7, -1, 7],
 			"to": [9, 0, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 2, 1], "texture": "#0"},
 				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
@@ -40,7 +36,6 @@
 			}
 		},
 		{
-			"name": "PotatoSmall1",
 			"from": [6.5, -0.99, 9],
 			"to": [7.5, -0.99, 10],
 			"rotation": {"angle": -45, "axis": "y", "origin": [7.01831, -0.99434, 9.48602]},
@@ -50,7 +45,6 @@
 			}
 		},
 		{
-			"name": "PotatoSmall2",
 			"from": [5.5, -0.99, 6],
 			"to": [6.5, -0.99, 7],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [6.01308, -0.99085, 6.48777]},
@@ -60,7 +54,6 @@
 			}
 		},
 		{
-			"name": "PotatoSmall3",
 			"from": [9, -0.99, 6],
 			"to": [10, -0.99, 7],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [9.5, -0.99, 6.5]},
@@ -70,7 +63,6 @@
 			}
 		},
 		{
-			"name": "PotatoSmall4",
 			"from": [9, -0.99, 9.5],
 			"to": [10, -0.99, 10.5],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [9.51918, -0.99084, 9.98166]},
@@ -78,13 +70,6 @@
 				"up": {"uv": [0, 1, 1, 2], "texture": "#0"},
 				"down": {"uv": [0, 1, 1, 2], "texture": "#0"}
 			}
-		}
-	],
-	"groups": [
-		{
-			"name": "Potato1",
-			"origin": [8, 8, 8],
-			"children": [0, 1, 2, 3, 4, 5, 6]
 		}
 	]
 }

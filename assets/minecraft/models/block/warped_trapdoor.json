@@ -1,6 +1,5 @@
 {
 	"ambientocclusion": false,
-	"credit": "Made with Blockbench by Juknum",
 	"textures": {
 		"0": "block/warped_trapdoor",
 		"particle": "#0"

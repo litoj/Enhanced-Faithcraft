@@ -33,17 +33,23 @@ For avoiding bushy leaves and jams on logs use `light`.
 ![image](https://user-images.githubusercontent.com/54900518/157958514-5e8d8236-ee84-4d91-ba3b-2874cf024384.jpg)
 ![image](https://github.com/JosefLitos/Enhanced-Faithcraft/assets/54900518/a7aa437e-8983-410a-b868-25fbf667653f)
 
-## Further additions
-
-### Custom sounds
+## Recommended additions
 
 - [Enhanced-Soundcraft](https://github.com/JosefLitos/Enhanced-Soundcraft)
+- [Hyperrealistic Sky](https://modrinth.com/resourcepack/hyper-realistic-sky)
 
 ## Credits
 
-Block model inspired by:
+### Foreign model sources
 
-- [Compliance/Faithful 3D](https://github.com/Faithful3D/Java-32x)
+- [Faithful 3D](https://github.com/Faithful3D/Java-32x)
+  - model use permitted [here](https://github.com/Faithful3D/Java-32x/issues/45)
+  - flower models by: **@AlkatreizeGME**
+  - `bookshelf`, `cake`, `eye` models by: **@Juknum**
+
+### My model inspiration
+
+- [Default 3D](https://www.curseforge.com/minecraft/texture-packs/default-3d-16x)
 - [Dripstones 3D](https://www.curseforge.com/minecraft/texture-packs/dripstones-3d)
 - [Fences+](https://www.curseforge.com/minecraft/texture-packs/fences)
 - [Fence +](https://www.planetminecraft.com/texture-pack/fence)
