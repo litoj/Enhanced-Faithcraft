@@ -1,1 +1,1 @@
-{ "parent": "block/3d/version/current/log_2", "textures": { "side": "block/crimson_stem", "cut": "block/stripped_crimson_stem" } }
+{"parent": "block/3d/version/current/log_2", "textures": {"side": "block/crimson_stem", "cut": "block/stripped_crimson_stem"}}

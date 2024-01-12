@@ -1,7 +1,7 @@
 {
 	"parent": "block/3d/fences/post",
 	"textures": {
-	  "post": "block/cherry_log",
+		"post": "block/cherry_log",
 		"top": "block/cherry_log_top",
 		"particle": "block/cherry_planks"
 	}

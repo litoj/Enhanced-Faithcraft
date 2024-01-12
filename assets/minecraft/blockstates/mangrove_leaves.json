@@ -1,31 +1,28 @@
 {
-  "multipart": [
-    {
-      "apply": { "model": "block/mangrove_leaves" }
-    },
-    {
-      "apply": [
-        { "model": "block/empty" },
-        { "model": "block/3d/leaves_bushes/mangrove_0" }
-      ]
-    },
-    {
-      "apply": [
-        { "model": "block/empty", "weight": 11 },
-        { "model": "block/3d/leaves_bushes/mangrove_0", "y": 90, "weight": 10 }
-      ]
-    },
-    {
-      "apply": [
-        { "model": "block/empty", "weight": 13 },
-        { "model": "block/3d/leaves_bushes/mangrove_1", "weight": 12 }
-      ]
-    },
-    {
-      "apply": [
-        { "model": "block/empty", "weight": 17 },
-        { "model": "block/3d/leaves_bushes/mangrove_1", "y": 90, "weight": 16 }
-      ]
-    }
-  ]
+	"multipart": [
+		{
+			"apply": {"model": "block/mangrove_leaves"}
+		},
+		{
+			"apply": [{"model": "block/empty"}, {"model": "block/3d/leaves_bushes/mangrove_0"}]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 11},
+				{"model": "block/3d/leaves_bushes/mangrove_0", "y": 90, "weight": 10}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 13},
+				{"model": "block/3d/leaves_bushes/mangrove_1", "weight": 12}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 17},
+				{"model": "block/3d/leaves_bushes/mangrove_1", "y": 90, "weight": 16}
+			]
+		}
+	]
 }

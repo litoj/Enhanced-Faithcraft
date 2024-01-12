@@ -1,39 +1,39 @@
 {
-  "multipart": [
-    {
-      "apply": { "model": "block/azalea_leaves" }
-    },
-    {
-      "apply": [
-        { "model": "block/empty", "weight": 9 },
-        { "model": "block/3d/leaves_bushes/azalea_0", "weight": 5 },
-        { "model": "block/3d/leaves_bushes/azalea_0", "x": 90, "weight": 5 },
-        { "model": "block/3d/leaves_bushes/azalea_0", "x": -90, "weight": 5 }
-      ]
-    },
-    {
-      "apply": [
-        { "model": "block/empty", "weight": 5 },
-        { "model": "block/3d/leaves_bushes/azalea_0", "y": 90, "weight": 3 },
-        { "model": "block/3d/leaves_bushes/azalea_0", "x": 90, "y": 90, "weight": 3 },
-        { "model": "block/3d/leaves_bushes/azalea_0", "x": -90, "y": 90, "weight": 3 }
-      ]
-    },
-    {
-      "apply": [
-        { "model": "block/empty", "weight": 7 },
-        { "model": "block/3d/leaves_bushes/azalea_1", "weight": 4 },
-        { "model": "block/3d/leaves_bushes/azalea_1", "x": 90, "weight": 4 },
-        { "model": "block/3d/leaves_bushes/azalea_1", "x": -90, "weight": 4 }
-      ]
-    },
-    {
-      "apply": [
-        { "model": "block/empty", "weight": 11 },
-        { "model": "block/3d/leaves_bushes/azalea_1", "y": 90, "weight": 6 },
-        { "model": "block/3d/leaves_bushes/azalea_1", "x": 90, "y": 90, "weight": 6 },
-        { "model": "block/3d/leaves_bushes/azalea_1", "x": -90, "y": 90, "weight": 6 }
-      ]
-    }
-  ]
+	"multipart": [
+		{
+			"apply": {"model": "block/azalea_leaves"}
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 9},
+				{"model": "block/3d/leaves_bushes/azalea_0", "weight": 5},
+				{"model": "block/3d/leaves_bushes/azalea_0", "x": 90, "weight": 5},
+				{"model": "block/3d/leaves_bushes/azalea_0", "x": -90, "weight": 5}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 5},
+				{"model": "block/3d/leaves_bushes/azalea_0", "y": 90, "weight": 3},
+				{"model": "block/3d/leaves_bushes/azalea_0", "x": 90, "y": 90, "weight": 3},
+				{"model": "block/3d/leaves_bushes/azalea_0", "x": -90, "y": 90, "weight": 3}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 7},
+				{"model": "block/3d/leaves_bushes/azalea_1", "weight": 4},
+				{"model": "block/3d/leaves_bushes/azalea_1", "x": 90, "weight": 4},
+				{"model": "block/3d/leaves_bushes/azalea_1", "x": -90, "weight": 4}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 11},
+				{"model": "block/3d/leaves_bushes/azalea_1", "y": 90, "weight": 6},
+				{"model": "block/3d/leaves_bushes/azalea_1", "x": 90, "y": 90, "weight": 6},
+				{"model": "block/3d/leaves_bushes/azalea_1", "x": -90, "y": 90, "weight": 6}
+			]
+		}
+	]
 }

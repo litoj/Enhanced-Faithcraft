@@ -6,16 +6,16 @@
 	},
 	"elements": [
 		{
-			"__comment":"The inner block",
-			"from":[1,1,1],
-			"to":[15,15,15],
+			"__comment": "The inner block",
+			"from": [1, 1, 1],
+			"to": [15, 15, 15],
 			"faces": {
-				"down":{"uv":	[1.01,1.01,14.99,14.99],"texture":"#block","cullface":"down"},
-				"up":{"uv":		[1.01,1.01,14.99,14.99],"texture":"#block","cullface":"up"},
-				"north":{"uv":	[1.01,1.01,14.99,14.99],"texture":"#block","cullface":"north"},
-				"south":{"uv":	[1.01,1.01,14.99,14.99],"texture":"#block","cullface":"south"},
-				"west":{"uv":	[1.01,1.01,14.99,14.99],"texture":"#block","cullface":"west"},
-				"east":{"uv":	[1.01,1.01,14.99,14.99],"texture":"#block","cullface":"east"}
+				"down": {"uv": [1.01, 1.01, 14.99, 14.99], "texture": "#block", "cullface": "down"},
+				"up": {"uv": [1.01, 1.01, 14.99, 14.99], "texture": "#block", "cullface": "up"},
+				"north": {"uv": [1.01, 1.01, 14.99, 14.99], "texture": "#block", "cullface": "north"},
+				"south": {"uv": [1.01, 1.01, 14.99, 14.99], "texture": "#block", "cullface": "south"},
+				"west": {"uv": [1.01, 1.01, 14.99, 14.99], "texture": "#block", "cullface": "west"},
+				"east": {"uv": [1.01, 1.01, 14.99, 14.99], "texture": "#block", "cullface": "east"}
 			}
 		},
 		{

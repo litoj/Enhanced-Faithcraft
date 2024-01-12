@@ -1,9 +1,9 @@
 {
 	"parent": "block/orientable",
 	"textures": {
+		"0": "block/helpers/arrow",
 		"side": "block/furnace_top",
-		"front": "block/dispenser_front_vertical",
-		"0": "block/helpers/hopper_arrow"
+		"front": "block/dispenser_front_vertical"
 	},
 	"elements": [
 		{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"from": [-0.01, 5, 7.5],
+			"from": [-0.01, 5.5, 7.5],
 			"to": [16.01, 10.5, 8.5],
 			"faces": {
 				"east": {"uv": [0, 1, 5, 2], "rotation": 90, "texture": "#0", "cullface": "east"},
@@ -59,7 +59,7 @@
 			}
 		},
 		{
-			"from": [7.5, 5, -0.01],
+			"from": [7.5, 5.5, -0.01],
 			"to": [8.5, 10.5, 16.01],
 			"faces": {
 				"north": {"uv": [0, 1, 5, 2], "rotation": 90, "texture": "#0", "cullface": "north"},

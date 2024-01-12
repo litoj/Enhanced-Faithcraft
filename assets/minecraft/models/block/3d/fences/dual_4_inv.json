@@ -1,7 +1,7 @@
 {
 	"__comment": "0=top, 1=cross",
 	"parent": "block/fence_inv",
-	"textures": { "1": "#0" },
+	"textures": {"1": "#0"},
 	"elements": [
 		{
 			"from": [6, 0, -2],

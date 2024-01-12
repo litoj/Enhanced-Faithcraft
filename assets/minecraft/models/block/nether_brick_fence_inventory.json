@@ -1,9 +1,9 @@
 {
 	"parent": "block/3d/fences/dual_3_inv",
 	"textures": {
-	  "0": "block/red_nether_bricks",
-	  "1": "block/netherrack",
-	  "post": "block/nether_bricks",
+		"0": "block/red_nether_bricks",
+		"1": "block/netherrack",
+		"post": "block/nether_bricks",
 		"top": "block/nether_bricks"
 	}
 }

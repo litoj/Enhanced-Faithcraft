@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/single_0_gate",
-	"textures": { "0": "block/warped_planks", "post": "block/warped_stem" }
+	"textures": {"0": "block/warped_planks", "post": "block/warped_stem"}
 }

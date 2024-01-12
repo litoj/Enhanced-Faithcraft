@@ -1,1 +1,1 @@
-{	"parent": "block/tall_grass_top",	"textures": {		"cross": "block/tall_grass_top_1"	}}
+{"parent": "block/tall_grass_top", "textures": {"cross": "block/tall_grass_top_1"}}

@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/dual_4_gate_open",
-	"textures": { "0": "block/spruce_planks", "post": "block/spruce_log" }
+	"textures": {"0": "block/spruce_planks", "post": "block/spruce_log"}
 }

@@ -1,4 +1,4 @@
 {
 	"parent": "block/ores/gold/1",
-	"textures": { "1": "block/deepslate", "2": "block/deepslate_gold_ore" }
+	"textures": {"1": "block/deepslate", "2": "block/deepslate_gold_ore"}
 }

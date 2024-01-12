@@ -2,37 +2,37 @@
 	"commment": "Designed by Juknum",
 	"multipart": [
 		{
-			"when": { "facing": "east" },
-			"apply": { "model": "block/end_portal_frame", "y": 270 }
+			"when": {"facing": "east"},
+			"apply": {"model": "block/end_portal_frame", "y": 270}
 		},
 		{
-			"when": { "facing": "north" },
-			"apply": { "model": "block/end_portal_frame", "y": 180 }
+			"when": {"facing": "north"},
+			"apply": {"model": "block/end_portal_frame", "y": 180}
 		},
 		{
-			"when": { "facing": "south" },
-			"apply": { "model": "block/end_portal_frame" }
+			"when": {"facing": "south"},
+			"apply": {"model": "block/end_portal_frame"}
 		},
 		{
-			"when": { "facing": "west" },
-			"apply": { "model": "block/end_portal_frame", "y": 90 }
+			"when": {"facing": "west"},
+			"apply": {"model": "block/end_portal_frame", "y": 90}
 		},
 
 		{
-			"when": { "facing": "east", "eye": true },
-			"apply": { "model": "block/eye", "y": 270 }
+			"when": {"facing": "east", "eye": true},
+			"apply": {"model": "block/eye", "y": 270}
 		},
 		{
-			"when": { "facing": "north", "eye": true },
-			"apply": { "model": "block/eye", "y": 180 }
+			"when": {"facing": "north", "eye": true},
+			"apply": {"model": "block/eye", "y": 180}
 		},
 		{
-			"when": { "facing": "south", "eye": true },
-			"apply": { "model": "block/eye" }
+			"when": {"facing": "south", "eye": true},
+			"apply": {"model": "block/eye"}
 		},
 		{
-			"when": { "facing": "west", "eye": true },
-			"apply": { "model": "block/eye", "y": 90 }
+			"when": {"facing": "west", "eye": true},
+			"apply": {"model": "block/eye", "y": 90}
 		}
 	]
 }

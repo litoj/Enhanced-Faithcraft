@@ -1,32 +1,32 @@
 {
 	"variants": {
 		"facing=north": [
-			{ "model": "block/jack_o_lantern" },
-			{ "model": "block/jack_o_lantern_0" },
-			{ "model": "block/jack_o_lantern_1" },
-			{ "model": "block/jack_o_lantern_2" },
-			{ "model": "block/jack_o_lantern_3" }
+			{"model": "block/jack_o_lantern"},
+			{"model": "block/jack_o_lantern_0"},
+			{"model": "block/jack_o_lantern_1"},
+			{"model": "block/jack_o_lantern_2"},
+			{"model": "block/jack_o_lantern_3"}
 		],
 		"facing=east": [
-			{ "model": "block/jack_o_lantern", "y": 90 },
-			{ "model": "block/jack_o_lantern_0", "y": 90 },
-			{ "model": "block/jack_o_lantern_1", "y": 90 },
-			{ "model": "block/jack_o_lantern_2", "y": 90 },
-			{ "model": "block/jack_o_lantern_3", "y": 90 }
+			{"model": "block/jack_o_lantern", "y": 90},
+			{"model": "block/jack_o_lantern_0", "y": 90},
+			{"model": "block/jack_o_lantern_1", "y": 90},
+			{"model": "block/jack_o_lantern_2", "y": 90},
+			{"model": "block/jack_o_lantern_3", "y": 90}
 		],
 		"facing=south": [
-			{ "model": "block/jack_o_lantern", "y": 180 },
-			{ "model": "block/jack_o_lantern_0", "y": 180 },
-			{ "model": "block/jack_o_lantern_1", "y": 180 },
-			{ "model": "block/jack_o_lantern_2", "y": 180 },
-			{ "model": "block/jack_o_lantern_3", "y": 180 }
+			{"model": "block/jack_o_lantern", "y": 180},
+			{"model": "block/jack_o_lantern_0", "y": 180},
+			{"model": "block/jack_o_lantern_1", "y": 180},
+			{"model": "block/jack_o_lantern_2", "y": 180},
+			{"model": "block/jack_o_lantern_3", "y": 180}
 		],
 		"facing=west": [
-			{ "model": "block/jack_o_lantern", "y": 270 },
-			{ "model": "block/jack_o_lantern_0", "y": 270 },
-			{ "model": "block/jack_o_lantern_1", "y": 270 },
-			{ "model": "block/jack_o_lantern_2", "y": 270 },
-			{ "model": "block/jack_o_lantern_3", "y": 270 }
+			{"model": "block/jack_o_lantern", "y": 270},
+			{"model": "block/jack_o_lantern_0", "y": 270},
+			{"model": "block/jack_o_lantern_1", "y": 270},
+			{"model": "block/jack_o_lantern_2", "y": 270},
+			{"model": "block/jack_o_lantern_3", "y": 270}
 		]
 	}
 }

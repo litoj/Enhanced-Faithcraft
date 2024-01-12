@@ -1,17 +1,16 @@
 {
-	"comment": "Designed by Juknum",
 	"variants": {
-		"shape=north_south": { "model": "block/3d/rail/flat" },
-		"shape=east_west": { "model": "block/3d/rail/flat", "y": 90 },
+		"shape=north_south": {"model": "block/3d/rail/flat"},
+		"shape=east_west": {"model": "block/3d/rail/flat", "y": 90},
 
-		"shape=ascending_east": { "model": "block/3d/rail/raised", "y": 90 },
-		"shape=ascending_west": { "model": "block/3d/rail/raised", "y": -90 },
-		"shape=ascending_north": { "model": "block/3d/rail/raised" },
-		"shape=ascending_south": { "model": "block/3d/rail/raised", "y": 180 },
+		"shape=ascending_east": {"model": "block/3d/rail/raised", "y": 90},
+		"shape=ascending_west": {"model": "block/3d/rail/raised", "y": -90},
+		"shape=ascending_north": {"model": "block/3d/rail/raised"},
+		"shape=ascending_south": {"model": "block/3d/rail/raised", "y": 180},
 
-		"shape=south_east": { "model": "block/3d/rail/corner" },
-		"shape=south_west": { "model": "block/3d/rail/corner", "y": 90 },
-		"shape=north_west": { "model": "block/3d/rail/corner", "y": 180 },
-		"shape=north_east": { "model": "block/3d/rail/corner", "y": -90 }
+		"shape=south_east": {"model": "block/3d/rail/corner"},
+		"shape=south_west": {"model": "block/3d/rail/corner", "y": 90},
+		"shape=north_west": {"model": "block/3d/rail/corner", "y": 180},
+		"shape=north_east": {"model": "block/3d/rail/corner", "y": -90}
 	}
 }

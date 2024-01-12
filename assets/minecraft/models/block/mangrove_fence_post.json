@@ -1,7 +1,7 @@
 {
 	"parent": "block/3d/fences/post",
 	"textures": {
-	  "post": "block/mangrove_log",
+		"post": "block/mangrove_log",
 		"top": "block/mangrove_log_top",
 		"particle": "block/mangrove_planks"
 	}

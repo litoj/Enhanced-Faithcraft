@@ -1,1 +1,1 @@
-{ "parent": "block/oak_door_bottom", "textures": { "0": "block/iron_door_bottom" } }
+{"parent": "block/oak_door_bottom", "textures": {"0": "block/iron_door_bottom"}}

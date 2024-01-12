@@ -1,1 +1,1 @@
-{ "parent": "block/template_wall_post", "textures": { "wall": "block/nether_bricks/red_1" } }
+{"parent": "block/template_wall_post", "textures": {"wall": "block/nether_bricks/red_1"}}

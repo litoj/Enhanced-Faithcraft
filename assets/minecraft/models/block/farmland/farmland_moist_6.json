@@ -1,5 +1,5 @@
 {
 	"credit": "Designed by Juknum",
 	"parent": "block/farmland/farmland",
-	"textures": { "0": "block/farmland/farmland_moist_6" }
+	"textures": {"0": "block/farmland/farmland_moist_6"}
 }

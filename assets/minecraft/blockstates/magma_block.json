@@ -1,10 +1,5 @@
 {
 	"variants": {
-		"": [
-			{ "model": "block/magma_block" },
-			{ "model": "block/magma_block_0" },
-			{ "model": "block/magma_block_1" },
-			{ "model": "block/magma_block_2" }
-		]
+		"": [{"model": "block/magma_block"}, {"model": "block/magma_block_0"}, {"model": "block/magma_block_1"}, {"model": "block/magma_block_2"}]
 	}
 }

@@ -1,7 +1,7 @@
 {
 	"parent": "block/3d/fences/post",
 	"textures": {
-	  "post": "block/birch_log",
+		"post": "block/birch_log",
 		"top": "block/birch_log_top",
 		"particle": "block/birch_planks"
 	}

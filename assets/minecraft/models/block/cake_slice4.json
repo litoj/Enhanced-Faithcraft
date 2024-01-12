@@ -364,7 +364,8 @@
 			"name": "cake",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [0,
+			"children": [
+				0,
 				{
 					"name": "cream north",
 					"origin": [8, 8, 8],
@@ -399,7 +400,12 @@
 							"origin": [4, 8, 12],
 							"color": 0,
 							"children": []
-						}, 26, 27, 28, 29]
+						},
+						26,
+						27,
+						28,
+						29
+					]
 				}
 			]
 		}

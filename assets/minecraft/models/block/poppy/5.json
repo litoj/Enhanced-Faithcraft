@@ -1,1 +1,1 @@
-{ "parent": "block/cross", "textures": { "cross": "block/poppy/5" } }
+{"parent": "block/cross", "textures": {"cross": "block/poppy/5"}}

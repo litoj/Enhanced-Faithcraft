@@ -560,7 +560,8 @@
 			"name": "cake",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [0,
+			"children": [
+				0,
 				{
 					"name": "cream north",
 					"origin": [8, 8, 8],

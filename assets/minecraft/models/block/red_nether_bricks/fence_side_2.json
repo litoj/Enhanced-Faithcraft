@@ -1,1 +1,1 @@
-{ "parent": "block/fence_side", "textures": { "texture": "block/nether_bricks/red_2" } }
+{"parent": "block/fence_side", "textures": {"texture": "block/nether_bricks/red_2"}}

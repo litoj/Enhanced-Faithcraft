@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/dual_1",
-	"textures": { "0": "block/acacia_planks" }
+	"textures": {"0": "block/acacia_planks"}
 }

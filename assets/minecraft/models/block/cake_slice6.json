@@ -276,7 +276,8 @@
 			}
 		}
 	],
-	"groups": [0,
+	"groups": [
+		0,
 		{
 			"name": "cake_slice5",
 			"origin": [8, 8, 8],
@@ -315,7 +316,9 @@
 									"origin": [4, 8, 12],
 									"color": 0,
 									"children": []
-								}, 13]
+								},
+								13
+							]
 						},
 						{
 							"name": "cream east",

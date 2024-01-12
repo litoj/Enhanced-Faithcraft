@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/single_2",
-	"textures": { "0": "block/dark_oak_planks" }
+	"textures": {"0": "block/dark_oak_planks"}
 }

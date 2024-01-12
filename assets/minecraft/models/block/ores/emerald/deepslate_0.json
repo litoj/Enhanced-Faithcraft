@@ -1,4 +1,4 @@
 {
 	"parent": "block/ores/emerald/0",
-	"textures": { "1": "block/deepslate", "2": "block/deepslate_emerald_ore" }
+	"textures": {"1": "block/deepslate", "2": "block/deepslate_emerald_ore"}
 }

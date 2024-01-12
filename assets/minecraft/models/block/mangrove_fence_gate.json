@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/dual_4_gate",
-	"textures": { "0": "block/mangrove_planks", "post": "block/mangrove_log" }
+	"textures": {"0": "block/mangrove_planks", "post": "block/mangrove_log"}
 }

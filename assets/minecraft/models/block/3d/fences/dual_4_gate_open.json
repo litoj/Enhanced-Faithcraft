@@ -1,5 +1,5 @@
 {
-	"textures": { "1": "#0", "particle": "#1", "post": "#1", "top": "#post" },
+	"textures": {"1": "#0", "particle": "#1", "post": "#1", "top": "#post"},
 	"elements": [
 		{
 			"from": [-0.5, 5, 6.5],

@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/jungle_log",
 		"1": "block/jungle_planks",
-	  "post": "block/jungle_log",
+		"post": "block/jungle_log",
 		"top": "block/jungle_log_top"
 	}
 }

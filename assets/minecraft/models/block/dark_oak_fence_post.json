@@ -1,7 +1,7 @@
 {
 	"parent": "block/3d/fences/post",
 	"textures": {
-	  "post": "block/dark_oak_log",
+		"post": "block/dark_oak_log",
 		"top": "block/dark_oak_log_top",
 		"particle": "block/dark_oak_planks"
 	}

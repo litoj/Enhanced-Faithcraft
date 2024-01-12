@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/dual_0_gate",
-	"textures": { "0": "block/cherry_planks", "hinge": "block/white_wool" }
+	"textures": {"0": "block/cherry_planks", "hinge": "block/white_wool"}
 }

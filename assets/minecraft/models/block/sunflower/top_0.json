@@ -1,1 +1,1 @@
-{ "parent": "block/sunflower_top", "textures": { "front": "block/sunflower/0" } }
+{"parent": "block/sunflower_top", "textures": {"front": "block/sunflower/0"}}

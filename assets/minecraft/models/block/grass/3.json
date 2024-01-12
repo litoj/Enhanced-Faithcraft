@@ -1,1 +1,1 @@
-{ "parent": "block/grass", "textures": { "cross": "block/grass/3" } }
+{"parent": "block/grass", "textures": {"cross": "block/grass/3"}}

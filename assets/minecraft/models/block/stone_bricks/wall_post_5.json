@@ -1,1 +1,1 @@
-{ "parent": "block/template_wall_post", "textures": { "wall": "block/stone_bricks/5" } }
+{"parent": "block/template_wall_post", "textures": {"wall": "block/stone_bricks/5"}}

@@ -1,1 +1,1 @@
-{ "parent": "block/cube_all", "textures": { "all": "block/nether_bricks/red_4" } }
+{"parent": "block/cube_all", "textures": {"all": "block/nether_bricks/red_4"}}

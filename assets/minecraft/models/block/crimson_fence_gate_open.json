@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/single_1_gate_open",
-	"textures": { "0": "block/crimson_planks", "post": "block/crimson_stem" }
+	"textures": {"0": "block/crimson_planks", "post": "block/crimson_stem"}
 }

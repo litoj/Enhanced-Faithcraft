@@ -1,13 +1,15 @@
 {
-	  "variants": {
-	      "": [ { "model": "block/dandelion" },
-		{ "model": "block/dandelion/0" },
-		{ "model": "block/dandelion/1" },
-		{ "model": "block/dandelion/2" },
-		{ "model": "block/dandelion/3" },
-		{ "model": "block/dandelion/4" },
-		{ "model": "block/dandelion/5" },
-		{ "model": "block/dandelion/6" },
-		{ "model": "block/dandelion/7" } ]
-	  }
+	"variants": {
+		"": [
+			{"model": "block/dandelion"},
+			{"model": "block/dandelion/0"},
+			{"model": "block/dandelion/1"},
+			{"model": "block/dandelion/2"},
+			{"model": "block/dandelion/3"},
+			{"model": "block/dandelion/4"},
+			{"model": "block/dandelion/5"},
+			{"model": "block/dandelion/6"},
+			{"model": "block/dandelion/7"}
+		]
+	}
 }

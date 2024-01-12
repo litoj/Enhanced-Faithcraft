@@ -1,1 +1,1 @@
-{ "parent": "block/cross", "textures": { "cross": "block/peony_top_0" } }
+{"parent": "block/cross", "textures": {"cross": "block/peony_top_0"}}

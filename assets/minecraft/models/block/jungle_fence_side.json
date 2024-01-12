@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/dual_2",
-	"textures": { "0": "block/jungle_log", "1": "block/jungle_planks" }
+	"textures": {"0": "block/jungle_log", "1": "block/jungle_planks"}
 }

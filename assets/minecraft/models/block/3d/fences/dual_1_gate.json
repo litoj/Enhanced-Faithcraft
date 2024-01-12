@@ -1,6 +1,6 @@
 {
 	"parent": "block/fence_inv",
-	"textures": { "particle": "#0" },
+	"textures": {"particle": "#0"},
 	"elements": [
 		{
 			"from": [14, 0, 6],

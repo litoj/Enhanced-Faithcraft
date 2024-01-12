@@ -1,104 +1,99 @@
 {
 	"multipart": [
 		{
-			"when": { "axis": "y" },
-			"apply": { "model": "block/3d/log/jungle_column", "weight": 30 }
+			"when": {"axis": "y"},
+			"apply": {"model": "block/3d/log/jungle_column", "weight": 30}
 		},
 		{
-			"when": { "axis": "x" },
-			"apply": { "model": "block/3d/log/jungle_column", "x": 90, "y": 90 }
+			"when": {"axis": "x"},
+			"apply": {"model": "block/3d/log/jungle_column", "x": 90, "y": 90}
 		},
 		{
-			"when": { "axis": "z" },
-			"apply": { "model": "block/3d/log/jungle_column", "x": 90 }
+			"when": {"axis": "z"},
+			"apply": {"model": "block/3d/log/jungle_column", "x": 90}
 		},
 
 		{
-			"when": { "axis": "y|x" },
-			"apply": [
-				{ "model": "block/empty", "weight": 17 },
-				{ "model": "block/3d/log/jungle_2" },
-				{ "model": "block/3d/log/jungle_2", "y": 180 }
-			]
+			"when": {"axis": "y|x"},
+			"apply": [{"model": "block/empty", "weight": 17}, {"model": "block/3d/log/jungle_2"}, {"model": "block/3d/log/jungle_2", "y": 180}]
 		},
 		{
-			"when": { "axis": "y|z" },
+			"when": {"axis": "y|z"},
 			"apply": [
-				{ "model": "block/empty", "weight":  19 },
-				{ "model": "block/3d/log/jungle_2", "y": 90, "weight": 2 },
-				{ "model": "block/3d/log/jungle_2", "y": -90, "weight": 2 }
+				{"model": "block/empty", "weight": 19},
+				{"model": "block/3d/log/jungle_2", "y": 90, "weight": 2},
+				{"model": "block/3d/log/jungle_2", "y": -90, "weight": 2}
 			]
 		},
 
 		{
-			"when": { "axis": "x|z" },
+			"when": {"axis": "x|z"},
 			"apply": [
-				{ "model": "block/empty", "weight": 23 },
-				{ "model": "block/3d/log/jungle_2", "x": 90, "y": -90 },
-				{ "model": "block/3d/log/jungle_2", "x": -90, "y": -90 }
+				{"model": "block/empty", "weight": 23},
+				{"model": "block/3d/log/jungle_2", "x": 90, "y": -90},
+				{"model": "block/3d/log/jungle_2", "x": -90, "y": -90}
 			]
 		},
 
 		{
-			"when": { "axis": "y|x" },
+			"when": {"axis": "y|x"},
 			"apply": [
-				{ "model": "block/empty", "weight": 31 },
-				{ "model": "block/3d/log/jungle_0" },
-				{ "model": "block/3d/log/jungle_1" },
-				{ "model": "block/3d/log/jungle_0", "x": 180, "y": 180 },
-				{ "model": "block/3d/log/jungle_1", "x": 180, "y": 180 }
+				{"model": "block/empty", "weight": 31},
+				{"model": "block/3d/log/jungle_0"},
+				{"model": "block/3d/log/jungle_1"},
+				{"model": "block/3d/log/jungle_0", "x": 180, "y": 180},
+				{"model": "block/3d/log/jungle_1", "x": 180, "y": 180}
 			]
 		},
 		{
-			"when": { "axis": "y|z" },
+			"when": {"axis": "y|z"},
 			"apply": [
-				{ "model": "block/empty", "weight": 61 },
-				{ "model": "block/3d/log/jungle_0", "y": 90, "weight": 2 },
-				{ "model": "block/3d/log/jungle_1", "y": 90, "weight": 2 },
-				{ "model": "block/3d/log/jungle_0", "x": 180, "y": -90, "weight": 2 },
-				{ "model": "block/3d/log/jungle_1", "x": 180, "y": -90, "weight": 2 }
+				{"model": "block/empty", "weight": 61},
+				{"model": "block/3d/log/jungle_0", "y": 90, "weight": 2},
+				{"model": "block/3d/log/jungle_1", "y": 90, "weight": 2},
+				{"model": "block/3d/log/jungle_0", "x": 180, "y": -90, "weight": 2},
+				{"model": "block/3d/log/jungle_1", "x": 180, "y": -90, "weight": 2}
 			]
 		},
 		{
-			"when": { "axis": "y|x" },
+			"when": {"axis": "y|x"},
 			"apply": [
-				{ "model": "block/empty", "weight": 33 },
-				{ "model": "block/3d/log/jungle_0", "y": 180 },
-				{ "model": "block/3d/log/jungle_1", "y": 180 },
-				{ "model": "block/3d/log/jungle_0", "x": 180 },
-				{ "model": "block/3d/log/jungle_1", "x": 180 }
+				{"model": "block/empty", "weight": 33},
+				{"model": "block/3d/log/jungle_0", "y": 180},
+				{"model": "block/3d/log/jungle_1", "y": 180},
+				{"model": "block/3d/log/jungle_0", "x": 180},
+				{"model": "block/3d/log/jungle_1", "x": 180}
 			]
 		},
 		{
-			"when": { "axis": "y|z" },
+			"when": {"axis": "y|z"},
 			"apply": [
-				{ "model": "block/empty", "weight": 63 },
-				{ "model": "block/3d/log/jungle_0", "y": -90, "weight": 2 },
-				{ "model": "block/3d/log/jungle_1", "y": -90, "weight": 2 },
-				{ "model": "block/3d/log/jungle_0", "x": 180, "y": 90, "weight": 2 },
-				{ "model": "block/3d/log/jungle_1", "x": 180, "y": 90, "weight": 2 }
+				{"model": "block/empty", "weight": 63},
+				{"model": "block/3d/log/jungle_0", "y": -90, "weight": 2},
+				{"model": "block/3d/log/jungle_1", "y": -90, "weight": 2},
+				{"model": "block/3d/log/jungle_0", "x": 180, "y": 90, "weight": 2},
+				{"model": "block/3d/log/jungle_1", "x": 180, "y": 90, "weight": 2}
 			]
 		},
 		{
-			"when": { "axis": "x|z" },
+			"when": {"axis": "x|z"},
 			"apply": [
-				{ "model": "block/empty", "weight": 32 },
-				{ "model": "block/3d/log/jungle_0", "x": 90 },
-				{ "model": "block/3d/log/jungle_0", "x": 90, "y": 90 },
-				{ "model": "block/3d/log/jungle_0", "x": 90, "y": 180 },
-				{ "model": "block/3d/log/jungle_0", "x": 90, "y": -90 }
+				{"model": "block/empty", "weight": 32},
+				{"model": "block/3d/log/jungle_0", "x": 90},
+				{"model": "block/3d/log/jungle_0", "x": 90, "y": 90},
+				{"model": "block/3d/log/jungle_0", "x": 90, "y": 180},
+				{"model": "block/3d/log/jungle_0", "x": 90, "y": -90}
 			]
 		},
 		{
-			"when": { "axis": "x|z" },
+			"when": {"axis": "x|z"},
 			"apply": [
-				{ "model": "block/empty", "weight": 37 },
-				{ "model": "block/3d/log/jungle_0", "x": -90 },
-				{ "model": "block/3d/log/jungle_0", "x": -90, "y": 90 },
-				{ "model": "block/3d/log/jungle_0", "x": -90, "y": 180 },
-				{ "model": "block/3d/log/jungle_0", "x": -90, "y": -90 }
+				{"model": "block/empty", "weight": 37},
+				{"model": "block/3d/log/jungle_0", "x": -90},
+				{"model": "block/3d/log/jungle_0", "x": -90, "y": 90},
+				{"model": "block/3d/log/jungle_0", "x": -90, "y": 180},
+				{"model": "block/3d/log/jungle_0", "x": -90, "y": -90}
 			]
 		}
 	]
 }
-

@@ -1,1 +1,1 @@
-{ "parent": "block/3d/version/current/log_0", "textures": { "3D": "block/dark_oak_log_top" } }
+{"parent": "block/3d/version/current/log_0", "textures": {"3D": "block/dark_oak_log_top"}}

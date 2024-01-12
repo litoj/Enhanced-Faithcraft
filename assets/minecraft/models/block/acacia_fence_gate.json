@@ -1,4 +1,4 @@
 {
 	"parent": "block/3d/fences/dual_1_gate",
-	"textures": { "0": "block/acacia_planks", "post": "block/acacia_log" }
+	"textures": {"0": "block/acacia_planks", "post": "block/acacia_log"}
 }

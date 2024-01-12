@@ -1,42 +1,34 @@
 {
 	"multipart": [
-	  {
-	    "apply": [{ "model": "block/cactus" }]
-	  },
-	  {
-	    "apply": [
-	      { "model": "block/empty", "weight": 4 },
-	      { "model": "block/cactus/pink_top" },
-	      { "model": "block/cactus/red_top" }
-	    ]
-	  },
-	  {
-	    "apply": [
-	      { "model": "block/empty", "weight": 3 },
-	      { "model": "block/cactus/pink_side_0" },
-	      { "model": "block/cactus/red_side_0" }
-	    ]
-	  },
-	  {
-	    "apply": [
-	      { "model": "block/empty", "weight": 7 },
-	      { "model": "block/cactus/pink_side_0", "y": 90, "weight": 3 },
-	      { "model": "block/cactus/red_side_0", "y": 90, "weight": 2 }
-	    ]
-	  },
-	  {
-	    "apply": [
-	      { "model": "block/empty", "weight": 7 },
-	      { "model": "block/cactus/pink_side_0", "y": 180, "weight": 2 },
-	      { "model": "block/cactus/red_side_0", "y": 180, "weight": 2 }
-	    ]
-	  },
-	  {
-	    "apply": [
-	      { "model": "block/empty", "weight": 8 },
-	      { "model": "block/cactus/pink_side_0", "y": 270, "weight": 2 },
-	      { "model": "block/cactus/red_side_0", "y": 270, "weight": 3 }
-	    ]
-	  }
+		{
+			"apply": [{"model": "block/cactus"}]
+		},
+		{
+			"apply": [{"model": "block/empty", "weight": 4}, {"model": "block/cactus/pink_top"}, {"model": "block/cactus/red_top"}]
+		},
+		{
+			"apply": [{"model": "block/empty", "weight": 3}, {"model": "block/cactus/pink_side_0"}, {"model": "block/cactus/red_side_0"}]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 7},
+				{"model": "block/cactus/pink_side_0", "y": 90, "weight": 3},
+				{"model": "block/cactus/red_side_0", "y": 90, "weight": 2}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 7},
+				{"model": "block/cactus/pink_side_0", "y": 180, "weight": 2},
+				{"model": "block/cactus/red_side_0", "y": 180, "weight": 2}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 8},
+				{"model": "block/cactus/pink_side_0", "y": 270, "weight": 2},
+				{"model": "block/cactus/red_side_0", "y": 270, "weight": 3}
+			]
+		}
 	]
 }

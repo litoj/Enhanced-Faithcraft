@@ -1,14 +1,14 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/brown_mushroom" },
-			{ "model": "block/mushroom/brown_0" },
-			{ "model": "block/mushroom/brown_1" },
-			{ "model": "block/mushroom/brown_2" },
-			{ "model": "block/mushroom/brown_3" },
-			{ "model": "block/mushroom/brown_4" },
-			{ "model": "block/mushroom/brown_5" },
-			{ "model": "block/mushroom/brown_6" }
+			{"model": "block/brown_mushroom"},
+			{"model": "block/mushroom/brown_0"},
+			{"model": "block/mushroom/brown_1"},
+			{"model": "block/mushroom/brown_2"},
+			{"model": "block/mushroom/brown_3"},
+			{"model": "block/mushroom/brown_4"},
+			{"model": "block/mushroom/brown_5"},
+			{"model": "block/mushroom/brown_6"}
 		]
 	}
 }

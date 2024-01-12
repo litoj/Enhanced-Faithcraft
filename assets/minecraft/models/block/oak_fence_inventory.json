@@ -1,8 +1,8 @@
 {
 	"parent": "block/3d/fences/single_0_inv",
 	"textures": {
-	  "0": "block/oak_planks",
-	  "post": "block/oak_log",
+		"0": "block/oak_planks",
+		"post": "block/oak_log",
 		"top": "block/oak_log_top"
 	}
 }

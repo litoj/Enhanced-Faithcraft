@@ -1,1 +1,1 @@
-{ "parent": "block/3d/rail/activator", "textures": {"0": "block/activator_rail_on"} }
+{"parent": "block/3d/rail/activator", "textures": {"0": "block/activator_rail_on"}}

@@ -1,7 +1,7 @@
 {
 	"parent": "block/3d/fences/post",
 	"textures": {
-	  "post": "block/warped_stem",
+		"post": "block/warped_stem",
 		"top": "block/warped_stem_top",
 		"particle": "block/warped_planks"
 	}

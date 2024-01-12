@@ -1,13 +1,14 @@
 {
-	      "variants": {
-	      "": [ { "model": "block/red_mushroom" },
-					{ "model": "block/mushroom/red_0" },
-					{ "model": "block/mushroom/red_1" },
-					{ "model": "block/mushroom/red_2" },
-					{ "model": "block/mushroom/red_3" },
-					{ "model": "block/mushroom/red_4" },
-					{ "model": "block/mushroom/red_5" },
-					{ "model": "block/mushroom/red_6" }
-			]
-	  }
+	"variants": {
+		"": [
+			{"model": "block/red_mushroom"},
+			{"model": "block/mushroom/red_0"},
+			{"model": "block/mushroom/red_1"},
+			{"model": "block/mushroom/red_2"},
+			{"model": "block/mushroom/red_3"},
+			{"model": "block/mushroom/red_4"},
+			{"model": "block/mushroom/red_5"},
+			{"model": "block/mushroom/red_6"}
+		]
+	}
 }

@@ -1,4 +1,4 @@
 {
 	"parent": "block/ores/redstone/2",
-	"textures": { "1": "block/deepslate", "2": "block/deepslate_redstone_ore" }
+	"textures": {"1": "block/deepslate", "2": "block/deepslate_redstone_ore"}
 }
