@@ -34,7 +34,7 @@ setVersion() {
 }
 
 fmtInplace() {
-	# prettier --use-tabs --tab-width 2 --no-bracket-spacing --print-width 200 "$1" > "$2"
+	prettier --use-tabs --tab-width 2 --no-bracket-spacing --print-width 200 "$1" > "$2"
 	diff -q "$1" "$2" || cp "$2" "$1"
 }
 
