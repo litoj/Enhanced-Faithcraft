@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/helpers/hopper_arrow",
+		"0": "block/helpers/arrow",
 		"top": "block/hopper_top",
 		"particle": "block/hopper_outside",
 		"side": "block/hopper_outside",
