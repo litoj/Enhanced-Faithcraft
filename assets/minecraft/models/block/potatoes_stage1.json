@@ -2,6 +2,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/potatoes_stage1",
+		"1": "item/potato",
 		"particle": "block/potatoes_stage1"
 	},
 	"elements": [
@@ -10,8 +11,8 @@
 			"to": [8, 15, 14.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7, 8]},
 			"faces": {
-				"east": {"uv": [3, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [3, 0, 16, 16], "texture": "#0"}
+				"east": {"uv": [2, 0, 15, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 15, 16], "texture": "#0"}
 			}
 		},
 		{
@@ -19,20 +20,20 @@
 			"to": [8, 15, 14.5],
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 7, 8]},
 			"faces": {
-				"east": {"uv": [3, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [3, 0, 16, 16], "texture": "#0"}
+				"east": {"uv": [2, 0, 15, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 15, 16], "texture": "#0"}
 			}
 		},
 		{
 			"from": [7, -0.99, 7],
-			"to": [9, -0.99, 9],
+			"to": [9, 0.01, 9],
 			"faces": {
-				"north": {"uv": [0, 0, 2, 1], "texture": "#0"},
-				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
-				"south": {"uv": [0, 0, 2, 1], "texture": "#0"},
-				"west": {"uv": [0, 0, 2, 1], "texture": "#0"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+				"north": {"uv": [11, 8, 13, 9], "texture": "#1"},
+				"east": {"uv": [11, 8, 13, 9], "texture": "#1"},
+				"south": {"uv": [11, 8, 13, 9], "texture": "#1"},
+				"west": {"uv": [11, 8, 13, 9], "texture": "#1"},
+				"up": {"uv": [11, 8, 13, 10], "texture": "#1"},
+				"down": {"uv": [11, 8, 13, 10], "texture": "#1"}
 			}
 		}
 	]
