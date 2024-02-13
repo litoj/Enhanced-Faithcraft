@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"arrow": "block/helpers/arrow"
+		"arrow": "block/anvil"
 	},
 	"elements": [
 		{

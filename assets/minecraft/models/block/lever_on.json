@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"3": "block/anvil",
+		"3": "block/hopper_top",
 		"particle": "block/cobblestone",
 		"base": "block/cobblestone",
 		"lever": "block/lever"
