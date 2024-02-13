@@ -1,5 +1,13 @@
 {
-	"variants": {
-		"": [{"model": "block/sugar_cane", "weight": 3}, {"model": "block/sugar_cane_0"}, {"model": "block/sugar_cane_1"}, {"model": "block/sugar_cane_2"}]
-	}
+	"multipart": [
+		{"apply": {"model": "block/sugar_cane"}},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 6},
+				{"model": "block/sugar_cane_flower_0"},
+				{"model": "block/sugar_cane_flower_1"},
+				{"model": "block/sugar_cane_flower_2"}
+			]
+		}
+	]
 }

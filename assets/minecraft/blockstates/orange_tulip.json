@@ -1,0 +1,33 @@
+{
+	"multipart": [
+		{"apply": {"model": "block/3d/flower/orange_tulip"}},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 2},
+				{"model": "block/3d/flower/leaf_0"},
+				{"model": "block/3d/flower/leaf_1"}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 11},
+				{"model": "block/3d/flower/leaf_0", "y": 90, "weight": 5},
+				{"model": "block/3d/flower/leaf_1", "y": 90, "weight": 5}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 13},
+				{"model": "block/3d/flower/leaf_0", "y": 180, "weight": 6},
+				{"model": "block/3d/flower/leaf_1", "y": 180, "weight": 6}
+			]
+		},
+		{
+			"apply": [
+				{"model": "block/empty", "weight": 11},
+				{"model": "block/3d/flower/leaf_0", "y": -90, "weight": 6},
+				{"model": "block/3d/flower/leaf_1", "y": -90, "weight": 6}
+			]
+		}
+	]
+}

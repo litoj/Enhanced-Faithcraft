@@ -3,14 +3,8 @@
 		"half=lower": {"model": "block/sunflower_bottom"},
 		"half=upper": [
 			{"model": "block/sunflower_top", "weight": 2},
-			{"model": "block/sunflower/top_0", "weight": 2},
-			{"model": "block/sunflower/top_1", "weight": 2},
-			{"model": "block/sunflower/top_2"},
-			{"model": "block/sunflower/top_3"},
-			{"model": "block/sunflower/top_4"},
-			{"model": "block/sunflower/top_5"},
-			{"model": "block/sunflower/top_6"},
-			{"model": "block/sunflower/top_7"}
+			{"model": "block/sunflower_top_0"},
+			{"model": "block/sunflower_top_1"}
 		]
 	}
 }

@@ -1,0 +1,19 @@
+{
+	"textures": {
+		"1": "block/lily_of_the_valley",
+		"particle": "#1"
+	},
+	"elements": [
+		{
+			"from": [7.75, 0, 7.75],
+			"to": [8.25, 9.5, 8.25],
+			"faces": {
+				"north": {"uv": [8, 7, 8.5, 16], "texture": "#1"},
+				"east": {"uv": [8.5, 7, 9, 16], "texture": "#1"},
+				"south": {"uv": [8.5, 6.5, 9, 16], "texture": "#1"},
+				"west": {"uv": [8, 6.5, 8.5, 16], "texture": "#1"},
+				"up": {"uv": [8, 7, 8.5, 7.5], "texture": "#1"}
+			}
+		}
+	]
+}

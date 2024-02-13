@@ -1,0 +1,13 @@
+{
+	"textures": {"1": "block/lily_of_the_valley"},
+	"elements": [
+		{
+			"from": [8, 0, 3.75],
+			"to": [8, 9, 7.75],
+			"faces": {
+				"east": {"uv": [9, 7, 13, 16], "texture": "#1"},
+				"west": {"uv": [13, 7, 9, 16], "texture": "#1"}
+			}
+		}
+	]
+}

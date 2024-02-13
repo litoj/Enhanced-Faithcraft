@@ -1,8 +1,7 @@
 {
 	"textures": {
-		"cross": "block/grass",
-		"0": "#cross",
-		"particle": "#cross"
+		"0": "block/grass",
+		"particle": "#0"
 	},
 	"ambientocclusion": false,
 	"elements": [
