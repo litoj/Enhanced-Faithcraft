@@ -1,0 +1,17 @@
+{
+	"textures": {
+		"1": "block/3d/books",
+		"0": "block/chiseled_bookshelf_occupied"
+	},
+	"elements": [
+		{
+			"from": [11, 9, 1],
+			"to": [15, 14, 7],
+			"faces": {
+				"north": {"uv": [1, 2, 5, 7], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [5, 2, 1, 7], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [7.875, 2.25, 9.5, 3.25], "rotation": 270, "texture": "#1", "cullface": "north"}
+			}
+		}
+	]
+}

@@ -1,5 +1,0 @@
-{
-	"variants": {
-		"": [{"model": "block/bookshelf/0"}, {"model": "block/bookshelf/1", "y": 90}, {"model": "block/bookshelf/2", "y": 180}, {"model": "block/bookshelf/3", "y": 270}]
-	}
-}
