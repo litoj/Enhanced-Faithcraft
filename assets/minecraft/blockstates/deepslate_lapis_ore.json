@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"": [{"model": "block/deepslate_lapis_ore"}, {"model": "block/ores/lapis/deepslate_0"}, {"model": "block/ores/lapis/deepslate_1"}]
+		"": [{"model": "block/deepslate_lapis_ore"}, {"model": "block/ores/lapis/deepslate_0"}, {"model": "block/ores/lapis/deepslate_1"}, {"model": "block/ores/lapis/deepslate_2"}]
 	}
 }
