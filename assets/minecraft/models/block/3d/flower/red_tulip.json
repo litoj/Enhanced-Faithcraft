@@ -1,4 +1,4 @@
 {
-	"parent": "block/tulip/orange",
+	"parent": "block/3d/flower/orange_tulip",
 	"textures": {"0": "block/3d/flower/red_tulip"}
 }
