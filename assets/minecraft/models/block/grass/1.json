@@ -2,7 +2,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/grass",
-		"particle": "block/grass"
+		"particle": "#0"
 	},
 	"elements": [
 		{

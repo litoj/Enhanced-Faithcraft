@@ -13,14 +13,13 @@ This pack features:
 
 ## Compatibility
 
-- [Faithful x32](https://faithfulpack.net/faithful32x/latest) is a dependency, this is just an extensive addon
+- [Faithful x32](https://faithfulpack.net/faithful32x/latest) is an optional dependency, this is just an extensive 3D/variation model addon
 - 3D models are x16 compatible
-- please remove `assets/minecraft/optifine/ctm/bookshelf` folder from Faithful to fix bookshelf model
 
 ## Config
 
-This pack has 2 variants for better performace or better looks of leaves, to change the version, go to
-`assets/minecraft/models/3d/version` and rename the version you want to `current`.
+This pack has 2 modes for better performace or better looks of leaves, to change the mode, go to
+`assets/minecraft/models/3d/mode` and rename the version you want to `current`.
 Available are: `light`, `heavy`
 
 For more bushy leaves and more depth of wood logs use `heavy`.

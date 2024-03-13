@@ -1,5 +1,5 @@
 {
-	"parent": "block/3d/version/current/leaves_1",
+	"parent": "block/3d/mode/current/leaves_1",
 	"textures": {
 		"top": "block/3d/leaves_bushes/acacia_top",
 		"bottom": "block/3d/leaves_bushes/acacia_bottom"

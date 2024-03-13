@@ -1,5 +1,5 @@
 {
-	"parent": "block/3d/version/current/log",
+	"parent": "block/3d/mode/current/log",
 	"textures": {
 		"end": "block/stripped_warped_stem_top",
 		"side": "block/stripped_warped_stem"

@@ -1,5 +1,5 @@
 {
-	"parent": "block/3d/version/current/log",
+	"parent": "block/3d/mode/current/log",
 	"textures": {
 		"end": "block/acacia_log_top",
 		"side": "block/acacia_log"

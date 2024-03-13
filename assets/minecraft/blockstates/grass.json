@@ -2,7 +2,6 @@
 	"multipart": [
 		{
 			"apply": [
-				{"model": "block/grass"},
 				{"model": "block/grass/0"},
 				{"model": "block/grass/1"},
 				{"model": "block/grass/2"},
@@ -11,7 +10,8 @@
 				{"model": "block/grass/5"},
 				{"model": "block/grass/6"},
 				{"model": "block/grass/7"},
-				{"model": "block/grass/8"}
+				{"model": "block/grass/8"},
+				{"model": "block/grass/9"}
 			]
 		},
 		{
