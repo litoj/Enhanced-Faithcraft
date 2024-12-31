@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-declare -A colors=([light]=2 [heavy]=4) current=([mcVerFix]=mc13)
+declare -A colors=([light]=2 [heavy]=4) current=([mcVerFix]=mc20_4)
 [[ ${colors[$1]} ]] && modes=("$1") && set -- "${@:2}" || modes=("${!colors[@]}")
 
 setMode() {
