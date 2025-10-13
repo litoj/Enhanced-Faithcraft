@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/grass",
+		"0": "block/short_grass",
 		"particle": "#0"
 	},
 	"elements": [

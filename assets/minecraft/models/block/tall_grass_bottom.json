@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "block/grass",
+		"0": "block/short_grass",
 		"1": "block/tall_grass_bottom",
 		"particle": "#0"
 	},
