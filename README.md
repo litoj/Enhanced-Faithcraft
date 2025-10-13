@@ -13,17 +13,18 @@ This pack features:
 
 ## Compatibility
 
-- [Faithful x32](https://faithfulpack.net/faithful32x/latest) is an optional dependency, this is just an extensive 3D/variation model addon
+- [Faithful x32](https://faithfulpack.net/faithful32x/latest) is an optional dependency, this is
+  just an extensive 3D/variation model addon
 - 3D models are x16 compatible
 
 ## Config
 
-This pack has 2 modes for better performace or better looks of leaves, to change the mode, go to
-`assets/minecraft/models/3d/mode` and rename the version you want to `current`.
-Available are: `light`, `heavy`
+This pack has 2 detail levels for better performace or better looks of leaves, to change the detail,
+go to `assets/minecraft/models/3d/detail` and rename the version you want to `current`. Available
+are: `light`, `heavy`
 
-For more bushy leaves and more depth of wood logs use `heavy`.
-For avoiding bushy leaves and jams on logs use `light`.
+For more bushy leaves, wood log jams and cut branches and wheat density use `heavy`. For 20% better
+performance use `light`.
 
 ## Screenshots
 
