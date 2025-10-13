@@ -22,11 +22,16 @@ setMode() {
 light() {
 	if [[ $1 == setup ]]; then
 		setMode light
-		cp ./assets/minecraft/blockstates/spruce_leaves.json /tmp/spruce_leaves.json
 		# strip cones from spruce leaves
+		cp ./assets/minecraft/blockstates/spruce_leaves.json /tmp/spruce_leaves.json
 		sed -i '29,47d' ./assets/minecraft/blockstates/spruce_leaves.json
+
+		mv ./assets/minecraft/models/block/wheat_stage7* /tmp/
+		mv ./assets/minecraft/blockstates/wheat.json /tmp/
 	else
 		cp /tmp/spruce_leaves.json ./assets/minecraft/blockstates/spruce_leaves.json
+		mv /tmp/wheat_stage7* ./assets/minecraft/models/block/
+		mv /tmp/wheat.json ./assets/minecraft/blockstates/
 	fi
 }
 
